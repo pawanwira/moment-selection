@@ -6,8 +6,216 @@ import argparse
 from typing import List, Dict, Any
 import openai
 from openai import OpenAI
+from pydantic import BaseModel, Field
 
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+# Initialize client only when needed
+client = None
+
+def get_client():
+    global client
+    if client is None:
+        client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+    return client
+
+
+# Pydantic Models for Structured Output
+class ExemplarMoment(BaseModel):
+    instance_id: str
+    quote: str
+    post_quote_description: str
+
+
+class ExemplarMomentsWithRationale(BaseModel):
+    exemplars: List[ExemplarMoment] = Field(min_items=0, max_items=3)
+    rationale: str
+
+
+class OTRMoments(BaseModel):
+    otr: ExemplarMomentsWithRationale
+    oeq: ExemplarMomentsWithRationale
+    press: ExemplarMomentsWithRationale
+    wait_time: ExemplarMomentsWithRationale
+
+
+class PraiseMoments(BaseModel):
+    praise: ExemplarMomentsWithRationale
+    academic_specific_praise: ExemplarMomentsWithRationale
+    behavior_specific_praise: ExemplarMomentsWithRationale
+
+
+def get_openai_LLM_response(generate_prompt_fn, args, LLM_model_name, temperature, response_format = None, stop_sequences = None):
+    """
+    Given a function that generates the prompt to the LLM (generate_prompt_fn), a list of arguments for that function (args), the LLM model name, the temperature value, the LLM response format and the stop sequences,
+    this function pings the Open AI (compatible with openai version 1.52.2) LLM and returns the response.
+    """
+    from airflow.exceptions import AirflowException
+    from airflow.models.variable import Variable
+    from openai import OpenAI
+
+    # set timeout per openai call.
+    client = OpenAI(api_key=Variable.get("OPEN_AI_API_KEY"), timeout=float(Variable.get("OPEN_AI_CALL_TIMEOUT", 120.0)))
+    
+    kwargs = {
+        "messages": generate_prompt_fn(*args),
+        "model": LLM_model_name,
+        "temperature": temperature
+        }
+
+    if response_format is not None:
+        kwargs["response_format"] = response_format
+    if stop_sequences is not None:
+        kwargs["stop"] = stop_sequences
+
+    # try 2 times in case a call fails
+    num_tries = 2
+    num_tries = max(1, num_tries)
+    exceptions = []
+    for i in range(num_tries):
+        if i > 0:
+            print(f"Retry {i}...")
+        try:
+            response = get_client().beta.chat.completions.parse(**kwargs)
+            break
+        except Exception as e:
+            print(f"OpenAI exception: {e}")
+            exceptions.append(e)
+
+    if len(exceptions) == num_tries:
+        raise AirflowException(exceptions[-1])
+    
+    return response
+
+
+def generate_llm_prompt(system_prompt, user_prompt, assistant_prompt=None):
+    """Generate LLM prompt following Airflow pattern."""
+    prompts = [{
+        "role": "system",
+        "content": system_prompt
+    }, {
+        "role": "user", 
+        "content": user_prompt
+    }]
+    if assistant_prompt:
+        prompts.append({
+            "role": "assistant",
+            "content": assistant_prompt
+        })
+    return prompts
+
+
+def select_exemplary_otr_moments(transcript: str, model: str = "gpt-5", temperature: float = 0.1) -> OTRMoments:
+    """Select exemplary OTR moments using structured output."""
+    system_prompt = """You are an expert educator reviewing a classroom transcript. The transcript is labeled with the following teaching practices: Giving students opportunities to respond, Asking open-ended questions, Pressing students to explain, and Waiting after asking a question. Your goal is to choose the top 3 exemplar moments for each of the 4 teaching practices to surface to teachers in a lesson report.
+
+Transcript format:
+- Each speaker's turn is shown as SPEAKER: utterance
+- Teaching practice instance annotations appear below relevant turns as:   - INSTANCE #{instance id} [practice label(s)]: "utterance within turn"
+- [speaker talk for X seconds] indicates untranscribed speech
+- When selecting exemplar moments for a specific practice, consider all instances that contain that practice label in their brackets
+
+Teaching practice definitions:
+
+Give students opportunities to respond (OTR):
+When teacher asks students to verbally respond to a prompt or question.
+Frequently giving your students opportunities to respond leads to more engaged students and fewer disruptions. It also gives you more chances to check for understanding.
+
+Ask open-ended questions (OEQ):
+Open-ended questions have many acceptable responses, unlike closed-ended questions which have a single correct answer.
+Open-ended questions create more opportunities for students to talk, express thoughts in detail,  think critically, and engage in richer classroom discussions.
+
+Press students to explain (PRESS):
+When teacher asks a student to explain their thought process.
+This highly effective practice helps students develop deeper conceptual understanding and better communication skills. It also helps you better assess their understanding and point of view.
+
+Wait after asking a question (WAIT TIME):
+Waiting at least 2.5 seconds after asking students to respond to a question.
+This highly effective practice gives students time to organize their thoughts. It also gives a diversity of students the chance to respond, rather than just the first student to raise their hand.
+
+Instructions:
+1. Review all instances of each teaching practice (OTR, OEQ, PRESS, WAIT TIME) with context.
+2. For each teaching practice, carefully select 3 moments that best exemplify that teaching practice (based on the definitions above), optimizing for the following dimensions:
+    - Pedagogical impact: Does the moment demonstrate clear educational value and impact on students?
+    - Diversity & range: Do the 3 examples show different contexts, approaches, linguistic variety, and interactions with students?
+    - Relevance to learning: How well does it connect to the lesson content and student learning?
+    - Substance & depth: Does it provide meaningful content for teacher reflection (avoiding overly brief examples)?
+    - Linguistic richness: Ideally, the selected utterance should be linguistically rich and demonstrate thoughtful use of language
+    - (OEQ only): Does it involve high cognitive demand? A high cognitive level question asks students to do any of the following: explain, compare, assess, classify, interpret, infer, hypothesize, or synthesize. A high cognitive level question is NOT one which merely asks students for a report or recitation of facts, it is NOT a question that asks students to merely recall, recite, recognize, match, quote, report, label, list, memorize or identify something.
+    Note: If there are less than 3 instances of a teaching practice, select all available instances.
+3. For each selected moment, provide:
+    - Quote: the exact teaching practice instance quote.
+    - Instance ID: The number after the # symbol corresponding to that teaching practice you're selecting the exemplar for (e.g., from "OTR #1" the instance ID is "1", from "OEQ #2" the instance ID is "2").
+    - Post-quote description (1 complete sentence) explaining how it connects to lesson/student learning. Note: This description will be surfaced to the teacher whose recording is being analyzed to provide them with more context about the moment highlighted.
+4. For each teaching practice type, provide a rationale explaining why the 3 moments, taken together, give a strong, diverse picture of that teaching practice. Base your rationale on the selection dimensions listed above.
+
+You must respond with a valid JSON object that exactly matches the required schema. Do not include any text outside the JSON structure. Each "exemplars" array must contain exactly 3 items (or fewer if there are fewer than 3 instances available)."""
+
+    user_prompt = f"Analyze this classroom transcript and select exemplar moments for each teaching practice:\n\n{transcript}"
+    assistant_prompt = None
+    
+    response = get_openai_LLM_response(
+        generate_prompt_fn=generate_llm_prompt,
+        args=[system_prompt, user_prompt, assistant_prompt],
+        LLM_model_name=model,
+        temperature=temperature,
+        response_format=OTRMoments
+    )
+    
+    return response.choices[0].message.parsed
+
+
+def select_exemplary_praise_moments(transcript: str, model: str = "gpt-5", temperature: float = 0.1) -> PraiseMoments:
+    """Select exemplary praise moments using structured output."""
+    system_prompt = """You are an expert educator reviewing a classroom transcript. The transcript is labeled with praise practices: Praise students, Give academic-specific praise, and Give behavior-specific praise. Your task is to select the top 3 exemplar moments for each of the 3 praise categories to surface to teachers in a lesson report.
+
+Transcript format:
+- Each speaker's turn is shown as SPEAKER: utterance
+- Praise instance annotations appear below relevant turns as:   - INSTANCE #{instance id} [practice label(s)]: "utterance within turn"
+- [speaker talk for X seconds] indicates untranscribed speech
+- When selecting exemplar moments for a specific practice, consider all instances that contain that practice label in their brackets
+
+Praise definitions:
+
+Praise students (PRAISE):
+Positively acknowledging students with both general and specific praise.
+Praise creates a positive classroom culture and encourages students to repeat expected behaviors.
+
+Give academic-specific praise (ACADEMIC PRAISE):
+Positively acknowledging academic thinking, effort, process, or contribution.
+This highly effective practice helps create a positive classroom culture, encourages participation, and promotes effective academic strategies.
+
+Give behavior-specific praise (BEHAVIOR PRAISE):
+Positively acknowledging or narrating behaviors that align with classroom norms.
+This highly effective practice helps create a positive classroom culture and encourages students to repeat expected behaviors.
+
+Instructions:
+1. Review all instances of each praise category (PRAISE, ACADEMIC PRAISE, BEHAVIOR PRAISE) with context.
+2. For each praise category, carefully select 3 moments that best exemplify that category (based on the definitions above), optimizing for the following dimensions:
+    - Pedagogical impact: Does the moment demonstrate clear educational value and impact on students?
+    - Diversity & range: Do the 3 examples show different contexts, approaches, linguistic variety, and interactions with students?
+    - Substance & depth: Does it provide meaningful content for teacher reflection (avoiding overly brief examples)?
+    - Linguistic richness: Ideally, the selected utterance should be linguistically rich and demonstrate thoughtful use of language
+    - Specificity: Does it demonstrate high specificity in targeting academic effort or behavior?
+    Note: If there are less than 3 instances of a praise category, select all available instances.
+3. For each selected moment, provide:
+    - Quote: the exact praise instance quote.
+    - Instance ID: The number after the # symbol corresponding to that teaching practice you're selecting the exemplar for (e.g., from "PRAISE #1" the instance ID is "1", from "ACADEMIC PRAISE #2" the instance ID is "2").
+    - Post-quote description (1 complete sentence) explaining how it supports student learning/engagement. Note: This description will be surfaced to the teacher whose recording is being analyzed to provide them with more context about the moment highlighted.
+4. For each praise category, provide a rationale explaining why the 3 moments, taken together, give a strong, diverse picture of that praise category. Base your rationale on the selection dimensions listed above.
+
+You must respond with a valid JSON object that exactly matches the required schema. Do not include any text outside the JSON structure. Each "exemplars" array must contain exactly 3 items (or fewer if there are fewer than 3 instances available)."""
+
+    user_prompt = f"Analyze this classroom transcript and select exemplar moments for each praise category:\n\n{transcript}"
+    assistant_prompt = None
+    
+    response = get_openai_LLM_response(
+        generate_prompt_fn=generate_llm_prompt,
+        args=[system_prompt, user_prompt, assistant_prompt],
+        LLM_model_name=model,
+        temperature=temperature,
+        response_format=PraiseMoments
+    )
+    
+    return response.choices[0].message.parsed
 
 
 def format_transcript(csv_file_path: str, prompt_type: str = "all") -> str:
@@ -201,27 +409,6 @@ def save_model_output(report_id: str, prompt_name: str, model_output: Dict[Any, 
     except Exception as e:
         return f"Error saving model output: {str(e)}"
 
-def get_available_prompts() -> List[str]:
-    """
-    Get list of available prompt names from the prompts/system/ directory.
-    
-    Returns:
-        List of prompt names (without .txt extension)
-    """
-    try:
-        # Use absolute path to ensure we find the prompts directory
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        prompts_dir = os.path.join(base_dir, "prompts", "system")
-        
-        if not os.path.exists(prompts_dir):
-            return []
-        
-        prompt_files = [f for f in os.listdir(prompts_dir) if f.endswith('.txt')]
-        return [f.replace('.txt', '') for f in prompt_files]
-        
-    except Exception as e:
-        print(f"Error reading prompts directory: {str(e)}")
-        return []
 
 def get_all_report_ids() -> List[str]:
     """
@@ -250,43 +437,13 @@ def get_all_report_ids() -> List[str]:
         print(f"Error scanning transcripts directory: {str(e)}")
         return []
 
-def load_prompt(prompt_name: str, prompt_type: str = "system") -> str:
-    """
-    Load a prompt from the prompts directory.
-    
-    Args:
-        prompt_name: Name of the prompt (without .txt extension)
-        prompt_type: Type of prompt ("system" or "user")
-        
-    Returns:
-        The prompt content as a string
-    """
-    try:
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        prompt_path = os.path.join(base_dir, "prompts", prompt_type, f"{prompt_name}.txt")
-        
-        with open(prompt_path, 'r', encoding='utf-8') as f:
-            return f.read()
-    except Exception as e:
-        return f"Error loading prompt: {str(e)}"
 
-def create_user_prompt(transcript: str, prompt_name: str) -> str:
-    """
-    Create a user prompt by loading the user prompt file and replacing the transcript placeholder.
-    
-    Args:
-        transcript: The formatted transcript to include
-        prompt_name: Name of the prompt (e.g., "otr", "praise")
-        
-    Returns:
-        User prompt with transcript included
-    """
-    user_prompt_template = load_prompt(prompt_name, "user")
-    return user_prompt_template.format(transcript=transcript)
 
-def process_transcript_with_prompt(csv_file_path: str, prompt_name: str, report_id: str, model: str = "gpt-5", overwrite: bool = False) -> Dict[str, Any]:
+
+
+def process_transcript(csv_file_path: str, prompt_name: str, report_id: str, model: str = "gpt-5", overwrite: bool = False) -> Dict[str, Any]:
     """
-    Process a transcript with a specific prompt using OpenAI API and save the results.
+    Process a transcript using structured output with Pydantic models.
     
     Args:
         csv_file_path: Path to the CSV transcript file
@@ -312,48 +469,20 @@ def process_transcript_with_prompt(csv_file_path: str, prompt_name: str, report_
                 "message": f"Result file already exists: {result_file}. Use --overwrite to regenerate."
             }
         
-        # Load the system prompt
-        system_prompt = load_prompt(prompt_name, "system")
-        
         # Format the transcript based on prompt type
         prompt_type = "otr" if prompt_name == "otr" else "praise" if prompt_name == "praise" else "all"
         formatted_transcript = format_transcript(csv_file_path, prompt_type)
         
-        # Create user prompt with transcript
-        user_prompt = create_user_prompt(formatted_transcript, prompt_name)
+        # Analyze using structured output
+        if prompt_name == "otr":
+            analysis_result = select_exemplary_otr_moments(formatted_transcript, model=model)
+        elif prompt_name == "praise":
+            analysis_result = select_exemplary_praise_moments(formatted_transcript, model=model)
+        else:
+            raise ValueError(f"Unknown prompt name: {prompt_name}")
         
-        # Call OpenAI API
-        response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ]
-        )
-        
-        # Extract the response content
-        model_response = response.choices[0].message.content
-        
-        # Extract usage information for cost tracking
-        usage = response.usage
-        cost_info = {
-            "prompt_tokens": usage.prompt_tokens if usage else None,
-            "completion_tokens": usage.completion_tokens if usage else None,
-            "total_tokens": usage.total_tokens if usage else None
-        }
-        
-        # Try to parse JSON response
-        try:
-            model_output = json.loads(model_response)
-        except json.JSONDecodeError:
-            # If JSON parsing fails, wrap the response
-            model_output = {
-                "prompt_used": prompt_name,
-                "transcript_id": report_id,
-                "processing_timestamp": pd.Timestamp.now().isoformat(),
-                "raw_response": model_response,
-                "error": "Failed to parse JSON response"
-            }
+        # Convert to dictionary for JSON serialization
+        model_output = analysis_result.model_dump()
         
         # Add metadata
         model_output.update({
@@ -362,7 +491,6 @@ def process_transcript_with_prompt(csv_file_path: str, prompt_name: str, report_
             "processing_timestamp": pd.Timestamp.now().isoformat(),
             "model_used": model,
             "transcript_length": len(formatted_transcript),
-            "api_usage": cost_info
         })
         
         # Save the model output
@@ -413,13 +541,9 @@ if __name__ == "__main__":
             exit(1)
         print(f"Found {len(report_ids)} reports: {', '.join(report_ids)}")
     
-    # Get available prompts
-    available_prompts = get_available_prompts()
-    if not available_prompts:
-        print("ERROR: No prompts found in prompts/system/ directory")
-        exit(1)
-    
-    print(f"Available prompts: {', '.join(available_prompts)}")
+    # Process OTR and praise prompts
+    available_prompts = ["otr", "praise"]
+    print(f"Processing prompts: {', '.join(available_prompts)}")
     
     # Process each report
     for report_id in report_ids:
@@ -442,7 +566,7 @@ if __name__ == "__main__":
         # Process transcript with each available prompt
         for prompt_name in available_prompts:
             print(f"\n--- Processing {prompt_name} prompt for {report_id} ---")
-            result = process_transcript_with_prompt(csv_path, prompt_name, report_id, model=args.model, overwrite=args.overwrite)
+            result = process_transcript(csv_path, prompt_name, report_id, model=args.model, overwrite=args.overwrite)
             
             if result["success"]:
                 if result.get("skipped"):
