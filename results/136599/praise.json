@@ -1,0 +1,71 @@
+{
+  "praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "During whole-class discussion on labeling angles, a student offered an answer for the angle at the top of the circle after several peers had suggested alternatives.",
+        "instance_id": "3",
+        "quote": "All right, for right now I like that.",
+        "following_context_summary": "The teacher narrows the focus to positive angle measures and transitions to ask for the equivalent in radians, keeping students engaged in the sequence.",
+        "post_quote_description": "This affirmation validates a student contribution while smoothly steering the class toward the current learning target, sustaining participation."
+      },
+      {
+        "preceding_context_summary": "In a small-group exchange about converting between degrees and radians, students floated tentative ideas about the correct operation to use.",
+        "instance_id": "4",
+        "quote": "That's a good guess.",
+        "following_context_summary": "The teacher prompts students to recall the first step of the process, encouraging them to reason through the conversion method out loud.",
+        "post_quote_description": "By praising a tentative idea, the teacher normalizes productive risk-taking and keeps students engaged in the reasoning process."
+      },
+      {
+        "preceding_context_summary": "A student identified the sign changes for coordinates in quadrant II while the class discussed how signs vary by quadrant.",
+        "instance_id": "9",
+        "quote": "That is exactly right.",
+        "following_context_summary": "The teacher extends the reasoning to the remaining quadrants, reinforcing the pattern of signs and inviting continued contributions.",
+        "post_quote_description": "This precise affirmation reinforces correct conceptual language, motivating students to apply the idea across contexts."
+      }
+    ],
+    "rationale": "Together these three exemplars showcase general praise used to validate partially correct thinking, encourage risk-taking, and affirm precise reasoning. They occur across whole-class and small-group settings and use varied language (“I like that,” “good guess,” “exactly right”), offering teachers a diverse, substantive picture of how praise can sustain momentum and reinforce understanding."
+  },
+  "academic_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "After deriving 150 degrees and reducing to 5π/6, several students had been practicing degree-to-radian conversions and simplifying fractions.",
+        "instance_id": "1",
+        "quote": "And I saw a lot of people converting.",
+        "following_context_summary": "Students continue suggesting angles and conversions (e.g., 330 degrees), and the teacher keeps the class working through additional examples.",
+        "post_quote_description": "This acknowledges a specific mathematical process students are using, reinforcing the procedural strategy the class needs to master."
+      },
+      {
+        "preceding_context_summary": "Students discussed forms like √2/2 and when to rationalize denominators, posing questions about representation and expectations.",
+        "instance_id": "2",
+        "quote": "Great, great question.",
+        "following_context_summary": "The teacher addresses the question and transitions into further triangle-based reasoning, keeping inquiry central to the lesson flow.",
+        "post_quote_description": "By explicitly praising a thoughtful question, the teacher elevates academic inquiry and signals that rigorous clarification advances learning."
+      },
+      {
+        "preceding_context_summary": "While computing trigonometric ratios from the 30-60-90 triangle, the teacher asked a student to identify the opposite side for 30 degrees.",
+        "instance_id": "3",
+        "quote": "Good. One half, right?",
+        "following_context_summary": "The student then identifies the hypotenuse, and the class confirms sine(30) as 1/2 before connecting the result to the unit circle coordinates.",
+        "post_quote_description": "This targeted praise pins the compliment to a precise mathematical identification, reinforcing correct use of triangle relationships."
+      }
+    ],
+    "rationale": "These three moments each highlight specific academic thinking: recognizing a conversion process, posing a clarifying mathematical question, and correctly identifying a triangle side to compute a trig ratio. They span whole-class and individual interactions and use concise, content-specific language that directly promotes mathematical practices and conceptual understanding."
+  },
+  "behavior_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Following prompts to suggest how to convert from radians to degrees, students were attentive and looking toward the teacher but hesitant to answer.",
+        "instance_id": "1",
+        "quote": "Anyone can say it because I see all of you are looking at me over here.",
+        "following_context_summary": "A student immediately responds with “180 over PI,” and the teacher confirms and continues the explanation.",
+        "post_quote_description": "The teacher explicitly acknowledges on-task behavior (attentive body orientation), using it to invite participation and increase whole-class engagement."
+      }
+    ],
+    "rationale": "This example clearly narrates and praises a concrete on-task behavior—whole-class attention—then links it to active participation, modeling how specific behavior praise can improve engagement and momentum even when students are initially hesitant."
+  },
+  "prompt_used": "praise",
+  "transcript_id": "136599",
+  "processing_timestamp": "2025-09-17T23:52:40.695445",
+  "model_used": "gpt-5",
+  "transcript_length": 85432
+}

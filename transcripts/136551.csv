@@ -1,0 +1,1019 @@
+speaker,start_time,end_time,utterance,duration_in_seconds,start_time_in_seconds,end_time_in_seconds,bubble_idx,opportunities_to_respond,wait_times,presses_for_explanation,open_ended_questions,praises,behavior_specific_praises,academic_specific_praises,opportunities_to_respond_instance_id,wait_times_instance_id,presses_for_explanation_instance_id,open_ended_questions_instance_id,praises_instance_id,behavior_specific_praises_instance_id,academic_specific_praises_instance_id
+teacher,0m 0s,0m 0s,,0.88,0.0,0.88,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 0s,0m 1s,Okay.,0.36,0.88,1.24,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 1s,0m 3s,Raise your hand when you have your sheet out.,1.8,1.24,3.04,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 3s,0m 3s,,0.24,3.04,3.28,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 3s,0m 6s,It is cloud breaking apart figures to find volume.,2.96,3.28,6.24,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 6s,0m 6s,,0.56,6.24,6.8,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 6s,0m 7s,It is green.,0.88,6.8,7.68,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 7s,0m 8s,,0.88,7.68,8.56,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 8s,0m 14s,"Okay, all you need is a pencil and a printed piece of paper today, so you can stay in your seat for just a second.",5.72,8.56,14.28,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 14s,0m 16s,Thank you for remembering what we did yesterday.,1.72,14.28,16.0,0,,,,,1.0,,1.0,0,0,0,0,1,0,1
+teacher,0m 16s,0m 16s,,0.24,16.0,16.24,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 16s,0m 16s,"Lucy, Ms.",0.64,16.24,16.88,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 16s,0m 18s,Erin has your green paper.,1.36,16.88,18.24,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 18s,0m 18s,,0.421,18.24,18.661,0,,,,,,,,0,0,0,0,0,0,0
+silence,0m 18s,0m 20s,,1.979,18.661,20.64,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 20s,0m 21s,Thank you.,0.64,20.64,21.28,2,,,,,,,,0,0,0,0,0,0,0
+student,0m 21s,0m 22s,[Untranscribed],1.04,21.28,22.32,3,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 22s,0m 23s,"All right, Amy, have what you need.",1.52,22.32,23.84,4,,,,,,,,0,0,0,0,0,0,0
+student,0m 23s,0m 25s,[Untranscribed],1.28,23.84,25.12,5,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 25s,0m 25s,Green paper.,0.68,25.12,25.8,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 25s,0m 27s,We put in our math book yesterday.,1.48,25.8,27.28,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 27s,0m 28s,,0.77,27.28,28.05,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 28s,0m 30s,Breaking apart figures to find volume.,2.24,28.05,30.29,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 30s,0m 31s,,1.6,30.29,31.89,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 31s,0m 35s,"Okay, for a second, I'd like to have you guys talk with your neighbor.",3.36,31.89,35.25,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 35s,0m 35s,,0.32,35.25,35.57,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 35s,0m 36s,What are we learning this week?,1.4,35.57,36.97,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 36s,0m 38s,What are we trying to accomplish?,1.4,36.97,38.37,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 38s,0m 38s,,0.16,38.37,38.53,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 38s,0m 39s,Talk with your neighbor.,1.0,38.53,39.53,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 39s,0m 40s,What is our goal this week?,1.16,39.53,40.69,6,1.0,,,1.0,,,,1,0,0,1,0,0,0
+teacher,0m 40s,0m 42s,,2.203,40.69,42.893,6,,,,,,,,0,0,0,0,0,0,0
+group,0m 42s,0m 47s,[Untranscribed],4.607,42.893,47.5,7,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 47s,0m 50s,[Untranscribed],2.5,47.5,50.0,8,,,,,,,,0,0,0,0,0,0,0
+student,0m 50s,0m 51s,[Untranscribed],1.5,50.0,51.5,9,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 51s,0m 52s,[Untranscribed],1.063,51.5,52.563,10,,,,,,,,0,0,0,0,0,0,0
+student,0m 52s,0m 54s,[Untranscribed],1.586,52.563,54.149,11,,,,,,,,0,0,0,0,0,0,0
+silence,0m 54s,0m 57s,,2.951,54.149,57.1,12,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 57s,0m 57s,Okay.,0.4,57.1,57.5,13,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 57s,0m 58s,,0.56,57.5,58.06,13,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 58s,0m 58s,What are we trying.,0.84,58.06,58.9,13,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 58s,0m 59s,What are we learning this week?,1.08,58.9,59.98,13,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 59s,1m 0s,Ready?,0.28,59.98,60.26,13,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 0s,1m 1s,I'm going to go stick.,1.16,60.26,61.42,13,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 1s,1m 2s,,0.64,61.42,62.06,13,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 2s,1m 3s,"Adeline, what's our goal?",1.76,62.06,63.82,13,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 3s,1m 5s,What are we trying to learn this week?,1.28,63.82,65.1,13,1.0,,,1.0,,,,2,0,0,2,0,0,0
+silence,1m 5s,1m 7s,,2.16,65.1,67.26,14,,,,,,,,0,0,0,0,0,0,0
+student,1m 7s,1m 11s,We're trying to learn how to break up our unregular shapes and find the volume.,4.72,67.26,71.98,15,,,,,,,,0,0,0,0,0,0,0
+student,1m 11s,1m 12s,,0.08,71.98,72.06,15,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 12s,1m 12s,Nice.,0.4,72.06,72.46,16,,,,,1.0,,,0,0,0,0,2,0,0
+teacher,1m 12s,1m 13s,Okay.,0.56,72.46,73.02,16,,,,,1.0,,,0,0,0,0,2,0,0
+teacher,1m 13s,1m 13s,,0.16,73.02,73.18,16,,,,,1.0,,,0,0,0,0,2,0,0
+teacher,1m 13s,1m 15s,"All right, let's add to that.",2.0,73.18,75.18,16,,,,,1.0,,,0,0,0,0,2,0,0
+teacher,1m 15s,1m 15s,,0.16,75.18,75.34,16,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 15s,1m 18s,Why is one and two easier than three?,3.2,75.34,78.54,16,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 18s,1m 19s,,0.59,78.54,79.13,16,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 19s,1m 20s,Talk with your neighbor.,0.88,79.13,80.01,16,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 20s,1m 20s,,0.08,80.01,80.09,16,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 20s,1m 22s,Why is one and two easier Than three?,2.32,80.09,82.41,16,1.0,,,1.0,,,,3,0,0,3,0,0,0
+teacher,1m 22s,1m 23s,On our problem.,0.64,82.41,83.05,16,1.0,,,1.0,,,,3,0,0,3,0,0,0
+teacher,1m 23s,1m 23s,,0.72,83.05,83.77,16,,,,,,,,0,0,0,0,0,0,0
+student,1m 23s,1m 25s,Why is one and two easier Thane?,2.08,83.77,85.85,17,,,,,,,,0,0,0,0,0,0,0
+student,1m 25s,1m 27s,,1.661,85.85,87.511,17,,,,,,,,0,0,0,0,0,0,0
+group,1m 27s,1m 33s,[Untranscribed],6.339,87.511,93.85,18,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 33s,1m 36s,"Okay, Eli, just so like we were talking about, we.",2.48,93.85,96.33,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 36s,1m 36s,Sure.,0.24,96.33,96.57,19,1.0,,1.0,1.0,,,,4,0,1,4,0,0,0
+teacher,1m 36s,1m 38s,Why one and two is easier than three?,1.6,96.57,98.17,19,1.0,,1.0,1.0,,,,4,0,1,4,0,0,0
+teacher,1m 38s,1m 40s,,2.72,98.17,100.89,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 40s,1m 41s,One second.,0.52,100.89,101.41,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 41s,1m 42s,"Sorry, sorry, I can't hear.",1.24,101.41,102.65,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 42s,1m 43s,I can't hear you.,0.6,102.65,103.25,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 43s,1m 43s,Like.,0.2,103.25,103.45,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 43s,1m 43s,Thank you.,0.32,103.45,103.77,19,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 43s,1m 44s,I love your competition.,0.92,103.77,104.69,19,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,1m 44s,1m 45s,Say it one more time.,0.8,104.69,105.49,19,1.0,,,,,,,5,0,0,0,0,0,0
+student,1m 45s,1m 48s,You don't have to break the shape into two different shapes.,3.08,105.49,108.57,20,,,,,,,,0,0,0,0,0,0,0
+student,1m 48s,1m 48s,,0.19,108.57,108.76,20,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 48s,1m 49s,Yes.,0.32,108.76,109.08,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 49s,1m 50s,It's not an irregular shape.,1.56,109.08,110.64,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 50s,1m 50s,Right.,0.28,110.64,110.92,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 50s,1m 51s,,0.24,110.92,111.16,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 51s,1m 52s,So it's easier to see.,1.04,111.16,112.2,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 52s,1m 54s,It's easier to see the length and width and the height with it.,2.76,112.2,114.96,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 54s,1m 56s,"Okay, talk about your neighbor again.",1.64,114.96,116.6,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 56s,1m 56s,,0.16,116.6,116.76,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 56s,1m 59s,What's the actual formula that we write for volume?,3.04,116.76,119.8,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 59s,1m 59s,,0.08,119.8,119.88,21,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 59s,2m 2s,There's a certain specific volume formula.,3.08,119.88,122.96,21,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 2s,2m 3s,What do we use?,0.84,122.96,123.8,21,1.0,,,,,,,6,0,0,0,0,0,0
+teacher,2m 3s,2m 5s,,1.612,123.8,125.412,21,,,,,,,,0,0,0,0,0,0,0
+student,2m 5s,2m 10s,[Untranscribed],5.508,125.412,130.92,22,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 10s,2m 13s,"Brianne, I love to hear you and Dixie talking.",2.4,130.92,133.32,23,,,,,1.0,1.0,,0,0,0,0,4,1,0
+teacher,2m 13s,2m 13s,,0.08,133.32,133.4,23,,,,,1.0,1.0,,0,0,0,0,4,1,0
+teacher,2m 13s,2m 15s,"Jesus, I'd love to hear you and Charlie talking.",2.12,133.4,135.52,23,,,,,1.0,1.0,,0,0,0,0,4,1,0
+teacher,2m 15s,2m 16s,"Aaron, talk to.",0.88,135.52,136.4,23,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 16s,2m 16s,Thank you.,0.56,136.4,136.96,23,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 16s,2m 17s,Talk to Audrey.,0.92,136.96,137.88,23,,,,,,,,0,0,0,0,0,0,0
+student,2m 17s,2m 19s,[Untranscribed],1.623,137.88,139.503,24,,,,,,,,0,0,0,0,0,0,0
+silence,2m 19s,2m 22s,,3.004,139.503,142.507,25,,,,,,,,0,0,0,0,0,0,0
+student,2m 22s,2m 24s,[Untranscribed],2.313,142.507,144.82,26,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 24s,2m 25s,Okay.,0.44,144.82,145.26,27,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 25s,2m 27s,"Dixie, grab that mic.",1.88,145.26,147.14,27,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 27s,2m 27s,,0.64,147.14,147.78,27,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 27s,2m 28s,What is the.,0.72,147.78,148.5,27,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 28s,2m 30s,What is the official formula for volume?,2.32,148.5,150.82,27,1.0,,,,,,,7,0,0,0,0,0,0
+teacher,2m 30s,2m 33s,,2.39,150.82,153.21,27,,,,,,,,0,0,0,0,0,0,0
+student,2m 33s,2m 33s,,0.33,153.21,153.54,28,,,,,,,,0,0,0,0,0,0,0
+student,2m 33s,2m 36s,Width times height times length.,2.56,153.54,156.1,28,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 36s,2m 36s,"Great, I love that.",0.8,156.1,156.9,29,,,,,1.0,,1.0,0,0,0,0,5,0,2
+teacher,2m 36s,2m 38s,Can you start with your base?,1.6,156.9,158.5,29,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 38s,2m 39s,So let's start with.,0.96,158.5,159.46,29,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 39s,2m 39s,,0.4,159.46,159.86,29,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 39s,2m 40s,Let's help Dixie with that.,1.12,159.86,160.98,29,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 40s,2m 42s,What is the formula for volume?,1.52,160.98,162.5,29,1.0,,,,,,,8,0,0,0,0,0,0
+teacher,2m 42s,2m 43s,,0.56,162.5,163.06,29,,,,,,,,0,0,0,0,0,0,0
+student,2m 43s,2m 46s,Length times width times height.,3.04,163.06,166.1,30,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 46s,2m 46s,Good.,0.32,166.1,166.42,31,,,,,1.0,,,0,0,0,0,6,0,0
+teacher,2m 46s,2m 46s,Cdc.,0.48,166.42,166.9,31,,,,,1.0,,,0,0,0,0,6,0,0
+student,2m 46s,2m 48s,We just mixed up a little bit.,1.12,166.9,168.02,32,,,,,,,,0,0,0,0,0,0,0
+student,2m 48s,2m 48s,,0.15,168.02,168.17,32,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 48s,2m 48s,And then.,0.24,168.17,168.41,33,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 48s,2m 49s,Why do we sometimes say base?,1.56,168.41,169.97,33,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 49s,2m 50s,Talk to your neighbor.,0.56,169.97,170.53,33,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 50s,2m 54s,Why will they say sometimes base is the.,4.36,170.53,174.89,33,1.0,,,1.0,,,,9,0,0,5,0,0,0
+group,2m 54s,2m 58s,[Untranscribed],3.76,174.89,178.65,34,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 58s,3m 0s,"Okay, sometimes.",2.16,178.65,180.81,35,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 0s,3m 1s,,0.32,180.81,181.13,35,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 1s,3m 2s,Why would we say base?,1.28,181.13,182.41,35,1.0,,1.0,1.0,,,,10,0,2,6,0,0,0
+student,3m 2s,3m 3s,,1.04,182.41,183.45,36,,,,,,,,0,0,0,0,0,0,0
+student,3m 3s,3m 8s,Because the bottom of the shape is like the base of it.,4.84,183.45,188.29,36,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 8s,3m 8s,And the.,0.52,188.29,188.81,37,,,,,,,,0,0,0,0,0,0,0
+student,3m 8s,3m 9s,,1.12,188.81,189.93,38,,,,,,,,0,0,0,0,0,0,0
+student,3m 9s,3m 10s,It.,0.4,189.93,190.33,38,,,,,,,,0,0,0,0,0,0,0
+student,3m 10s,3m 10s,,0.08,190.33,190.41,38,,,,,,,,0,0,0,0,0,0,0
+student,3m 10s,3m 14s,It also kind of just makes the problem easier if you.,3.84,190.41,194.25,38,,,,,,,,0,0,0,0,0,0,0
+student,3m 14s,3m 16s,,1.8,194.25,196.05,38,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 16s,3m 16s,Okay.,0.32,196.05,196.37,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 16s,3m 17s,Just a quicker way.,0.88,196.37,197.25,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 17s,3m 17s,,0.4,197.25,197.65,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 17s,3m 19s,"Our width, our length and our width combined.",1.96,197.65,199.61,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 19s,3m 19s,Thank you.,0.32,199.61,199.93,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 19s,3m 22s,"So, all right, this is what we're going to do ready?",2.68,199.93,202.61,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 22s,3m 23s,,0.48,202.61,203.09,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 23s,3m 28s,Before we're going to solve number six as a partnership.,5.2,203.09,208.29,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 28s,3m 28s,,0.32,208.29,208.61,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 28s,3m 29s,Okay.,0.48,208.61,209.09,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 29s,3m 31s,And then we're going to come together and see what you got.,2.159,209.09,211.249,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 31s,3m 31s,,0.401,211.249,211.65,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 31s,3m 34s,"So right now, I liked it because it kind of reminded me of Utah.",3.28,211.65,214.93,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 34s,3m 35s,Yes.,0.4,214.93,215.33,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 35s,3m 35s,,0.24,215.33,215.57,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 35s,3m 36s,This has a taller height.,1.24,215.57,216.81,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 36s,3m 40s,"Okay, this is what I'd like to do first before we start this.",3.64,216.81,220.45,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 40s,3m 40s,,0.3,220.45,220.75,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 40s,3m 42s,How are you going to solve this?,1.28,220.75,222.03,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 42s,3m 42s,Talk with your neighbor.,0.76,222.03,222.79,39,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 42s,3m 45s,"If you had to teach this today, how are you going to solve it?",2.6,222.79,225.39,39,1.0,,1.0,1.0,,,,11,0,3,7,0,0,0
+teacher,3m 45s,3m 46s,Talk with your neighbor for a second.,1.28,225.39,226.67,39,1.0,,1.0,1.0,,,,11,0,3,7,0,0,0
+teacher,3m 46s,3m 47s,,0.72,226.67,227.39,39,1.0,,1.0,1.0,,,,11,0,3,7,0,0,0
+teacher,3m 47s,3m 48s,How are you going to solve this?,1.2,227.39,228.59,39,1.0,,1.0,1.0,,,,11,0,3,7,0,0,0
+group,3m 48s,3m 58s,[Untranscribed],9.918,228.59,238.508,40,,,,,,,,0,0,0,0,0,0,0
+silence,3m 58s,4m 0s,,1.772,238.508,240.28,41,,,,,,,,0,0,0,0,0,0,0
+student,4m 0s,4m 2s,[Untranscribed],2.228,240.28,242.508,42,,,,,,,,0,0,0,0,0,0,0
+silence,4m 2s,4m 4s,,1.991,242.508,244.499,43,,,,,,,,0,0,0,0,0,0,0
+student,4m 4s,4m 6s,[Untranscribed],1.611,244.499,246.11,44,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 6s,4m 9s,"Hey, Calvin, do you remember what we're going to do first?",3.2,246.11,249.31,45,1.0,,,,,,,12,0,0,0,0,0,0
+student,4m 9s,4m 11s,,1.8,249.31,251.11,46,,,,,,,,0,0,0,0,0,0,0
+student,4m 11s,4m 12s,Break up a shape.,1.12,251.11,252.23,46,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 12s,4m 12s,Yes.,0.48,252.23,252.71,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 12s,4m 13s,Did you guys hear Kelvin?,1.08,252.71,253.79,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 13s,4m 16s,"We're gonna break up the shapes, okay?",3.0,253.79,256.79,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 16s,4m 17s,,0.32,256.79,257.11,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 17s,4m 18s,So talk with your neighbor.,1.52,257.11,258.63,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 18s,4m 18s,,0.08,258.63,258.71,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 18s,4m 23s,Where are you gonna cut the shapes in or irregular shape into shapes that work for volume?,4.76,258.71,263.47,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 23s,4m 25s,We're trying to cut squares out.,1.64,263.47,265.11,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 25s,4m 27s,We're trying to cut rectangles out.,2.04,265.11,267.15,47,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 27s,4m 28s,Where are you gonna cut it?,0.88,267.15,268.03,47,1.0,,,1.0,,,,13,0,0,8,0,0,0
+teacher,4m 28s,4m 28s,Top with your neighbor.,0.92,268.03,268.95,47,1.0,,,1.0,,,,13,0,0,8,0,0,0
+teacher,4m 28s,4m 29s,,0.08,268.95,269.03,47,,,,,,,,0,0,0,0,0,0,0
+student,4m 29s,4m 35s,Where are you gonna.,6.59,269.03,275.62,48,,,,,,,,0,0,0,0,0,0,0
+student,4m 35s,4m 36s,,0.95,275.62,276.57,48,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 36s,4m 38s,Is there more than one way you can cut it?,2.0,276.57,278.57,49,1.0,,,,,,,14,0,0,0,0,0,0
+teacher,4m 38s,4m 39s,,0.72,278.57,279.29,49,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 39s,4m 39s,Yes.,0.44,279.29,279.73,49,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 39s,4m 40s,Okay.,0.6,279.73,280.33,49,,,,,,,,0,0,0,0,0,0,0
+student,4m 40s,4m 41s,[Untranscribed],1.6,280.33,281.93,50,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 41s,4m 43s,"Okay, Everybody ready?",1.56,281.93,283.49,51,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 43s,4m 43s,Cut.,0.36,283.49,283.85,51,,,,,,,,0,0,0,0,0,0,0
+student,4m 43s,4m 44s,[Untranscribed],1.04,283.85,284.89,52,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 44s,4m 47s,Where are you going to cut number six?,2.88,284.89,287.77,53,1.0,,,,,,,15,0,0,0,0,0,0
+student,4m 47s,4m 49s,[Untranscribed],2.0,287.77,289.77,54,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 49s,4m 51s,"Once you have cut your shape, give me a hand.",2.16,289.77,291.93,55,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 51s,4m 52s,,0.16,291.93,292.09,55,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 52s,4m 53s,"Once you've cut your shape, give me a hand.",1.84,292.09,293.93,55,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 53s,4m 54s,,0.88,293.93,294.81,55,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 54s,4m 58s,"Okay, Grant, will you come up and show us where you cut your shape?",3.76,294.81,298.57,55,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 58s,4m 58s,,0.03,298.57,298.6,55,,,,,,,,0,0,0,0,0,0,0
+silence,4m 58s,5m 5s,,6.46,298.6,305.06,56,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 5s,5m 6s,"And, Grant, pretend I haven't been here.",1.6,305.06,306.66,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 6s,5m 7s,I've been sick.,0.88,306.66,307.54,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 7s,5m 7s,,0.32,307.54,307.86,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 7s,5m 8s,So will you use.,0.92,307.86,308.78,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 8s,5m 10s,Will you please just tell us what you're doing?,1.88,308.78,310.66,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 10s,5m 11s,"No, we're on.",0.96,310.66,311.62,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 11s,5m 11s,,0.08,311.62,311.7,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 11s,5m 12s,We're on six.,0.8,311.7,312.5,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 12s,5m 13s,,0.64,312.5,313.14,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 13s,5m 13s,Six.,0.36,313.14,313.5,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 13s,5m 14s,We're on the weird.,1.32,313.5,314.82,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 14s,5m 16s,"Oh, I did five, so it's okay.",2.04,314.82,316.86,57,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 16s,5m 17s,Do six for me.,0.92,316.86,317.78,57,,,,,,,,0,0,0,0,0,0,0
+silence,5m 17s,5m 20s,,2.64,317.78,320.42,58,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 20s,5m 21s,"So, Grant, tell us what you're doing.",1.52,320.42,321.94,59,1.0,,1.0,1.0,,,,16,0,4,9,0,0,0
+teacher,5m 21s,5m 22s,,0.72,321.94,322.66,59,,,,,,,,0,0,0,0,0,0,0
+student,5m 22s,5m 26s,So I'm putting the shape into two cubes.,3.68,322.66,326.34,60,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 26s,5m 26s,Okay.,0.52,326.34,326.86,61,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 26s,5m 27s,So it's easy.,0.69,326.86,327.55,61,,,,,,,,0,0,0,0,0,0,0
+student,5m 27s,5m 32s,[Untranscribed],5.03,327.55,332.58,62,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 32s,5m 32s,Great.,0.24,332.58,332.82,63,,,,,1.0,,,0,0,0,0,7,0,0
+teacher,5m 32s,5m 35s,"Okay, so do you guys agree where Grant cut?",2.8,332.82,335.62,63,1.0,,,,1.0,,,17,0,0,0,7,0,0
+teacher,5m 35s,5m 36s,,0.8,335.62,336.42,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 36s,5m 36s,Yes.,0.48,336.42,336.9,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 36s,5m 36s,,0.08,336.9,336.98,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 36s,5m 38s,Who cut this way?,1.12,336.98,338.1,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 38s,5m 38s,,0.4,338.1,338.5,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 38s,5m 41s,"Okay, scoot back just a little bit.",2.8,338.5,341.3,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 41s,5m 41s,Thank you.,0.48,341.3,341.78,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 41s,5m 42s,Who cut this way?,1.12,341.78,342.9,63,1.0,,,1.0,,,,18,0,0,10,0,0,0
+teacher,5m 42s,5m 43s,,0.559,342.9,343.459,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 43s,5m 45s,Grant found that was the easiest way to cut.,1.681,343.459,345.14,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 45s,5m 45s,"Thank you, Grant.",0.56,345.14,345.7,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 45s,5m 46s,Thanks for being brave.,0.88,345.7,346.58,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 46s,5m 49s,"Okay, is there another way you could have cut this?",2.56,346.58,349.14,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 49s,5m 49s,,0.32,349.14,349.46,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 49s,5m 50s,Is there another way?,0.76,349.46,350.22,63,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 50s,5m 51s,"Okay, come show us some.",1.0,350.22,351.22,63,,,,,,,,0,0,0,0,0,0,0
+silence,5m 51s,5m 56s,,5.53,351.22,356.75,64,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 56s,5m 57s,Okay.,0.36,356.75,357.11,65,,,,,,,,0,0,0,0,0,0,0
+teacher,5m 57s,5m 57s,Be the teacher.,0.84,357.11,357.95,65,1.0,,1.0,1.0,,,,19,0,5,11,0,0,0
+teacher,5m 57s,5m 58s,,0.16,357.95,358.11,65,1.0,,1.0,1.0,,,,19,0,5,11,0,0,0
+teacher,5m 58s,5m 59s,Tell us what you're doing.,1.04,358.11,359.15,65,1.0,,1.0,1.0,,,,19,0,5,11,0,0,0
+student,5m 59s,6m 2s,,2.88,359.15,362.03,66,,,,,,,,0,0,0,0,0,0,0
+student,6m 2s,6m 5s,You could have also cut it.,3.36,362.03,365.39,66,,,,,,,,0,0,0,0,0,0,0
+student,6m 5s,6m 6s,,0.88,365.39,366.27,66,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 6s,6m 8s,You might have to get your pen color on.,1.84,366.27,368.11,67,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 8s,6m 8s,,0.56,368.11,368.67,67,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 8s,6m 9s,Yeah.,0.48,368.67,369.15,67,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 9s,6m 9s,,0.32,369.15,369.47,67,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 9s,6m 10s,Choose a color.,0.84,369.47,370.31,67,,,,,,,,0,0,0,0,0,0,0
+student,6m 10s,6m 10s,There you go.,0.68,370.31,370.99,68,,,,,,,,0,0,0,0,0,0,0
+student,6m 10s,6m 11s,,0.48,370.99,371.47,68,,,,,,,,0,0,0,0,0,0,0
+student,6m 11s,6m 15s,You also could have cut it right here.,3.68,371.47,375.15,68,,,,,,,,0,0,0,0,0,0,0
+student,6m 15s,6m 15s,,0.24,375.15,375.39,68,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 15s,6m 15s,Okay.,0.56,375.39,375.95,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 15s,6m 16s,,0.08,375.95,376.03,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 16s,6m 18s,"All right, so we have two different ways we could cut it.",2.28,376.03,378.31,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 18s,6m 20s,Grant's way and Sam's way.,2.04,378.31,380.35,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 20s,6m 20s,,0.16,380.35,380.51,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 20s,6m 20s,Right.,0.4,380.51,380.91,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 20s,6m 21s,,0.43,380.91,381.34,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 21s,6m 22s,"Okay, so you gotta choose.",1.6,381.34,382.94,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 22s,6m 24s,Which way are you gonna cut?,1.08,382.94,384.02,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 24s,6m 24s,Talk to your neighbor.,0.92,384.02,384.94,69,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 24s,6m 26s,Which way are you gonna separate shapes?,1.64,384.94,386.58,69,1.0,,,,,,,20,0,0,0,0,0,0
+teacher,6m 26s,6m 27s,Thank you so much.,0.68,386.58,387.26,69,,,,,,,,0,0,0,0,0,0,0
+group,6m 27s,6m 33s,[Untranscribed],5.84,387.26,393.1,70,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 33s,6m 33s,Okay.,0.56,393.1,393.66,71,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 33s,6m 35s,,1.34,393.66,395.0,71,,,,,,,,0,0,0,0,0,0,0
+student,6m 35s,6m 35s,,0.26,395.0,395.26,72,,,,,,,,0,0,0,0,0,0,0
+student,6m 35s,6m 35s,Thank you.,0.64,395.26,395.9,72,,,,,,,,0,0,0,0,0,0,0
+student,6m 35s,6m 36s,,0.4,395.9,396.3,72,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 36s,6m 36s,All right.,0.56,396.3,396.86,73,,,,,,,,0,0,0,0,0,0,0
+student,6m 36s,6m 38s,[Untranscribed],1.6,396.86,398.46,74,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 38s,6m 39s,Okay.,0.56,398.46,399.02,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 39s,6m 39s,So you're gonna get.,0.96,399.02,399.98,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 39s,6m 43s,"You're gonna get different answers, right?",3.28,399.98,403.26,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 43s,6m 43s,,0.24,403.26,403.5,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 43s,6m 46s,"You're Gonna get different weight, length, width and height answers.",2.96,403.5,406.46,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 46s,6m 48s,But your total answer should be the same.,2.0,406.46,408.46,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 48s,6m 48s,,0.28,408.46,408.74,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 48s,6m 52s,"All right, so it'll clear that next.",4.16,408.74,412.9,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 52s,6m 52s,,0.08,412.9,412.98,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 52s,6m 54s,After we cut it.,1.12,412.98,414.1,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 54s,6m 54s,,0.24,414.1,414.34,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 54s,6m 56s,So is everybody deciding where they're going to cut?,1.84,414.34,416.18,75,1.0,,,,,,,21,0,0,0,0,0,0
+teacher,6m 56s,6m 56s,,0.08,416.18,416.26,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 56s,6m 56s,Yes.,0.48,416.26,416.74,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 56s,6m 57s,"Okay, next.",1.08,416.74,417.82,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 57s,6m 58s,What do we do?,0.6,417.82,418.42,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 58s,6m 59s,This is where it's kind of picky about.,1.2,418.42,419.62,75,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 59s,7m 0s,,0.56,419.62,420.18,75,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 0s,7m 1s,We gotta do something.,0.96,420.18,421.14,75,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 1s,7m 1s,,0.48,421.14,421.62,75,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 1s,7m 3s,"Wait, I'm sorry, Henry, say it again.",1.44,421.62,423.06,75,1.0,,,,,,,22,0,0,0,0,0,0
+teacher,7m 3s,7m 3s,,0.56,423.06,423.62,75,,,,,,,,0,0,0,0,0,0,0
+student,7m 3s,7m 5s,Labeling A and B.,1.76,423.62,425.38,76,,,,,,,,0,0,0,0,0,0,0
+student,7m 5s,7m 5s,,0.16,425.38,425.54,76,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 5s,7m 10s,"Okay, so I'm going to label my shapes A and B.",5.2,425.54,430.74,77,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 10s,7m 11s,Do that Next.,0.72,430.74,431.46,77,,,,,,,,0,0,0,0,0,0,0
+student,7m 11s,7m 15s,[Untranscribed],4.53,431.46,435.99,78,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 15s,7m 16s,Decide where your A is.,1.0,435.99,436.99,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 16s,7m 17s,Decide where your B is.,0.88,436.99,437.87,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 17s,7m 20s,I did A on top and B on bottom.,2.36,437.87,440.23,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 20s,7m 20s,,0.72,440.23,440.95,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 20s,7m 23s,"Okay, we have another step before we start.",3.04,440.95,443.99,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 23s,7m 24s,Talk with your neighbor.,0.76,443.99,444.75,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 24s,7m 25s,What's next?,0.6,444.75,445.35,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 25s,7m 26s,,0.8,445.35,446.15,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 26s,7m 27s,Why did I make you write A and B?,1.6,446.15,447.75,79,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 27s,7m 28s,Talk with your neighbor.,0.8,447.75,448.55,79,1.0,1.0,,1.0,,,,23,1,0,12,0,0,0
+teacher,7m 28s,7m 29s,Why did I write A and B?,1.36,448.55,449.91,79,1.0,1.0,,1.0,,,,23,1,0,12,0,0,0
+teacher,7m 29s,7m 30s,,0.09,449.91,450.0,79,,,,,,,,0,0,0,0,0,0,0
+group,7m 30s,7m 35s,[Untranscribed],5.0,450.0,455.0,80,,,,,,,,0,0,0,0,0,0,0
+student,7m 35s,7m 37s,[Untranscribed],2.9,455.0,457.9,81,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 37s,7m 39s,,1.69,457.9,459.59,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 39s,7m 41s,"Natalie, I gave you the mic.",1.44,459.59,461.03,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 41s,7m 42s,,1.21,461.03,462.24,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 42s,7m 43s,"Natalie, love that you guys were talking.",1.48,462.24,463.72,82,,,,,1.0,,,0,0,0,0,8,0,0
+teacher,7m 43s,7m 46s,"Ray and Ariana, why did I put A and B on there?",2.84,463.72,466.56,82,1.0,,,1.0,,,,24,0,0,13,0,0,0
+teacher,7m 46s,7m 48s,,1.84,466.56,468.4,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 48s,7m 49s,What are we gonna do?,1.2,468.4,469.6,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 49s,7m 50s,,0.88,469.6,470.48,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 50s,7m 51s,Use the mic.,0.88,470.48,471.36,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 51s,7m 52s,,1.44,471.36,472.8,82,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 52s,7m 54s,What am I doing right here?,1.44,472.8,474.24,82,1.0,,,,,,,25,0,0,0,0,0,0
+teacher,7m 54s,7m 54s,,0.586,474.24,474.826,82,,,,,,,,0,0,0,0,0,0,0
+silence,7m 54s,8m 0s,,5.974,474.826,480.8,83,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 0s,8m 2s,Can anybody help Natalie out?,1.6,480.8,482.4,84,1.0,,,1.0,,,,26,0,0,14,0,0,0
+student,8m 2s,8m 4s,[Untranscribed],1.68,482.4,484.08,85,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 4s,8m 7s,You can say her A because like you have.,3.27,484.08,487.35,86,,,,,,,,0,0,0,0,0,0,0
+student,8m 7s,8m 10s,Cuz I don't know how to like say the word.,2.8,487.35,490.15,87,,,,,,,,0,0,0,0,0,0,0
+student,8m 10s,8m 14s,That's okay because you have to like times it different ways.,3.92,490.15,494.07,87,,,,,,,,0,0,0,0,0,0,0
+student,8m 14s,8m 14s,,0.16,494.07,494.23,87,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 14s,8m 15s,"Okay, so one.",1.36,494.23,495.59,88,,,,,,,,0,0,0,0,0,0,0
+student,8m 15s,8m 15s,Not.,0.4,495.59,495.99,89,,,,,,,,0,0,0,0,0,0,0
+student,8m 15s,8m 16s,,0.08,495.99,496.07,89,,,,,,,,0,0,0,0,0,0,0
+student,8m 16s,8m 17s,We have to break it up.,1.16,496.07,497.23,89,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 17s,8m 17s,Good.,0.28,497.23,497.51,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 17s,8m 18s,We broke it up.,0.64,497.51,498.15,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 18s,8m 20s,But what do these lines with timetables mean?,2.08,498.15,500.23,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 20s,8m 20s,What does that mean?,0.68,500.23,500.91,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 20s,8m 21s,What am I.,0.52,500.91,501.43,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 21s,8m 22s,What am I writing?,0.8,501.43,502.23,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 22s,8m 22s,,0.559,502.23,502.789,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 22s,8m 23s,Talk with your neighbor.,0.921,502.789,503.71,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 23s,8m 24s,What am I writing right now?,1.08,503.71,504.79,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 24s,8m 25s,What do those lines represent?,1.2,504.79,505.99,90,1.0,,,,1.0,,,27,0,0,0,9,0,0
+teacher,8m 25s,8m 26s,,0.16,505.99,506.15,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 26s,8m 26s,The times.,0.56,506.15,506.71,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 26s,8m 28s,,1.92,506.71,508.63,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 28s,8m 30s,"Oh, good job, Arianna.",1.52,508.63,510.15,90,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,8m 30s,8m 30s,,0.08,510.15,510.23,90,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 30s,8m 30s,Formula.,0.72,510.23,510.95,90,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 30s,8m 31s,,0.24,510.95,511.19,90,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 31s,8m 34s,Next you have to write the formula.,2.94,511.19,514.13,90,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 34s,8m 37s,"Okay, Say with me, what is the formula for volume?",2.88,514.13,517.01,90,1.0,,,,,,,28,0,0,0,0,0,0
+student,8m 37s,8m 40s,[Untranscribed],3.68,517.01,520.69,91,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 40s,8m 41s,One more time.,0.88,520.69,521.57,92,1.0,,,,,,,29,0,0,0,0,0,0
+teacher,8m 41s,8m 42s,,0.56,521.57,522.13,92,,,,,,,,0,0,0,0,0,0,0
+student,8m 42s,8m 45s,Length times width times height.,2.88,522.13,525.01,93,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 45s,8m 49s,Or sometimes base times height.,4.56,525.01,529.57,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 49s,8m 49s,,0.08,529.57,529.65,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 49s,8m 50s,"Okay, okay.",1.0,529.65,530.65,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 50s,8m 51s,We've given you the strategy.,1.32,530.65,531.97,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 51s,8m 52s,,0.08,531.97,532.05,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 52s,8m 54s,Now I want you to talk with your neighbor and solve.,2.2,532.05,534.25,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 54s,8m 55s,Let's see what you get.,0.76,534.25,535.01,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 55s,8m 55s,,0.24,535.01,535.25,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 55s,8m 59s,I am going to show you my answer when I got here.,4.16,535.25,539.41,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 59s,8m 59s,,0.24,539.41,539.65,94,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 59s,9m 1s,"After we share, you may.",1.68,539.65,541.33,94,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 1s,9m 3s,You gotta choose which way because you may begin.,1.96,541.33,543.29,94,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 3s,9m 4s,I want to hear lots of talking.,1.16,543.29,544.45,94,1.0,,,,,,,30,0,0,0,0,0,0
+teacher,9m 4s,9m 4s,Go.,0.32,544.45,544.77,94,1.0,,,,,,,30,0,0,0,0,0,0
+teacher,9m 4s,9m 5s,,0.23,544.77,545.0,94,,,,,,,,0,0,0,0,0,0,0
+group,9m 5s,9m 18s,[Untranscribed],13.121,545.0,558.121,95,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 18s,9m 21s,[Untranscribed],2.999,558.121,561.12,96,,,,,,,,0,0,0,0,0,0,0
+group,9m 21s,9m 29s,[Untranscribed],8.59,561.12,569.71,97,,,,,,,,0,0,0,0,0,0,0
+student,9m 29s,9m 29s,Name.,0.24,569.71,569.95,98,,,,,,,,0,0,0,0,0,0,0
+student,9m 29s,9m 31s,,1.553,569.95,571.503,98,,,,,,,,0,0,0,0,0,0,0
+group,9m 31s,9m 43s,[Untranscribed],11.867,571.503,583.37,99,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 43s,9m 44s,Make sure you're talking to each other.,1.16,583.37,584.53,100,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 44s,9m 44s,What are you.,0.44,584.53,584.97,100,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 44s,9m 46s,Are you getting the same answer?,1.44,584.97,586.41,100,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 46s,9m 47s,,1.04,586.41,587.45,100,,,,,,,,0,0,0,0,0,0,0
+student,9m 47s,9m 51s,But we need to just find this length right here.,4.08,587.45,591.53,101,,,,,,,,0,0,0,0,0,0,0
+student,9m 51s,9m 52s,,0.56,591.53,592.09,101,,,,,,,,0,0,0,0,0,0,0
+student,9m 52s,9m 52s,So.,0.4,592.09,592.49,101,,,,,,,,0,0,0,0,0,0,0
+student,9m 52s,9m 52s,,0.08,592.49,592.57,101,,,,,,,,0,0,0,0,0,0,0
+student,9m 52s,10m 1s,So maybe like cut the 12 in half so we can do row six.,9.36,592.57,601.93,101,,,,,,,,0,0,0,0,0,0,0
+group,10m 1s,10m 4s,,2.77,601.93,604.7,102,,,,,,,,0,0,0,0,0,0,0
+group,10m 4s,10m 5s,"Oh wait, no.",0.56,604.7,605.26,102,,,,,,,,0,0,0,0,0,0,0
+group,10m 5s,10m 9s,,4.24,605.26,609.5,102,,,,,,,,0,0,0,0,0,0,0
+student,10m 9s,10m 11s,"Oh, three minus ten.",1.56,609.5,611.06,103,,,,,,,,0,0,0,0,0,0,0
+student,10m 11s,10m 13s,Because three minus ten.,2.52,611.06,613.58,103,,,,,,,,0,0,0,0,0,0,0
+student,10m 13s,10m 13s,,0.16,613.58,613.74,103,,,,,,,,0,0,0,0,0,0,0
+student,10m 13s,10m 14s,Because look up here.,1.0,613.74,614.74,103,,,,,,,,0,0,0,0,0,0,0
+student,10m 14s,10m 16s,This is also the.,1.48,614.74,616.22,103,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 16s,10m 18s,[Untranscribed],2.0,616.22,618.22,104,,,,,,,,0,0,0,0,0,0,0
+group,10m 18s,10m 20s,[Untranscribed],2.0,618.22,620.22,105,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 20s,10m 22s,[Untranscribed],2.0,620.22,622.22,106,,,,,,,,0,0,0,0,0,0,0
+group,10m 22s,10m 28s,,6.0,622.22,628.22,107,,,,,,,,0,0,0,0,0,0,0
+group,10m 28s,10m 29s,"Oh yeah, sorry.",0.8,628.22,629.02,107,,,,,,,,0,0,0,0,0,0,0
+group,10m 29s,10m 31s,,2.67,629.02,631.69,107,,,,,,,,0,0,0,0,0,0,0
+student,10m 31s,10m 32s,So then the.,1.2,631.69,632.89,108,,,,,,,,0,0,0,0,0,0,0
+student,10m 32s,10m 35s,So you know our length is seven.,3.04,632.89,635.93,108,,,,,,,,0,0,0,0,0,0,0
+group,10m 35s,10m 38s,,2.72,635.93,638.65,109,,,,,,,,0,0,0,0,0,0,0
+group,10m 38s,10m 39s,Justin.,0.72,638.65,639.37,109,,,,,,,,0,0,0,0,0,0,0
+group,10m 39s,10m 41s,,2.32,639.37,641.69,109,,,,,,,,0,0,0,0,0,0,0
+student,10m 41s,10m 42s,"Okay, whatever.",0.76,641.69,642.45,110,,,,,,,,0,0,0,0,0,0,0
+student,10m 42s,10m 43s,Never mind.,0.6,642.45,643.05,110,,,,,,,,0,0,0,0,0,0,0
+student,10m 43s,10m 43s,,0.32,643.05,643.37,110,,,,,,,,0,0,0,0,0,0,0
+student,10m 43s,10m 45s,"Okay, now we can do our width.",2.56,643.37,645.93,110,,,,,,,,0,0,0,0,0,0,0
+group,10m 45s,10m 57s,[Untranscribed],12.01,645.93,657.94,111,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 57s,10m 59s,Who's working with who over here?,1.6,657.94,659.54,112,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 59s,10m 59s,,0.08,659.54,659.62,112,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 59s,11m 0s,You guys talking together?,1.28,659.62,660.9,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 0s,11m 1s,,0.56,660.9,661.46,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 1s,11m 2s,We're just checking the mic.,1.2,661.46,662.66,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 2s,11m 2s,,0.08,662.66,662.74,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 2s,11m 4s,Are you guys talking together?,1.44,662.74,664.18,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 4s,11m 4s,,0.08,664.18,664.26,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 4s,11m 5s,"Okay, you gotta see.",0.84,664.26,665.1,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 5s,11m 6s,Are you agreeing on your formulas?,1.36,665.1,666.46,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 6s,11m 8s,You're not agreeing on your formulas.,1.56,666.46,668.02,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 8s,11m 9s,,1.04,668.02,669.06,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 9s,11m 10s,Did you guys cut the same way.,1.44,669.06,670.5,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 10s,11m 10s,,0.24,670.5,670.74,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 10s,11m 13s,So you and your partner need to be cut the same way.,2.32,670.74,673.06,112,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 13s,11m 14s,,1.52,673.06,674.58,112,,,,,,,,0,0,0,0,0,0,0
+student,11m 14s,11m 17s,"Okay, so three inches right here.",2.56,674.58,677.14,113,,,,,,,,0,0,0,0,0,0,0
+student,11m 17s,11m 19s,So I think it's three inches here.,1.96,677.14,679.1,113,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 19s,11m 19s,So that I'm gonna show.,0.84,679.1,679.94,114,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 19s,11m 20s,,0.4,679.94,680.34,114,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 20s,11m 21s,Probably do.,0.8,680.34,681.14,114,,,,,,,,0,0,0,0,0,0,0
+group,11m 21s,11m 26s,[Untranscribed],4.97,681.14,686.11,115,,,,,,,,0,0,0,0,0,0,0
+student,11m 26s,11m 27s,But this one's just long.,1.28,686.11,687.39,116,,,,,,,,0,0,0,0,0,0,0
+group,11m 27s,11m 31s,[Untranscribed],4.0,687.39,691.39,117,,,,,,,,0,0,0,0,0,0,0
+student,11m 31s,11m 32s,This one's just long.,1.12,691.39,692.51,118,,,,,,,,0,0,0,0,0,0,0
+student,11m 32s,11m 33s,,0.8,692.51,693.31,118,,,,,,,,0,0,0,0,0,0,0
+student,11m 33s,11m 34s,And this is the hot.,1.44,693.31,694.75,118,,,,,,,,0,0,0,0,0,0,0
+group,11m 34s,11m 43s,[Untranscribed],9.04,694.75,703.79,119,,,,,,,,0,0,0,0,0,0,0
+student,11m 43s,11m 44s,"Yeah, I think.",0.76,703.79,704.55,120,,,,,,,,0,0,0,0,0,0,0
+student,11m 44s,11m 49s,"Yeah, we're just gonna use this one because since it's like the same",5.0,704.55,709.55,120,,,,,,,,0,0,0,0,0,0,0
+group,11m 49s,11m 59s,[Untranscribed],9.69,709.55,719.24,121,,,,,,,,0,0,0,0,0,0,0
+student,11m 59s,11m 59s,times.,0.24,719.24,719.48,122,,,,,,,,0,0,0,0,0,0,0
+student,11m 59s,12m 0s,,0.8,719.48,720.28,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 0s,12m 1s,"Well, yeah.",1.08,720.28,721.36,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 1s,12m 2s,28 times six.,1.0,721.36,722.36,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 2s,12m 2s,,0.08,722.36,722.44,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 2s,12m 3s,First you can break it up.,1.12,722.44,723.56,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 3s,12m 10s,"20 times six is 126 times four, I mean eight is 48.",7.28,723.56,730.84,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 10s,12m 10s,,0.08,730.84,730.92,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 10s,12m 17s,"Then you add those two, which equals one 68 inches cubed.",6.08,730.92,737.0,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 17s,12m 18s,,1.32,737.0,738.32,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 18s,12m 19s,But that has to do.,1.2,738.32,739.52,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 19s,12m 19s,,0.16,739.52,739.68,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 19s,12m 20s,Okay.,0.52,739.68,740.2,122,,,,,,,,0,0,0,0,0,0,0
+student,12m 20s,12m 20s,B.,0.28,740.2,740.48,122,,,,,,,,0,0,0,0,0,0,0
+group,12m 20s,12m 22s,[Untranscribed],2.08,740.48,742.56,123,,,,,,,,0,0,0,0,0,0,0
+student,12m 22s,12m 23s,"Well, the length.",1.12,742.56,743.68,124,,,,,,,,0,0,0,0,0,0,0
+student,12m 23s,12m 24s,"Oh, this one's so easy.",1.0,743.68,744.68,124,,,,,,,,0,0,0,0,0,0,0
+student,12m 24s,12m 25s,It tells you everything.,0.84,744.68,745.52,124,,,,,,,,0,0,0,0,0,0,0
+student,12m 25s,12m 26s,,0.96,745.52,746.48,124,,,,,,,,0,0,0,0,0,0,0
+student,12m 26s,12m 27s,It's just right there.,0.88,746.48,747.36,124,,,,,,,,0,0,0,0,0,0,0
+student,12m 27s,12m 29s,It's 10 times four times.,2.56,747.36,749.92,124,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 29s,12m 31s,[Untranscribed],1.92,749.92,751.84,125,,,,,,,,0,0,0,0,0,0,0
+student,12m 31s,12m 33s,Because the length right there.,1.28,751.84,753.12,126,,,,,,,,0,0,0,0,0,0,0
+group,12m 33s,12m 43s,,10.08,753.12,763.2,127,,,,,,,,0,0,0,0,0,0,0
+group,12m 43s,12m 43s,Sorry.,0.48,763.2,763.68,127,,,,,,,,0,0,0,0,0,0,0
+group,12m 43s,12m 43s,,0.09,763.68,763.77,127,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 43s,12m 45s,"Okay, let's go about two more minutes.",1.56,763.77,765.33,128,,,,,,,,0,0,0,0,0,0,0
+student,12m 45s,12m 46s,46.,0.8,765.33,766.13,129,,,,,,,,0,0,0,0,0,0,0
+student,12m 46s,12m 48s,"Well, first four, six is 48.",2.68,766.13,768.81,129,,,,,,,,0,0,0,0,0,0,0
+student,12m 48s,12m 49s,And then you add zero.,1.12,768.81,769.93,129,,,,,,,,0,0,0,0,0,0,0
+student,12m 49s,12m 50s,,0.96,769.93,770.89,129,,,,,,,,0,0,0,0,0,0,0
+student,12m 50s,12m 51s,"Wait,",0.48,770.89,771.37,129,,,,,,,,0,0,0,0,0,0,0
+group,12m 51s,13m 4s,[Untranscribed],12.72,771.37,784.09,130,,,,,,,,0,0,0,0,0,0,0
+student,13m 4s,13m 6s,"no, seven times seven would be 28, I think.",2.72,784.09,786.81,131,,,,,,,,0,0,0,0,0,0,0
+group,13m 6s,13m 10s,[Untranscribed],3.63,786.81,790.44,132,,,,,,,,0,0,0,0,0,0,0
+student,13m 10s,13m 14s,"Oh, cuz you added those, you got 74.",4.48,790.44,794.92,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 14s,13m 15s,,0.64,794.92,795.56,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 15s,13m 17s,"Wait, yeah, it would be 28.",1.64,795.56,797.2,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 17s,13m 18s,"Wait, what it.",0.92,797.2,798.12,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 18s,13m 19s,,0.96,798.12,799.08,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 19s,13m 21s,So it's episode 14.,2.028,799.08,801.108,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 21s,13m 21s,,0.184,801.108,801.292,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 21s,13m 22s,14.,0.828,801.292,802.12,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 22s,13m 23s,,1.2,802.12,803.32,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 23s,13m 23s,No.,0.32,803.32,803.64,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 23s,13m 24s,"Yeah, 28.",0.874,803.64,804.514,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 24s,13m 24s,,0.132,804.514,804.646,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 24s,13m 25s,28.,0.594,804.646,805.24,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 25s,13m 25s,,0.4,805.24,805.64,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 25s,13m 27s,"Yeah, 28.",2.208,805.64,807.848,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 27s,13m 28s,,0.224,807.848,808.072,133,,,,,,,,0,0,0,0,0,0,0
+student,13m 28s,13m 29s,28.,1.008,808.072,809.08,133,,,,,,,,0,0,0,0,0,0,0
+group,13m 29s,13m 36s,,7.01,809.08,816.09,134,,,,,,,,0,0,0,0,0,0,0
+group,13m 36s,13m 36s,This.,0.24,816.09,816.33,134,,,,,,,,0,0,0,0,0,0,0
+group,13m 36s,13m 38s,,2.08,816.33,818.41,134,,,,,,,,0,0,0,0,0,0,0
+student,13m 38s,13m 39s,"Oh, you know what we do?",1.2,818.41,819.61,135,,,,,,,,0,0,0,0,0,0,0
+group,13m 39s,13m 46s,[Untranscribed],6.4,819.61,826.01,136,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 46s,13m 47s,"Like, we're going to talk about it.",1.28,826.01,827.29,137,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 47s,13m 47s,,0.08,827.29,827.37,137,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 47s,13m 47s,We're.,0.48,827.37,827.85,137,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 47s,13m 48s,I'll show you.,0.72,827.85,828.57,137,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 48s,13m 49s,,1.12,828.57,829.69,137,,,,,,,,0,0,0,0,0,0,0
+student,13m 49s,13m 50s,"Okay, just go like this.",1.28,829.69,830.97,138,,,,,,,,0,0,0,0,0,0,0
+group,13m 50s,14m 1s,[Untranscribed],10.32,830.97,841.29,139,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 1s,14m 1s,"No, you're.",0.68,841.29,841.97,140,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 1s,14m 3s,"No, you're off a little bit.",1.56,841.97,843.53,140,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 3s,14m 4s,You're getting close though.,1.04,843.53,844.57,140,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 4s,14m 5s,,0.64,844.57,845.21,140,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 5s,14m 6s,Two of the digits are correct.,1.35,845.21,846.56,140,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 6s,14m 6s,,0.07,846.56,846.63,140,,,,,,,,0,0,0,0,0,0,0
+student,14m 6s,14m 7s,That's okay.,0.56,846.63,847.19,141,,,,,,,,0,0,0,0,0,0,0
+student,14m 7s,14m 10s,,3.054,847.19,850.244,141,,,,,,,,0,0,0,0,0,0,0
+silence,14m 10s,14m 12s,,2.261,850.244,852.505,142,,,,,,,,0,0,0,0,0,0,0
+student,14m 12s,14m 15s,[Untranscribed],3.085,852.505,855.59,143,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 15s,14m 16s,"Okay, class.",0.72,855.59,856.31,144,,,,,,,,0,0,0,0,0,0,0
+student,14m 16s,14m 18s,[Untranscribed],1.92,856.31,858.23,145,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 18s,14m 18s,Class.,0.4,858.23,858.63,146,,,,,,,,0,0,0,0,0,0,0
+student,14m 18s,14m 20s,,1.76,858.63,860.39,147,,,,,,,,0,0,0,0,0,0,0
+student,14m 20s,14m 20s,Yes.,0.48,860.39,860.87,147,,,,,,,,0,0,0,0,0,0,0
+student,14m 20s,14m 21s,,0.48,860.87,861.35,147,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 21s,14m 22s,"All right, let's solve this together.",1.52,861.35,862.87,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 22s,14m 23s,,0.24,862.87,863.11,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 23s,14m 27s,So if you can you guys just come up with your clipboard and just sit on the floor right here.,4.64,863.11,867.75,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 27s,14m 27s,,0.08,867.75,867.83,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 27s,14m 29s,Then we can hear you closer.,1.36,867.83,869.19,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 29s,14m 29s,,0.08,869.19,869.27,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 29s,14m 31s,We need a brave soul to show us what they got.,2.32,869.27,871.59,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 31s,14m 32s,And then I'll tell you if you're close.,1.36,871.59,872.95,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 32s,14m 33s,,0.75,872.95,873.7,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 33s,14m 35s,"Okay, so we'll pull some sticks.",1.84,873.7,875.54,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 35s,14m 35s,,0.4,875.54,875.94,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 35s,14m 36s,Come up on.,0.72,875.94,876.66,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 36s,14m 39s,"So if you're in the back rows, please come up front so you can see better.",2.48,876.66,879.14,148,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 39s,14m 39s,,0.264,879.14,879.404,148,,,,,,,,0,0,0,0,0,0,0
+silence,14m 39s,14m 41s,,2.456,879.404,881.86,149,,,,,,,,0,0,0,0,0,0,0
+student,14m 41s,14m 43s,So just sit on the floor.,1.2,881.86,883.06,150,,,,,,,,0,0,0,0,0,0,0
+student,14m 43s,14m 44s,,1.84,883.06,884.9,150,,,,,,,,0,0,0,0,0,0,0
+student,14m 44s,14m 45s,Thank you.,0.64,884.9,885.54,150,,,,,,,,0,0,0,0,0,0,0
+student,14m 45s,14m 46s,,0.968,885.54,886.508,150,,,,,,,,0,0,0,0,0,0,0
+silence,14m 46s,14m 50s,,4.152,886.508,890.66,151,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 50s,14m 51s,We're just gonna sit on the floor.,1.12,890.66,891.78,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 51s,14m 53s,It's just quicker because we're running away.,1.72,891.78,893.5,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 53s,14m 55s,"Okay, thank you.",1.88,893.5,895.38,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 55s,14m 56s,Have a seat by five.,0.96,895.38,896.34,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 56s,14m 56s,One.,0.32,896.34,896.66,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 56s,14m 56s,,0.08,896.66,896.74,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 56s,14m 57s,Thanks.,0.4,896.74,897.14,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 57s,14m 58s,"Right, two, three.",1.62,897.14,898.76,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 58s,14m 58s,,0.15,898.76,898.91,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 58s,14m 59s,Have your nav seat.,0.76,898.91,899.67,152,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 59s,15m 0s,"Thank you, my friend.",0.68,899.67,900.35,152,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 0s,15m 1s,,0.958,900.35,901.308,152,,,,,,,,0,0,0,0,0,0,0
+silence,15m 1s,15m 4s,,2.962,901.308,904.27,153,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 4s,15m 4s,Thank you.,0.64,904.27,904.91,154,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 4s,15m 5s,,0.347,904.91,905.257,154,,,,,,,,0,0,0,0,0,0,0
+silence,15m 5s,15m 7s,,1.813,905.257,907.07,155,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 7s,15m 8s,"Okay, so I want you to show.",1.8,907.07,908.87,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 8s,15m 10s,I want you to see something still.,1.72,908.87,910.59,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 10s,15m 11s,,0.8,910.59,911.39,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 11s,15m 13s,"This is where I did the work, just like you.",1.8,911.39,913.19,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 13s,15m 13s,Okay?,0.6,913.19,913.79,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 13s,15m 14s,,0.24,913.79,914.03,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 14s,15m 19s,"I cut the shape, I wrote the formula, and then I did the math.",5.6,914.03,919.63,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 19s,15m 20s,Okay?,0.48,919.63,920.11,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 20s,15m 22s,So raise it flat when you find volume.,2.84,920.11,922.95,156,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 22s,15m 23s,Is it messy?,0.92,922.95,923.87,156,,,,,,,,0,0,0,0,0,0,0
+student,15m 23s,15m 25s,[Untranscribed],1.21,923.87,925.08,157,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 25s,15m 25s,Yes.,0.2,925.08,925.28,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 25s,15m 27s,Do you need a lot of room to figure out your space?,1.96,925.28,927.24,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 27s,15m 27s,,0.72,927.24,927.96,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 27s,15m 28s,Yes.,0.36,927.96,928.32,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 28s,15m 31s,"Okay, so look, math takes time, right?",3.0,928.32,931.32,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 31s,15m 31s,,0.24,931.32,931.56,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 31s,15m 35s,And can you be wrong on A formula and be able to shape incorrectly.,4.16,931.56,935.72,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 35s,15m 36s,"Yes, yes.",0.84,935.72,936.56,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 36s,15m 39s,That's why we want to make sure we have the formula volume correct.,2.6,936.56,939.16,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 39s,15m 39s,,0.16,939.16,939.32,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 39s,15m 44s,"Okay, brave soul, I'd like to just hear how you solve this.",4.8,939.32,944.12,158,1.0,,1.0,1.0,,,,31,0,6,15,0,0,0
+teacher,15m 44s,15m 45s,"Okay, we want to present now.",1.8,944.12,945.92,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 45s,15m 46s,We're.,0.32,945.92,946.24,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 46s,15m 48s,It's someone that cut it this way.,1.88,946.24,948.12,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 48s,15m 48s,,0.16,948.12,948.28,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 48s,15m 50s,I need someone that cut it this way.,1.84,948.28,950.12,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 50s,15m 50s,,0.38,950.12,950.5,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 50s,15m 50s,Okay.,0.28,950.5,950.78,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 50s,15m 51s,Someone that cut it this way.,1.2,950.78,951.98,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 51s,15m 52s,Okay.,0.52,951.98,952.5,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 52s,15m 52s,,0.08,952.5,952.58,158,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 52s,15m 53s,"Calvin, come on up.",1.2,952.58,953.78,158,,,,,,,,0,0,0,0,0,0,0
+student,15m 53s,15m 54s,[Untranscribed],1.2,953.78,954.98,159,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 54s,15m 56s,Did you cut it this way?,1.2,954.98,956.18,160,1.0,,,,,,,32,0,0,0,0,0,0
+teacher,15m 56s,15m 57s,,0.88,956.18,957.06,160,1.0,,,,,,,32,0,0,0,0,0,0
+teacher,15m 57s,15m 57s,Raise your hand.,0.68,957.06,957.74,160,1.0,,,,,,,32,0,0,0,0,0,0
+teacher,15m 57s,15m 58s,Who cut it this way?,0.88,957.74,958.62,160,1.0,,,,,,,32,0,0,0,0,0,0
+teacher,15m 58s,15m 59s,Who cut it this way?,0.8,958.62,959.42,160,1.0,,,,,,,32,0,0,0,0,0,0
+teacher,15m 59s,16m 0s,And separated A and B?,1.08,959.42,960.5,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 0s,16m 0s,,0.24,960.5,960.74,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 0s,16m 2s,Not very many of you.,1.28,960.74,962.02,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 2s,16m 2s,,0.08,962.02,962.1,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 2s,16m 2s,Okay.,0.56,962.1,962.66,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 2s,16m 2s,,0.16,962.66,962.82,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 2s,16m 4s,"Okay, so who would like.",1.56,962.82,964.38,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 4s,16m 5s,Out of the four of you would like.,1.04,964.38,965.42,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 5s,16m 6s,Who would feel comfortable coming up to present?,1.56,965.42,966.98,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 6s,16m 7s,,0.88,966.98,967.86,160,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 7s,16m 8s,"Okay, come on up.",1.12,967.86,968.98,160,1.0,,,,,,,33,0,0,0,0,0,0
+teacher,16m 8s,16m 10s,You're gonna present with the mic.,1.44,968.98,970.42,160,1.0,,,,,,,33,0,0,0,0,0,0
+teacher,16m 10s,16m 11s,,0.64,970.42,971.06,160,,,,,,,,0,0,0,0,0,0,0
+student,16m 11s,16m 13s,I don't really know how to explain this.,1.96,971.06,973.02,161,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 13s,16m 14s,"Yeah, that's why we're here.",1.08,973.02,974.1,162,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 14s,16m 14s,,0.08,974.1,974.18,162,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 14s,16m 15s,Bring your paper if you need it.,1.28,974.18,975.46,162,,,,,,,,0,0,0,0,0,0,0
+student,16m 15s,16m 16s,[Untranscribed],1.05,975.46,976.51,163,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 16s,16m 16s,Okay.,0.4,976.51,976.91,164,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 16s,16m 17s,,0.32,976.91,977.23,164,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 17s,16m 17s,All right.,0.48,977.23,977.71,164,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 17s,16m 18s,So be the teacher.,0.96,977.71,978.67,164,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 18s,16m 19s,,0.88,978.67,979.55,164,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 19s,16m 20s,"Oh, I have the pen.",0.84,979.55,980.39,164,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 20s,16m 20s,Sorry.,0.44,980.39,980.83,164,,,,,,,,0,0,0,0,0,0,0
+silence,16m 20s,16m 23s,,2.88,980.83,983.71,165,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 23s,16m 25s,"Okay, so who cut this way?",1.52,983.71,985.23,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 25s,16m 25s,,0.4,985.23,985.63,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 25s,16m 26s,Who cut this way?,0.96,985.63,986.59,166,1.0,,,,,,,34,0,0,0,0,0,0
+teacher,16m 26s,16m 27s,,1.12,986.59,987.71,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 27s,16m 27s,Who?,0.28,987.71,987.99,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 27s,16m 29s,Raise your hand if you cut this way.,1.4,987.99,989.39,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 29s,16m 29s,,0.32,989.39,989.71,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 29s,16m 35s,"Okay, so Robert, Eila, Ray, Eden, Justin, Jesus, Charlie, you're listening.",6.0,989.71,995.71,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 35s,16m 41s,"Grant, Audrey, you're listening, but still listen, because you're gonna get the same answer, the total, but a different way to find volume.",5.96,995.71,1001.67,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 41s,16m 42s,Okay.,0.44,1001.67,1002.11,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 42s,16m 42s,,0.07,1002.11,1002.18,166,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 42s,16m 42s,Be the teacher.,0.6,1002.18,1002.78,166,1.0,,,,,,,35,0,0,0,0,0,0
+teacher,16m 42s,16m 43s,Go.,0.24,1002.78,1003.02,166,1.0,,,,,,,35,0,0,0,0,0,0
+student,16m 43s,16m 44s,I might get the answer.,1.24,1003.02,1004.26,167,,,,,,,,0,0,0,0,0,0,0
+student,16m 44s,16m 45s,,1.04,1004.26,1005.3,167,,,,,,,,0,0,0,0,0,0,0
+student,16m 45s,16m 45s,That's okay.,0.52,1005.3,1005.82,167,,,,,,,,0,0,0,0,0,0,0
+student,16m 45s,16m 49s,To get the answer out a B.,3.24,1005.82,1009.06,167,,,,,,,,0,0,0,0,0,0,0
+student,16m 49s,16m 49s,,0.48,1009.06,1009.54,167,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 49s,16m 50s,Okay.,0.52,1009.54,1010.06,168,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 50s,16m 51s,Who put their A box on top?,1.56,1010.06,1011.62,168,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 51s,16m 51s,,0.24,1011.62,1011.86,168,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 51s,16m 53s,Who put their B bottom box on the bottom?,1.96,1011.86,1013.82,168,1.0,,,,,,,36,0,0,0,0,0,0
+teacher,16m 53s,16m 54s,Okay.,0.52,1013.82,1014.34,168,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 54s,16m 54s,,0.56,1014.34,1014.9,168,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 54s,16m 55s,What happened?,0.76,1014.9,1015.66,168,1.0,,,1.0,,,,37,0,0,16,0,0,0
+teacher,16m 55s,16m 56s,Just hit X.,0.76,1015.66,1016.42,168,1.0,,,1.0,,,,37,0,0,16,0,0,0
+student,16m 56s,16m 57s,[Untranscribed],1.04,1016.42,1017.46,169,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 57s,16m 58s,Okay.,0.56,1017.46,1018.02,170,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 58s,16m 59s,,1.295,1018.02,1019.315,170,,,,,,,,0,0,0,0,0,0,0
+silence,16m 59s,17m 2s,,2.945,1019.315,1022.26,171,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 2s,17m 4s,"You're going to need a lot more space than that, right?",2.64,1022.26,1024.9,172,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 4s,17m 5s,,0.96,1024.9,1025.86,172,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 5s,17m 6s,You can write over here.,1.0,1025.86,1026.86,172,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 6s,17m 7s,Why don't you write over here?,1.0,1026.86,1027.86,172,,,,,,,,0,0,0,0,0,0,0
+student,17m 7s,17m 9s,[Untranscribed],1.28,1027.86,1029.14,173,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 9s,17m 9s,Okay.,0.48,1029.14,1029.62,174,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 9s,17m 10s,,0.64,1029.62,1030.26,174,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 10s,17m 10s,Yeah.,0.48,1030.26,1030.74,174,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 10s,17m 11s,,0.4,1030.74,1031.14,174,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 11s,17m 12s,Wherever you're comfortable.,0.96,1031.14,1032.1,174,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 12s,17m 12s,Yep.,0.48,1032.1,1032.58,174,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 12s,17m 12s,,0.32,1032.58,1032.9,174,,,,,,,,0,0,0,0,0,0,0
+student,17m 12s,17m 15s,"Okay, talk to us first.",2.88,1032.9,1035.78,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 15s,17m 16s,,0.24,1035.78,1036.02,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 16s,17m 18s,For the length of A.,2.4,1036.02,1038.42,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 18s,17m 19s,,1.12,1038.42,1039.54,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 19s,17m 25s,"To find the length right here, it says it's 10, but we only need this space and it shows all of it.",6.16,1039.54,1045.7,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 25s,17m 26s,,0.72,1045.7,1046.42,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 26s,17m 29s,So right here it shows the rest of this space.,3.2,1046.42,1049.62,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 29s,17m 29s,,0.16,1049.62,1049.78,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 29s,17m 32s,So we can minus that.,2.24,1049.78,1052.02,175,,,,,,,,0,0,0,0,0,0,0
+student,17m 32s,17m 32s,,0.32,1052.02,1052.34,175,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 32s,17m 36s,So we're going to take our original length of 10 and then minus 3.,4.39,1052.34,1056.73,176,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 36s,17m 37s,,1.2,1056.73,1057.93,176,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 37s,17m 39s,"Okay, so your length is.",1.44,1057.93,1059.37,176,1.0,,,,,,,38,0,0,0,0,0,0
+student,17m 39s,17m 42s,[Untranscribed],3.04,1059.37,1062.41,177,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 42s,17m 43s,"Okay, who got that?",1.24,1062.41,1063.65,178,1.0,,,,,,,39,0,0,0,0,0,0
+teacher,17m 43s,17m 44s,Who agrees with the length?,1.16,1063.65,1064.81,178,1.0,,,,,,,39,0,0,0,0,0,0
+teacher,17m 44s,17m 44s,,0.08,1064.81,1064.89,178,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 44s,17m 46s,I agree with the length.,1.2,1064.89,1066.09,178,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 46s,17m 46s,,0.56,1066.09,1066.65,178,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 46s,17m 48s,"Okay, seven for your length on eight.",2.24,1066.65,1068.89,178,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 48s,17m 49s,Thank you.,0.56,1068.89,1069.45,178,,,,,,,,0,0,0,0,0,0,0
+student,17m 49s,17m 51s,,1.6,1069.45,1071.05,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 51s,17m 52s,Length is.,1.36,1071.05,1072.41,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 52s,17m 53s,,1.12,1072.41,1073.53,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 53s,17m 54s,I just look right here.,1.2,1073.53,1074.73,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 54s,17m 56s,And they look very similar.,1.68,1074.73,1076.41,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 56s,17m 56s,,0.24,1076.41,1076.65,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 56s,17m 57s,Like the four.,0.88,1076.65,1077.53,179,,,,,,,,0,0,0,0,0,0,0
+student,17m 57s,17m 58s,,1.2,1077.53,1078.73,179,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 58s,18m 0s,"Yeah, you just follow with your eye.",1.52,1078.73,1080.25,180,,,,,,,,0,0,0,0,0,0,0
+student,18m 0s,18m 1s,[Untranscribed],1.62,1080.25,1081.87,181,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 1s,18m 2s,Nice.,0.32,1081.87,1082.19,182,,,,,1.0,,,0,0,0,0,10,0,0
+teacher,18m 2s,18m 2s,Good job.,0.6,1082.19,1082.79,182,,,,,1.0,,,0,0,0,0,10,0,0
+teacher,18m 2s,18m 4s,Who agrees with four with the width?,1.8,1082.79,1084.59,182,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 4s,18m 4s,,0.4,1084.59,1084.99,182,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 4s,18m 6s,"Okay, you are so far correct",1.92,1084.99,1086.91,182,,,,,,,,0,0,0,0,0,0,0
+student,18m 6s,18m 9s,,2.96,1086.91,1089.87,183,,,,,,,,0,0,0,0,0,0,0
+student,18m 9s,18m 10s,for,0.4,1089.87,1090.27,183,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 10s,18m 10s,[Untranscribed],0.4,1090.27,1090.67,184,,,,,,,,0,0,0,0,0,0,0
+student,18m 10s,18m 11s,height.,0.48,1090.67,1091.15,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 11s,18m 11s,,0.48,1091.15,1091.63,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 11s,18m 13s,Right here it's 12.,1.44,1091.63,1093.07,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 13s,18m 14s,But we only need this much.,1.44,1093.07,1094.51,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 14s,18m 14s,,0.16,1094.51,1094.67,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 14s,18m 15s,This shows the rest.,1.12,1094.67,1095.79,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 15s,18m 15s,,0.16,1095.79,1095.95,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 15s,18m 20s,So you can do 12 minus 6 equals 6.,4.4,1095.95,1100.35,185,,,,,,,,0,0,0,0,0,0,0
+student,18m 20s,18m 20s,,0.32,1100.35,1100.67,185,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 20s,18m 21s,Nice job.,0.72,1100.67,1101.39,186,,,,,1.0,,,0,0,0,0,11,0,0
+teacher,18m 21s,18m 21s,,0.16,1101.39,1101.55,186,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 21s,18m 23s,"Okay, raise your hand, see who got that?",1.92,1101.55,1103.47,186,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 23s,18m 24s,,0.88,1103.47,1104.35,186,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 24s,18m 26s,So tell us your formula for volume on a.,2.16,1104.35,1106.51,186,1.0,,,1.0,,,,40,0,0,17,0,0,0
+teacher,18m 26s,18m 27s,,0.64,1106.51,1107.15,186,,,,,,,,0,0,0,0,0,0,0
+student,18m 27s,18m 29s,7 times 4 times 6.,2.6,1107.15,1109.75,187,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 29s,18m 30s,Okay.,0.32,1109.75,1110.07,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 30s,18m 32s,And that represents your length times your width times Your height.,2.88,1110.07,1112.95,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 32s,18m 33s,"Okay, Good job.",0.88,1112.95,1113.83,188,,,,,1.0,,,0,0,0,0,12,0,0
+teacher,18m 33s,18m 33s,,0.08,1113.83,1113.91,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 33s,18m 35s,"Okay, thank you.",1.52,1113.91,1115.43,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 35s,18m 37s,Do you want to continue or you want someone else to do B?,2.08,1115.43,1117.51,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 37s,18m 37s,,0.08,1117.51,1117.59,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 37s,18m 37s,Continue.,0.4,1117.59,1117.99,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 37s,18m 38s,,0.24,1117.99,1118.23,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 38s,18m 38s,Okay.,0.56,1118.23,1118.79,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 38s,18m 38s,,0.08,1118.79,1118.87,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 38s,18m 39s,Okay.,0.56,1118.87,1119.43,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 39s,18m 39s,,0.08,1119.43,1119.51,188,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 39s,18m 40s,So he's got to keep going.,1.2,1119.51,1120.71,188,,,,,,,,0,0,0,0,0,0,0
+student,18m 40s,18m 43s,,2.56,1120.71,1123.27,189,,,,,,,,0,0,0,0,0,0,0
+student,18m 43s,18m 44s,First for length.,1.44,1123.27,1124.71,189,,,,,,,,0,0,0,0,0,0,0
+student,18m 44s,18m 47s,"Well, this one, it just shows the whole length.",3.04,1124.71,1127.75,189,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 47s,18m 48s,Can you just.,0.64,1127.75,1128.39,190,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 48s,18m 49s,Can you tell us what shape you're on?,1.52,1128.39,1129.91,190,1.0,,,,,,,41,0,0,0,0,0,0
+teacher,18m 49s,18m 49s,,0.08,1129.91,1129.99,190,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 49s,18m 50s,"Oh, B.",0.76,1129.99,1130.75,190,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 50s,18m 51s,Okay.,0.6,1130.75,1131.35,190,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 51s,18m 52s,,0.88,1131.35,1132.23,190,,,,,,,,0,0,0,0,0,0,0
+student,18m 52s,18m 53s,It shows the whole antirus.,1.68,1132.23,1133.91,191,,,,,,,,0,0,0,0,0,0,0
+student,18m 53s,18m 54s,,0.81,1133.91,1134.72,191,,,,,,,,0,0,0,0,0,0,0
+student,18m 54s,18m 56s,It also shows the whole width.,1.6,1134.72,1136.32,191,,,,,,,,0,0,0,0,0,0,0
+student,18m 56s,18m 57s,,0.96,1136.32,1137.28,191,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 57s,18m 58s,Can you say what you're writing?,1.36,1137.28,1138.64,192,1.0,,1.0,1.0,,,,42,0,7,18,0,0,0
+teacher,18m 58s,18m 59s,,0.56,1138.64,1139.2,192,,,,,,,,0,0,0,0,0,0,0
+student,18m 59s,19m 0s,"The length, width, and height.",1.52,1139.2,1140.72,193,,,,,,,,0,0,0,0,0,0,0
+student,19m 0s,19m 4s,"Okay, and right here, it shows the height.",3.84,1140.72,1144.56,193,,,,,,,,0,0,0,0,0,0,0
+student,19m 4s,19m 5s,,0.96,1144.56,1145.52,193,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 5s,19m 6s,So can you tell us the numbers?,1.24,1145.52,1146.76,194,1.0,,,,,,,43,0,0,0,0,0,0
+teacher,19m 6s,19m 9s,Because someone might not see what you're seeing on your numbers.,2.28,1146.76,1149.04,194,1.0,,,,,,,43,0,0,0,0,0,0
+teacher,19m 9s,19m 9s,,0.24,1149.04,1149.28,194,,,,,,,,0,0,0,0,0,0,0
+student,19m 9s,19m 11s,10 times 4 times 6.,2.32,1149.28,1151.6,195,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 11s,19m 12s,Okay.,0.56,1151.6,1152.16,196,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 12s,19m 12s,All right.,0.48,1152.16,1152.64,196,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 12s,19m 13s,Who have that on B?,1.2,1152.64,1153.84,196,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 13s,19m 14s,,0.24,1153.84,1154.08,196,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 14s,19m 15s,Who had that on B?,1.12,1154.08,1155.2,196,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 15s,19m 15s,,0.16,1155.2,1155.36,196,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 15s,19m 15s,Good.,0.36,1155.36,1155.72,196,,,,,1.0,,,0,0,0,0,13,0,0
+teacher,19m 15s,19m 16s,Does that make you feel good?,0.88,1155.72,1156.6,196,,,,,1.0,,,0,0,0,0,13,0,0
+student,19m 16s,19m 19s,"You're like, oh, okay.",2.4,1156.6,1159.0,197,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 19s,19m 19s,Okay.,0.4,1159.0,1159.4,198,,,,,1.0,,,0,0,0,0,14,0,0
+teacher,19m 19s,19m 19s,That's great.,0.48,1159.4,1159.88,198,,,,,1.0,,,0,0,0,0,14,0,0
+teacher,19m 19s,19m 21s,"Okay, so is he done?",1.81,1159.88,1161.69,198,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 21s,19m 22s,,0.32,1161.69,1162.01,198,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 22s,19m 22s,No.,0.4,1162.01,1162.41,198,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 22s,19m 23s,"Okay, please talk with your neighbor.",1.56,1162.41,1163.97,198,1.0,,,1.0,,,,44,0,0,19,0,0,0
+teacher,19m 23s,19m 25s,What does he got to do next?,1.08,1163.97,1165.05,198,1.0,,,1.0,,,,44,0,0,19,0,0,0
+teacher,19m 25s,19m 26s,Talk with your neighbor.,0.96,1165.05,1166.01,198,1.0,,,1.0,,,,44,0,0,19,0,0,0
+teacher,19m 26s,19m 30s,,4.5,1166.01,1170.51,198,,,,,,,,0,0,0,0,0,0,0
+group,19m 30s,19m 32s,[Untranscribed],2.3,1170.51,1172.81,199,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 32s,19m 33s,Do you need your paper?,0.96,1172.81,1173.77,200,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 33s,19m 34s,,1.04,1173.77,1174.81,200,,,,,,,,0,0,0,0,0,0,0
+student,19m 34s,19m 36s,It doesn't matter.,1.2,1174.81,1176.01,201,,,,,,,,0,0,0,0,0,0,0
+student,19m 36s,19m 36s,,0.96,1176.01,1176.97,201,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 36s,19m 38s,"Okay, now listen.",1.28,1176.97,1178.25,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 38s,19m 38s,,0.24,1178.25,1178.49,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 38s,19m 40s,Some of you might have cut this a different way.,2.08,1178.49,1180.57,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 40s,19m 42s,"Like, your shapes are going different.",1.92,1180.57,1182.49,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 42s,19m 42s,,0.32,1182.49,1182.81,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 42s,19m 46s,"You cut it down, you cut it vertically versus horizontally.",4.0,1182.81,1186.81,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 46s,19m 47s,,0.58,1186.81,1187.39,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 47s,19m 50s,But your numbers should be listed somewhere in here.,3.28,1187.39,1190.67,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 50s,19m 51s,Like this.,0.56,1190.67,1191.23,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 51s,19m 52s,,1.04,1191.23,1192.27,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 52s,19m 53s,Here's the lottery.,1.04,1192.27,1193.31,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 53s,19m 53s,,0.32,1193.31,1193.63,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 53s,19m 56s,Will you have the same total as you?,3.28,1193.63,1196.91,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 56s,19m 58s,"Okay, so let's see what you did.",1.32,1196.91,1198.23,202,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 58s,19m 59s,What'd you get for eight?,0.84,1198.23,1199.07,202,1.0,,,,,,,45,0,0,0,0,0,0
+student,19m 59s,20m 0s,[Untranscribed],1.04,1199.07,1200.11,203,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 0s,20m 5s,"Okay, so seven times four times six, A.",5.84,1200.11,1205.95,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 5s,20m 6s,,0.16,1205.95,1206.11,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 6s,20m 7s,I got four.,1.84,1206.11,1207.95,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 7s,20m 8s,,0.16,1207.95,1208.11,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 8s,20m 8s,Should I write it?,0.88,1208.11,1208.99,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 8s,20m 10s,"Yeah, just write it small underneath there.",1.64,1208.99,1210.63,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 10s,20m 10s,Yep.,0.36,1210.63,1210.99,204,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 10s,20m 11s,,0.514,1210.99,1211.504,204,,,,,,,,0,0,0,0,0,0,0
+student,20m 11s,20m 13s,,2.296,1211.504,1213.8,205,,,,,,,,0,0,0,0,0,0,0
+student,20m 13s,20m 18s,148 inches.,4.24,1213.8,1218.04,205,,,,,,,,0,0,0,0,0,0,0
+student,20m 18s,20m 19s,,1.52,1218.04,1219.56,205,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 19s,20m 19s,Okay.,0.36,1219.56,1219.92,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 19s,20m 20s,Can I help you?,0.56,1219.92,1220.48,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 20s,20m 21s,Just a little bit that.,1.08,1220.48,1221.56,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 21s,20m 22s,,0.64,1221.56,1222.2,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 22s,20m 23s,So seven times four is.,1.76,1222.2,1223.96,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 23s,20m 24s,,0.8,1223.96,1224.76,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 24s,20m 27s,"Oh, 20, 28.",2.52,1224.76,1227.28,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 27s,20m 29s,And then you're times it by six.,1.72,1227.28,1229.0,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 29s,20m 29s,,0.8,1229.0,1229.8,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 29s,20m 31s,So help everybody do that on your paper.,1.52,1229.8,1231.32,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 31s,20m 32s,,1.2,1231.32,1232.52,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 32s,20m 35s,"Okay, everybody do 28 times six really fast and see what you get.",3.04,1232.52,1235.56,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 35s,20m 36s,,0.72,1235.56,1236.28,206,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 36s,20m 39s,"Okay, you do on the board of air, 28 times 6.",3.2,1236.28,1239.48,206,,,,,,,,0,0,0,0,0,0,0
+student,20m 39s,20m 41s,[Untranscribed],2.43,1239.48,1241.91,207,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 41s,20m 42s,So your.,0.4,1241.91,1242.31,208,,,,,1.0,,1.0,0,0,0,0,15,0,3
+teacher,20m 42s,20m 43s,Your measurements were right.,1.44,1242.31,1243.75,208,,,,,1.0,,1.0,0,0,0,0,15,0,3
+student,20m 43s,20m 45s,[Untranscribed],2.24,1243.75,1245.99,209,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 45s,20m 46s,Yeah.,0.44,1245.99,1246.43,210,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 46s,20m 46s,Okay.,0.52,1246.43,1246.95,210,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 46s,20m 47s,,0.4,1246.95,1247.35,210,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 47s,20m 49s,"Okay, so what is one?",1.96,1247.35,1249.31,210,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 49s,20m 50s,What is 28 times six?,1.32,1249.31,1250.63,210,1.0,,,,,,,46,0,0,0,0,0,0
+student,20m 50s,20m 52s,[Untranscribed],1.68,1250.63,1252.31,211,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 52s,20m 53s,Did you hear that?,0.8,1252.31,1253.11,212,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 53s,20m 53s,,0.08,1253.11,1253.19,212,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 53s,20m 55s,Did you get 168?,1.972,1253.19,1255.162,212,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 55s,20m 55s,,0.296,1255.162,1255.458,212,,,,,,,,0,0,0,0,0,0,0
+student,20m 55s,20m 56s,160.,1.332,1255.458,1256.79,213,,,,,,,,0,0,0,0,0,0,0
+student,20m 56s,20m 57s,I got that.,0.68,1256.79,1257.47,213,,,,,,,,0,0,0,0,0,0,0
+student,20m 57s,20m 59s,And then he said that it was wrong.,2.44,1257.47,1259.91,213,,,,,,,,0,0,0,0,0,0,0
+student,20m 59s,21m 1s,So that means it's okay.,1.84,1259.91,1261.75,213,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 1s,21m 2s,Don't believe in yourself.,1.08,1261.75,1262.83,214,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 2s,21m 3s,Believe in yourself.,0.68,1262.83,1263.51,214,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 3s,21m 4s,"Okay, so your.",1.36,1263.51,1264.87,214,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 4s,21m 5s,,0.16,1264.87,1265.03,214,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 5s,21m 6s,Your a should be 160.,1.68,1265.03,1266.71,214,,,,,,,,0,0,0,0,0,0,0
+student,21m 6s,21m 8s,[Untranscribed],1.58,1266.71,1268.29,215,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 8s,21m 8s,Okay.,0.24,1268.29,1268.53,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 8s,21m 10s,"And it was just a mistake in multiplication, right?",2.24,1268.53,1270.77,216,1.0,,,,,,,47,0,0,0,0,0,0
+teacher,21m 10s,21m 11s,,0.48,1270.77,1271.25,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 11s,21m 11s,Okay.,0.56,1271.25,1271.81,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 11s,21m 11s,,0.16,1271.81,1271.97,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 11s,21m 12s,"Okay, next one.",0.84,1271.97,1272.81,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 12s,21m 14s,Can you guys get that before Eli gets up?,1.8,1272.81,1274.61,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 14s,21m 15s,Do you know the answer to B?,1.12,1274.61,1275.73,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 15s,21m 16s,Raise your hand.,0.44,1275.73,1276.17,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 16s,21m 17s,You know the answer to B?,0.92,1276.17,1277.09,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 17s,21m 17s,Yes.,0.48,1277.09,1277.57,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 17s,21m 18s,Okay.,0.44,1277.57,1278.01,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 18s,21m 18s,Talk with your neighbor.,0.72,1278.01,1278.73,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 18s,21m 19s,What is the answer?,0.56,1278.73,1279.29,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 19s,21m 19s,"Wait, wait.",0.36,1279.29,1279.65,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 19s,21m 20s,Don't write it yet.,0.56,1279.65,1280.21,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 20s,21m 21s,Talk with your neighbor.,0.88,1280.21,1281.09,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 21s,21m 22s,What is the answer to B before he says it.,1.76,1281.09,1282.85,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 22s,21m 23s,,0.24,1282.85,1283.09,216,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 23s,21m 25s,What is the answer to B before he says it?,1.92,1283.09,1285.01,216,1.0,,,,,,,48,0,0,0,0,0,0
+group,21m 25s,21m 30s,[Untranscribed],4.99,1285.01,1290.0,217,,,,,,,,0,0,0,0,0,0,0
+student,21m 30s,21m 32s,[Untranscribed],2.05,1290.0,1292.05,218,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 32s,21m 32s,Yeah.,0.64,1292.05,1292.69,219,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 32s,21m 33s,,0.51,1292.69,1293.2,219,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 33s,21m 33s,Okay.,0.48,1293.2,1293.68,219,,,,,,,,0,0,0,0,0,0,0
+student,21m 33s,21m 39s,[Untranscribed],6.24,1293.68,1299.92,220,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 39s,21m 40s,Okay.,0.44,1299.92,1300.36,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 40s,21m 41s,Who agrees with Eli?,1.24,1300.36,1301.6,221,1.0,,,,,,,49,0,0,0,0,0,0
+teacher,21m 41s,21m 42s,,0.48,1301.6,1302.08,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 42s,21m 42s,Okay.,0.56,1302.08,1302.64,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 42s,21m 43s,See a lot of heads.,1.2,1302.64,1303.84,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 43s,21m 44s,,0.16,1303.84,1304.0,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 44s,21m 46s,240 inches cubed.,2.8,1304.0,1306.8,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 46s,21m 46s,,0.08,1306.8,1306.88,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 46s,21m 47s,This is a big shape.,0.96,1306.88,1307.84,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 47s,21m 48s,Yes.,0.4,1307.84,1308.24,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 48s,21m 48s,,0.16,1308.24,1308.4,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 48s,21m 51s,"Okay, talk with your neighbor before you solve it.",2.64,1308.4,1311.04,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 51s,21m 51s,,0.4,1311.04,1311.44,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 51s,21m 52s,What does he have to do now?,1.44,1311.44,1312.88,221,1.0,,,,,,,50,0,0,0,0,0,0
+teacher,21m 52s,21m 52s,,0.08,1312.88,1312.96,221,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 52s,21m 56s,"Wait, I can't see your first answer very well.",3.2,1312.96,1316.16,221,,,,,,,,0,0,0,0,0,0,0
+student,21m 56s,21m 57s,[Untranscribed],1.52,1316.16,1317.68,222,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 57s,21m 58s,What is he going to do?,0.96,1317.68,1318.64,223,1.0,,,,,,,51,0,0,0,0,0,0
+teacher,21m 58s,21m 59s,Do you know the answer?,1.04,1318.64,1319.68,223,1.0,,,,,,,51,0,0,0,0,0,0
+teacher,21m 59s,22m 0s,,0.39,1319.68,1320.07,223,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 0s,22m 1s,We're not going to let him solve it until you solve it.,1.8,1320.07,1321.87,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 1s,22m 2s,Ready?,0.24,1321.87,1322.11,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 2s,22m 3s,Go talk with your neighbor.,1.24,1322.11,1323.35,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 3s,22m 3s,,0.4,1323.35,1323.75,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 3s,22m 4s,Do you know the total?,1.04,1323.75,1324.79,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 4s,22m 5s,,0.48,1324.79,1325.27,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 5s,22m 6s,"Ready, Isla?",0.84,1325.27,1326.11,223,1.0,,,,,,,52,0,0,0,0,0,0
+teacher,22m 6s,22m 6s,Find the total.,0.68,1326.11,1326.79,223,1.0,,,,,,,52,0,0,0,0,0,0
+student,22m 6s,22m 8s,,2.08,1326.79,1328.87,224,,,,,,,,0,0,0,0,0,0,0
+student,22m 8s,22m 9s,So.,0.36,1328.87,1329.23,224,,,,,,,,0,0,0,0,0,0,0
+student,22m 9s,22m 9s,Thank you.,0.6,1329.23,1329.83,224,,,,,,,,0,0,0,0,0,0,0
+student,22m 9s,22m 10s,,0.72,1329.83,1330.55,224,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 10s,22m 13s,He's giving you the measurements for A.,3.12,1330.55,1333.67,225,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 13s,22m 13s,,0.24,1333.67,1333.91,225,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 13s,22m 14s,That's a four.,0.8,1333.91,1334.71,225,,,,,,,,0,0,0,0,0,0,0
+student,22m 14s,22m 16s,[Untranscribed],1.68,1334.71,1336.39,226,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 16s,22m 16s,"Oh, sorry.",0.52,1336.39,1336.91,227,,,,,,,,0,0,0,0,0,0,0
+student,22m 16s,22m 19s,"Yeah, that's a six.",2.12,1336.91,1339.03,228,,,,,,,,0,0,0,0,0,0,0
+student,22m 19s,22m 19s,,0.48,1339.03,1339.51,228,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 19s,22m 20s,So this is one.,0.96,1339.51,1340.47,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 20s,22m 21s,,0.88,1340.47,1341.35,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 21s,22m 25s,"68 for eight, 240 for B.",4.0,1341.35,1345.35,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 25s,22m 25s,,0.42,1345.35,1345.77,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 25s,22m 26s,Okay.,0.32,1345.77,1346.09,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 26s,22m 27s,Raise your hand when you know it.,1.04,1346.09,1347.13,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 27s,22m 28s,I have to have at least 20 people know it.,1.76,1347.13,1348.89,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 28s,22m 29s,Go.,0.32,1348.89,1349.21,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 29s,22m 29s,,0.56,1349.21,1349.77,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 29s,22m 31s,"Okay, we're gonna count them.",1.52,1349.77,1351.29,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 31s,22m 31s,,0.4,1351.29,1351.69,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 31s,22m 33s,We're not just gonna let you do the work.,1.64,1351.69,1353.33,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 33s,22m 35s,We're gonna let everybody try to sell this.,1.68,1353.33,1355.01,229,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 35s,22m 37s,"Okay, we're assigning the volume for the whole shape.",2.52,1355.01,1357.53,229,,,,,,,,0,0,0,0,0,0,0
+student,22m 37s,22m 39s,[Untranscribed],2.4,1357.53,1359.93,230,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 39s,22m 45s,"I see 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13.",5.76,1359.93,1365.69,231,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 45s,22m 45s,,0.16,1365.69,1365.85,231,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 45s,22m 47s,I need two more people.,1.6,1365.85,1367.45,231,,,,,,,,0,0,0,0,0,0,0
+student,22m 47s,22m 48s,[Untranscribed],1.2,1367.45,1368.65,232,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 48s,22m 49s,"14, 15.",1.04,1368.65,1369.69,233,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 49s,22m 49s,,0.08,1369.69,1369.77,233,,,,,,,,0,0,0,0,0,0,0
+student,22m 49s,22m 51s,"Okay, you may solve it.",1.52,1369.77,1371.29,234,,,,,,,,0,0,0,0,0,0,0
+student,22m 51s,22m 52s,,0.91,1371.29,1372.2,234,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 52s,22m 52s,Tell us what you're doing.,0.68,1372.2,1372.88,235,1.0,,1.0,1.0,,,,53,0,8,20,0,0,0
+student,22m 52s,22m 53s,Talk to the microphone.,1.08,1372.88,1373.96,236,,,,,,,,0,0,0,0,0,0,0
+student,22m 53s,22m 54s,,0.8,1373.96,1374.76,236,,,,,,,,0,0,0,0,0,0,0
+student,22m 54s,22m 59s,I'm going to add both of my volumes from A and B.,4.32,1374.76,1379.08,236,,,,,,,,0,0,0,0,0,0,0
+student,22m 59s,22m 59s,,0.094,1379.08,1379.174,236,,,,,,,,0,0,0,0,0,0,0
+silence,22m 59s,23m 1s,,2.786,1379.174,1381.96,237,,,,,,,,0,0,0,0,0,0,0
+student,23m 1s,23m 8s,So I'm going to add 100 or 240 and 160.,6.19,1381.96,1388.15,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 8s,23m 8s,,0.62,1388.15,1388.77,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 8s,23m 13s,0 plus 8 is 8.,4.79,1388.77,1393.56,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 13s,23m 14s,,1.2,1393.56,1394.76,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 14s,23m 19s,"But 4 plus 8, 6 is 10.",4.698,1394.76,1399.458,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 19s,23m 19s,,0.324,1399.458,1399.782,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 19s,23m 26s,1 plus 2 plus 3 is 4.,6.486,1399.782,1406.268,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 26s,23m 27s,,0.744,1406.268,1407.012,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 27s,23m 30s,400.,3.348,1407.012,1410.36,238,,,,,,,,0,0,0,0,0,0,0
+student,23m 30s,23m 31s,,0.88,1410.36,1411.24,238,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 31s,23m 32s,Talk really loud in the mic.,1.52,1411.24,1412.76,239,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 32s,23m 33s,,0.8,1412.76,1413.56,239,,,,,,,,0,0,0,0,0,0,0
+student,23m 33s,23m 34s,It's just you.,0.96,1413.56,1414.52,240,,,,,,,,0,0,0,0,0,0,0
+student,23m 34s,23m 34s,,0.08,1414.52,1414.6,240,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 34s,23m 37s,"Okay, so who got that same answer, by the way?",3.32,1414.6,1417.92,241,1.0,,,,,,,54,0,0,0,0,0,0
+teacher,23m 37s,23m 38s,You did.,0.4,1417.92,1418.32,241,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 38s,23m 39s,"Oh, nice.",1.48,1418.32,1419.8,241,,,,,1.0,,,0,0,0,0,16,0,0
+teacher,23m 39s,23m 39s,,0.16,1419.8,1419.96,241,,,,,1.0,,,0,0,0,0,16,0,0
+teacher,23m 39s,23m 41s,Let's give ourselves a hand.,1.2,1419.96,1421.16,241,,,,,1.0,,,0,0,0,0,16,0,0
+teacher,23m 41s,23m 41s,,0.48,1421.16,1421.64,241,,,,,1.0,,,0,0,0,0,16,0,0
+teacher,23m 41s,23m 42s,Bravo.,0.8,1421.64,1422.44,241,,,,,1.0,,,0,0,0,0,16,0,0
+student,23m 42s,23m 43s,[Untranscribed],1.12,1422.44,1423.56,242,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 43s,23m 44s,Okay.,0.56,1423.56,1424.12,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 44s,23m 44s,,0.32,1424.12,1424.44,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 44s,23m 44s,All right.,0.4,1424.44,1424.84,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 44s,23m 45s,"Thank you, Eli.",0.92,1424.84,1425.76,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 45s,23m 47s,Thanks for being brave to share that.,1.32,1425.76,1427.08,243,,,,,1.0,,,0,0,0,0,17,0,0
+teacher,23m 47s,23m 47s,,0.7,1427.08,1427.78,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 47s,23m 50s,"All right, can you guys please talk to your name for a minute?",2.4,1427.78,1430.18,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 50s,23m 52s,Where could have someone made a mistake?,2.12,1430.18,1432.3,243,1.0,,,1.0,,,,55,0,0,21,0,0,0
+teacher,23m 52s,23m 52s,Where did you.,0.64,1432.3,1432.94,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 52s,23m 54s,Where's your mistake at?,1.24,1432.94,1434.18,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 54s,23m 54s,,0.08,1434.18,1434.26,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 54s,23m 55s,Talk with your name.,0.88,1434.26,1435.14,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 55s,23m 55s,,0.16,1435.14,1435.3,243,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 55s,23m 56s,Where is your mistake at?,1.2,1435.3,1436.5,243,1.0,,,1.0,,,,56,0,0,22,0,0,0
+student,23m 56s,24m 1s,[Untranscribed],5.01,1436.5,1441.51,244,,,,,,,,0,0,0,0,0,0,0
+silence,24m 1s,24m 5s,,3.49,1441.51,1445.0,245,,,,,,,,0,0,0,0,0,0,0
+group,24m 5s,24m 10s,[Untranscribed],5.505,1445.0,1450.505,246,,,,,,,,0,0,0,0,0,0,0
+student,24m 10s,24m 14s,[Untranscribed],4.245,1450.505,1454.75,247,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 14s,24m 18s,"Okay, is anyone brave enough to share where they thought their mistake was at?",3.52,1454.75,1458.27,248,1.0,,,1.0,,,,57,0,0,23,0,0,0
+teacher,24m 18s,24m 19s,,1.52,1458.27,1459.79,248,1.0,,,1.0,,,,57,0,0,23,0,0,0
+teacher,24m 19s,24m 20s,Justin.,0.72,1459.79,1460.51,248,1.0,,,1.0,,,,57,0,0,23,0,0,0
+student,24m 20s,24m 23s,[Untranscribed],2.72,1460.51,1463.23,249,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 23s,24m 24s,"Okay, just on your multiplication.",1.48,1463.23,1464.71,250,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 24s,24m 25s,Getting the formula.,0.76,1464.71,1465.47,250,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 25s,24m 25s,What else?,0.28,1465.47,1465.75,250,1.0,,,1.0,,,,58,0,0,24,0,0,0
+teacher,24m 25s,24m 26s,Rad.,0.44,1465.75,1466.19,250,1.0,,,1.0,,,,58,0,0,24,0,0,0
+teacher,24m 26s,24m 26s,,0.64,1466.19,1466.83,250,,,,,,,,0,0,0,0,0,0,0
+student,24m 26s,24m 28s,I got 480.,1.84,1466.83,1468.67,251,,,,,,,,0,0,0,0,0,0,0
+student,24m 28s,24m 36s,"Okay, but then I thought that he said 240 was the volume of the whole thing, so then I erased everything.",7.92,1468.67,1476.59,251,,,,,,,,0,0,0,0,0,0,0
+student,24m 36s,24m 36s,,0.16,1476.59,1476.75,251,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 36s,24m 37s,"Ah, dang it.",0.96,1476.75,1477.71,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 37s,24m 37s,,0.08,1477.71,1477.79,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 37s,24m 39s,So you did the work and then you erased it.,1.8,1477.79,1479.59,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 39s,24m 44s,"Okay, now, did you get a different measurement if you cut it the other way?",4.66,1479.59,1484.25,252,1.0,,,,,,,59,0,0,0,0,0,0
+teacher,24m 44s,24m 44s,,0.48,1484.25,1484.73,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 44s,24m 46s,Who cut it the other way?,1.28,1484.73,1486.01,252,1.0,,,,,,,60,0,0,0,0,0,0
+teacher,24m 46s,24m 46s,,0.4,1486.01,1486.41,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 46s,24m 50s,"Okay, so after we get back from break, we're going to solve it cutting the other way.",3.6,1486.41,1490.01,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 50s,24m 54s,"But no matter what, you should have got the same total, which was.",4.4,1490.01,1494.41,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 54s,24m 55s,,0.64,1494.41,1495.05,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 55s,24m 55s,"Ready, James?",0.72,1495.05,1495.77,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 55s,24m 56s,,0.96,1495.77,1496.73,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 56s,24m 59s,400 inches cubed.,2.72,1496.73,1499.45,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 59s,24m 59s,,0.32,1499.45,1499.77,252,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 59s,25m 0s,Okay.,0.56,1499.77,1500.33,252,,,,,,,,0,0,0,0,0,0,0
+teacher,25m 0s,25m 2s,"All right, so we'll solve this when we get back.",2.08,1500.33,1502.41,252,1.0,1.0,,,,,,61,2,0,0,0,0,0
+teacher,25m 2s,25m 2s,,0.24,1502.41,1502.65,252,1.0,1.0,,,,,,61,2,0,0,0,0,0
+teacher,25m 2s,25m 3s,Thank you.,0.64,1502.65,1503.29,252,1.0,1.0,,,,,,61,2,0,0,0,0,0
+teacher,25m 3s,25m 3s,,0.16,1503.29,1503.45,252,1.0,1.0,,,,,,61,2,0,0,0,0,0
+teacher,25m 3s,25m 4s,Please return to your seats.,1.2,1503.45,1504.65,252,1.0,1.0,,,,,,61,2,0,0,0,0,0
+teacher,25m 4s,25m 4s,,0.142,1504.65,1504.792,252,,,,,,,,0,0,0,0,0,0,0
+silence,25m 4s,25m 13s,,8.741,1504.792,1513.533,253,,,,,,,,0,0,0,0,0,0,0
+student,25m 13s,25m 16s,[Untranscribed],2.717,1513.533,1516.25,254,,,,,,,,0,0,0,0,0,0,0

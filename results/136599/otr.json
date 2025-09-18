@@ -1,0 +1,116 @@
+{
+  "otr": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "After students named degrees for key axes points, the class discussed multiple ways to express angles and had just reasoned through one approach to radians.",
+        "instance_id": "29",
+        "quote": "What's another way we can use to convert from degrees to radians?",
+        "following_context_summary": "Students pause to think, then the teacher elicits and models the multiply-by-pi-over-180 method and checks for understanding before moving on.",
+        "post_quote_description": "This prompt invites students to surface and compare methods for degree–radian conversion, strengthening procedural flexibility for upcoming unit-circle work."
+      },
+      {
+        "preceding_context_summary": "The teacher drew a 30° reference angle on the unit circle and set up a right triangle to connect geometry to coordinates.",
+        "instance_id": "55",
+        "quote": "Do I know any of the sides of that triangle?",
+        "following_context_summary": "After a brief pause, students identify the hypotenuse as 1, and the teacher confirms and builds the side-length reasoning from there.",
+        "post_quote_description": "This question draws students into applying unit-circle definitions to determine triangle side lengths that undergird sine and cosine values."
+      },
+      {
+        "preceding_context_summary": "Having established sine and cosine for 7π/6, the teacher shifted to using those values to find another trig ratio.",
+        "instance_id": "112",
+        "quote": "What's the tangent of 7 PI over 6?",
+        "following_context_summary": "Students think quietly, offer attempts, and the teacher scaffolds simplification from y/x through sign analysis and rationalization.",
+        "post_quote_description": "This check-for-understanding prompts students to synthesize prior results (x and y coordinates) into a new ratio, reinforcing relationships among trig functions."
+      }
+    ],
+    "rationale": "These 3 OTR exemplars span strategy elicitation (conversion methods), conceptual setup (unit-triangle sides on the circle), and application/synthesis (computing tangent from coordinates). Together, they show the teacher inviting frequent, purposeful responses that move learners from recall to reasoning and multi-step problem solving."
+  },
+  "oeq": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "After reviewing prior work and inviting questions, the teacher transitioned to choosing which angles to build next on the unit circle.",
+        "instance_id": "14",
+        "quote": "What's another angle that you think might be of interest to us based on what we've learned in this class so far?",
+        "following_context_summary": "A student proposes 45°, and the class considers additional angles, setting up exploration of special triangles.",
+        "post_quote_description": "This open prompt invites students to infer criteria for mathematically useful angles, priming the 30–60–90 and 45–45–90 structures."
+      },
+      {
+        "preceding_context_summary": "Students were discussing why a particular point on the circle mattered and what made it unique for analysis.",
+        "instance_id": "21",
+        "quote": "Why do we choose 30 degrees?",
+        "following_context_summary": "Students offer reasons; the teacher connects their ideas to properties of special right triangles and leverages that to derive coordinates.",
+        "post_quote_description": "By asking for justification, the teacher pushes students to connect angle choice to known geometric relationships that simplify trig reasoning."
+      },
+      {
+        "preceding_context_summary": "The class had just established sine and cosine values for 30° using triangle side lengths and the unit-circle radius.",
+        "instance_id": "30",
+        "quote": "Alright, now that we've identified sine and cosine of this, do you notice any similarities between the coordinates and the sine and cosine of these angles?",
+        "following_context_summary": "Students share observations; the teacher affirms that unit-circle coordinates match (cos θ, sin θ) and clarifies the x/y alignment.",
+        "post_quote_description": "This analysis prompt guides students to synthesize a key conceptual insight: on the unit circle, coordinates encode cosine and sine."
+      }
+    ],
+    "rationale": "These OEQ moments require students to hypothesize and justify (angle selection), connect concepts (coordinates to trig functions), and anticipate structure (special angles). They are high-leverage, content-relevant, and elicit deeper reasoning beyond single-answer recall."
+  },
+  "press": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "A student asked if their drawn axes were “good enough,” and the teacher first checked whether it was a true right angle.",
+        "instance_id": "1",
+        "quote": "Did you use the protractor or did you use some other method to be sure it's 90 degrees or are you just eyeballing it,",
+        "following_context_summary": "The student explains their approach; peers chime in, and the teacher follows up with guidance on using tools accurately.",
+        "post_quote_description": "Pressing for the method surfaces students’ measurement strategies and reinforces precision, a foundation for accurate unit-circle construction."
+      },
+      {
+        "preceding_context_summary": "After establishing the radius is 1 and identifying one side as 1/2 via the 30–60–90 relationship, the teacher pivoted to the unknown side.",
+        "instance_id": "10",
+        "quote": "So what I'm asking you now, before we move back to the coordinates, is to determine using the same logic that you used to get one half here, when this is one, what will this side of the triangle be?",
+        "following_context_summary": "Students reason aloud; the teacher names √3/2 and explains how proportional reasoning leads to that value.",
+        "post_quote_description": "This prompt compels students to extend earlier logic to a new side, deepening conceptual understanding of special-triangle ratios."
+      },
+      {
+        "preceding_context_summary": "Students debated which sides correspond after reorienting a 60° triangle and where each known length belongs.",
+        "instance_id": "22",
+        "quote": "Explain your thinking to your friends here.",
+        "following_context_summary": "A student articulates their reasoning to the group; peers respond, and the teacher revoices to solidify the shared understanding.",
+        "post_quote_description": "By pressing a student to explain to peers, the teacher promotes precise mathematical communication and checks conceptual alignment within the group."
+      }
+    ],
+    "rationale": "Together, these PRESS moments span tool use/precision, proportional reasoning in special triangles, and student-to-student explanation. They each demand that students make their thinking explicit, enabling the teacher to assess understanding and strengthen conceptual clarity."
+  },
+  "wait_time": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "The teacher reframed an earlier question about why trigonometry matters now and connected it to circles and current work.",
+        "instance_id": "3",
+        "quote": "What's the goal of pretty much all of our algebra and pre calculus class?",
+        "following_context_summary": "One student offers a brief idea, followed by an extended quiet period as the class reflects before the teacher continues.",
+        "post_quote_description": "Allowing sustained silence here gives students time to formulate a big-picture response about course goals and mathematical purpose."
+      },
+      {
+        "preceding_context_summary": "Students had named 0°/360° at the positive x-axis; the teacher then asked for the radian measure at that position.",
+        "instance_id": "7",
+        "quote": "What about in Radians?",
+        "following_context_summary": "After a 10-second pause, the teacher affirms 0 radians and transitions to the next axis point, maintaining momentum.",
+        "post_quote_description": "This deliberate pause supports students in translating between degree and radian systems before moving ahead."
+      },
+      {
+        "preceding_context_summary": "The class had just worked through tangent at 7π/6, including simplifying and sign analysis, and shifted back to a benchmark angle.",
+        "instance_id": "35",
+        "quote": "What is the tangent of 30 degrees?",
+        "following_context_summary": "Following a long think-time interval, students attempt answers, and the teacher ties responses back to known ratios and quadrant signs.",
+        "post_quote_description": "Extended wait time here enables students to compute and reason from special-triangle ratios instead of defaulting to calculators."
+      }
+    ],
+    "rationale": "These WAIT TIME examples occur during conceptual, translation, and computation moments, respectively. In each, the teacher pauses long enough for diverse learners to process and respond, modeling productive pacing that supports deeper thinking rather than quick recall."
+  },
+  "prompt_used": "otr",
+  "transcript_id": "136599",
+  "processing_timestamp": "2025-09-18T00:06:21.611055",
+  "model_used": "gpt-5",
+  "transcript_length": 103669,
+  "api_usage": {
+    "prompt_tokens": 32464,
+    "completion_tokens": 7487,
+    "total_tokens": 39951
+  }
+}

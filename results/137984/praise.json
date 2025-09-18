@@ -1,0 +1,71 @@
+{
+  "praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students are naming ways to hook an audience; one student/Media offers “Question,” and the class is discussing how an opening can make the reader wonder.",
+        "instance_id": "4",
+        "quote": "If the audience is left wondering, that's a good thing. That means they want to know more. Okay.",
+        "following_context_summary": "The teacher pivots to another technique, asking a student about starting in the middle and continuing the brainstorming.",
+        "post_quote_description": "This praise affirms an academic idea while explaining why it matters, reinforcing the learning goal of crafting effective hooks."
+      },
+      {
+        "preceding_context_summary": "After watching a clip, students begin drafting brief summaries; one student offers a concise paraphrase as others write.",
+        "instance_id": "6",
+        "quote": "That's how you summarize",
+        "following_context_summary": "Students continue writing and sharing, and the class moves into identifying which hook techniques the clip used.",
+        "post_quote_description": "By explicitly validating the student’s concise paraphrase as an effective summary, the teacher spotlights the target skill and motivates accurate academic practice."
+      },
+      {
+        "preceding_context_summary": "During independent work time on Quill, a student remarks they’re on task and references the sentence they just produced.",
+        "instance_id": "2",
+        "quote": "That's a strong sentence.",
+        "following_context_summary": "The student continues talking and the class shifts to small-group chatter before the teacher reorients the group.",
+        "post_quote_description": "This concise affirmation highlights quality writing and encourages students to attend to sentence strength during drafting."
+      }
+    ],
+    "rationale": "These 3 Praise exemplars were chosen together because they show variety—affirming an academic concept (why questions hook readers), reinforcing a key process skill (summarizing), and recognizing quality of student writing (sentence strength). Each instance is clear, timely, and tied to ongoing work, offering teachers concrete models of how brief praise can meaningfully reinforce learning."
+  },
+  "academic_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "The class names “Question” as a hook technique, and the teacher prompts students to consider how questions affect an audience.",
+        "instance_id": "2",
+        "quote": "If the audience is left wondering, that's a good thing. That means they want to know more. Okay.",
+        "following_context_summary": "The teacher transitions to discuss starting in the middle (in medias res), continuing the techniques brainstorm.",
+        "post_quote_description": "This praise explicitly connects the academic idea to its rhetorical effect, strengthening students’ understanding of why the technique is effective."
+      },
+      {
+        "preceding_context_summary": "After viewing a clip, a student offers a succinct paraphrase as peers are drafting their one-to-two sentence summaries.",
+        "instance_id": "3",
+        "quote": "That's how you summarize",
+        "following_context_summary": "Students keep writing and then prepare to identify the hook techniques used in the clip.",
+        "post_quote_description": "The teacher names and validates the academic process (concise summarizing), giving the class a clear model to emulate."
+      },
+      {
+        "preceding_context_summary": "During independent writing on Quill, a student indicates they’ve crafted a sentence, and the teacher is circulating.",
+        "instance_id": "1",
+        "quote": "That's a strong sentence.",
+        "following_context_summary": "The student continues working and peers chat briefly before the lesson shifts forward.",
+        "post_quote_description": "By praising the quality of a student’s sentence, the teacher draws attention to effective writing choices and encourages care at the sentence level."
+      }
+    ],
+    "rationale": "These 3 Academic-Specific Praise exemplars were chosen together because they target core literacy goals from the lesson—understanding hook techniques, producing effective summaries, and crafting strong sentences—while naming the academic thinking or product that merits praise, making the feedback actionable and instructive."
+  },
+  "behavior_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "As students transition into Quill bell work and the teacher handles attendance/logistics, a student assists by counting aloud for the class.",
+        "instance_id": "1",
+        "quote": "Thank you for counting.",
+        "following_context_summary": "The student replies that they didn’t count, and the teacher refocuses the class on expectations for working the full 10 minutes.",
+        "post_quote_description": "This targeted acknowledgment reinforces a cooperative classroom behavior—helping with a routine—thereby encouraging student ownership in smooth transitions."
+      }
+    ],
+    "rationale": "These 3 Behavior-Specific Praise exemplars were chosen together because they would ideally highlight a range of on-task, cooperative behaviors; however, only one instance of behavior-specific praise appears in this transcript. The selected moment exemplifies clear, specific reinforcement of a helpful classroom routine, which encourages continued prosocial behavior and supports efficient learning time."
+  },
+  "prompt_used": "praise",
+  "transcript_id": "137984",
+  "processing_timestamp": "2025-09-17T20:19:28.887139",
+  "model_used": "gpt-5",
+  "transcript_length": 58490
+}

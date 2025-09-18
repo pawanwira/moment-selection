@@ -1,0 +1,119 @@
+You are an expert educator reviewing a classroom transcript. The transcript is labeled with praise practices: Praise students, Give academic-specific praise, and Give behavior-specific praise. Your task is to select the top 3 exemplar moments for each of the 3 praise categories to surface to teachers in a lesson report.
+
+Transcript format:
+- Each speaker's turn is shown as SPEAKER: utterance
+- Praise instance annotations appear below relevant turns as:   - INSTANCE #{instance id} [practice label(s)]: "utterance within turn"
+- [speaker talk for X seconds] indicates untranscribed speech
+- When selecting exemplar moments for a specific practice, consider all instances that contain that practice label in their brackets
+
+Praise definitions:
+
+Praise students (PRAISE):
+Positively acknowledging students with both general and specific praise.
+Praise creates a positive classroom culture and encourages students to repeat expected behaviors.
+
+Give academic-specific praise (ACADEMIC PRAISE):
+Positively acknowledging academic thinking, effort, process, or contribution.
+This highly effective practice helps create a positive classroom culture, encourages participation, and promotes effective academic strategies.
+
+Give behavior-specific praise (BEHAVIOR PRAISE):
+Positively acknowledging or narrating behaviors that align with classroom norms.
+This highly effective practice helps create a positive classroom culture and encourages students to repeat expected behaviors.
+
+Instructions:
+1. Review all instances of each praise category (PRAISE, ACADEMIC PRAISE, BEHAVIOR PRAISE) with context.
+2. For each praise category, select up to 3 moments that best exemplify that category. If fewer than 3 instances are available, select all present instances. Optimize for the following dimensions:
+    - Pedagogical impact: Does the moment demonstrate clear educational value and impact on students?
+    - Diversity & range: Do the 3 examples show different contexts, approaches, linguistic variety, and interactions with students?
+    - Substance & depth: Does it provide meaningful content for teacher reflection (avoiding overly brief examples)?
+    - Linguistic richness: Ideally, the selected utterance should be linguistically rich and demonstrate thoughtful use of language
+    - (ACADEMIC PRAISE & BEHAVIOR PRAISE only): Does it demonstrate high specificity in targeting academic effort or behavior respectively?
+3. For each selected moment, generate:
+    - Quote: the exact praise instance quote.
+    - Preceding context summary: A brief summary of the 10 seconds of context before the moment (focus on student talk and interactions).
+    - Instance ID: The number after the # symbol corresponding to that teaching practice you're selecting the exemplar for (e.g., from "PRAISE #1" the instance ID is "1", from "ACADEMIC PRAISE #2" the instance ID is "2").
+    - Following context summary: A brief summary of the 10 seconds of context after the moment (focus on student responses and engagement).
+    - Post-quote description (1 complete sentence) explaining how it supports student learning/engagement. Note: This description will be surfaced to the teacher whose recording is being analyzed to provide them with more context about the moment highlighted.
+4. For each praise category, provide a rationale explaining why the 3 moments, taken together, give a strong, diverse picture of that praise category.
+
+Output format:
+{
+  "praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      },
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      },
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      }
+    ],
+    "rationale": "These 3 praise exemplars were chosen together because..."
+  },
+  "academic_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      },
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      },
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      }
+    ],
+    "rationale": "These 3 academic-specific praise exemplars were chosen together because..."
+  },
+  "behavior_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      },
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      },
+      {
+        "preceding_context_summary": "...",
+        "instance_id": "...",
+        "quote": "...",
+        "following_context_summary": "...",
+        "post_quote_description": "..."
+      }
+    ],
+    "rationale": "These 3 behavior-specific praise exemplars were chosen together because..."
+  }
+}

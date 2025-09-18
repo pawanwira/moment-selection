@@ -1,0 +1,75 @@
+{
+  "otr": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "After students recall that Bear felt happy at the beginning and then sad, the teacher paraphrases their ideas to set up a why-question.",
+        "instance_id": "12",
+        "quote": "What made him feel grumpy and sad?",
+        "following_context_summary": "A student explains, \"Because he can't play the games,\" and adds that he is too big, giving the teacher clear evidence of comprehension.",
+        "post_quote_description": "This question prompts students to articulate the cause of Bear’s feelings, checking for understanding of story events and causality."
+      },
+      {
+        "preceding_context_summary": "During independent work time, the teacher confers with a student, reminding them to reread their writing and think about the story sequence.",
+        "instance_id": "25",
+        "quote": "How is Bear feeling?",
+        "following_context_summary": "The student answers briefly and the teacher affirms, connecting the response to the student’s drawing and writing about Bear.",
+        "post_quote_description": "This prompt elicits a concrete response that the teacher immediately uses to guide the student’s drawing and writing to match the story."
+      },
+      {
+        "preceding_context_summary": "The teacher praises Matias’s patience and confirms the first feeling as happy, preparing students to sequence what happens next.",
+        "instance_id": "28",
+        "quote": "Okay, and then what about next?",
+        "following_context_summary": "A student offers the next event/feeling and the teacher affirms and labels it as “second,” reinforcing ordering language.",
+        "post_quote_description": "This question gives students a chance to state the next step in the story sequence, supporting narrative ordering and transition language."
+      }
+    ],
+    "rationale": "These 3 OTR exemplars were chosen together because they show varied, instructionally meaningful opportunities for students to respond: citing causes in a read-aloud, identifying character feelings during conferring, and articulating next steps in a sequence. Together, they illustrate whole-group and one-on-one checks for understanding that directly feed into students’ drawing/writing work."
+  },
+  "oeq": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students are observing characters playing; the teacher asks how the characters feel and primes the idea of ‘happy.’",
+        "instance_id": "2",
+        "quote": "How can you tell?",
+        "following_context_summary": "A student justifies their inference with, \"Because they're laughing,\" demonstrating use of evidence from the scene.",
+        "post_quote_description": "This open-ended prompt requires students to cite evidence for an inference, fostering justification and text/illustration-based reasoning."
+      },
+      {
+        "preceding_context_summary": "After students state Bear felt happy then sad, the teacher reframes their ideas to probe for the underlying reason.",
+        "instance_id": "6",
+        "quote": "What made him feel grumpy and sad?",
+        "following_context_summary": "Students explain exclusion from the games and being too big as reasons, showing causal understanding of the plot.",
+        "post_quote_description": "This question invites multiple valid explanations about character motivation and events, deepening causal comprehension."
+      },
+      {
+        "preceding_context_summary": "The teacher introduces a two-sided paper with a box and lines, asking what students think they’ll do with the box.",
+        "instance_id": "8",
+        "quote": "So if you're not gonna write, what might you do in this box?",
+        "following_context_summary": "A student suggests an idea and the teacher affirms, “You might draw a picture,” clarifying task expectations through student reasoning.",
+        "post_quote_description": "This prompt encourages students to propose appropriate task options, engaging them in planning how to represent understanding."
+      }
+    ],
+    "rationale": "These 3 OEQ exemplars were chosen together because they demand explanation and reasoning in different ways: citing observable evidence, explaining causes in the narrative, and proposing task-appropriate choices. They collectively highlight high cognitive demand, rich language use, and clear connections to both comprehension and the follow-up writing/drawing task."
+  },
+  "press": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students note the characters are playing; the teacher asks how the characters feel and suggests they’re happy.",
+        "instance_id": "1",
+        "quote": "How can you tell?",
+        "following_context_summary": "A student explains, “Because they’re laughing,” making their thinking visible and grounded in observed details.",
+        "post_quote_description": "This press-for-explanation moves students beyond labeling feelings to justifying them with evidence from the scene."
+      }
+    ],
+    "rationale": "Only one PRESS instance was annotated; it is a strong example because it explicitly pushes for students’ reasoning and evidence, modeling the expectation that claims about the text should be supported."
+  },
+  "wait_time": {
+    "exemplars": [],
+    "rationale": "No WAIT TIME instances were annotated in the transcript. While moments of silence occurred, without a corresponding WAIT TIME annotation, there are no eligible examples to surface."
+  },
+  "prompt_used": "otr",
+  "transcript_id": "136608",
+  "processing_timestamp": "2025-09-17T23:42:28.553992",
+  "model_used": "gpt-5",
+  "transcript_length": 26678
+}

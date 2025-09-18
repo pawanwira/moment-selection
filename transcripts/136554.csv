@@ -1,0 +1,961 @@
+speaker,start_time,end_time,utterance,duration_in_seconds,start_time_in_seconds,end_time_in_seconds,bubble_idx,opportunities_to_respond,wait_times,presses_for_explanation,open_ended_questions,praises,behavior_specific_praises,academic_specific_praises,opportunities_to_respond_instance_id,wait_times_instance_id,presses_for_explanation_instance_id,open_ended_questions_instance_id,praises_instance_id,behavior_specific_praises_instance_id,academic_specific_praises_instance_id
+silence,0m 0s,0m 23s,,23.92,0.0,23.92,0,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 23s,0m 27s,"All right, looks like most people are done writing, I think.",3.38,23.92,27.3,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 27s,0m 28s,What'd you guys put?,0.84,27.3,28.14,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 28s,0m 30s,So during this unit we will learn to what?,2.56,28.14,30.7,1,1.0,,,1.0,,,,1,0,0,1,0,0,0
+teacher,0m 30s,0m 31s,,0.48,30.7,31.18,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 31s,0m 31s,Yes.,0.48,31.18,31.66,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 31s,0m 32s,,0.72,31.66,32.38,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 32s,0m 33s,Find the central area.,0.8,32.38,33.18,1,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 33s,0m 37s,Why is that useful put for that second part or helpful?,4.16,33.18,37.34,1,1.0,,1.0,1.0,,,,2,0,1,2,0,0,0
+teacher,0m 37s,0m 38s,,1.149,37.34,38.489,1,,,,,,,,0,0,0,0,0,0,0
+student,0m 38s,0m 38s,,0.451,38.489,38.94,2,,,,,,,,0,0,0,0,0,0,0
+student,0m 38s,0m 39s,Yeah.,0.48,38.94,39.42,2,,,,,,,,0,0,0,0,0,0,0
+student,0m 39s,0m 39s,,0.16,39.42,39.58,2,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 39s,0m 40s,Or just if you have it.,1.24,39.58,40.82,3,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 40s,0m 41s,Do you have it?,0.52,40.82,41.34,3,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 41s,0m 41s,,0.24,41.34,41.58,3,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 41s,0m 42s,Yeah.,0.48,41.58,42.06,3,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 42s,0m 42s,,0.16,42.06,42.22,3,,,,,,,,0,0,0,0,0,0,0
+student,0m 42s,0m 42s,Cool.,0.48,42.22,42.7,4,,,,,,,,0,0,0,0,0,0,0
+student,0m 42s,0m 44s,,1.36,42.7,44.06,4,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 44s,0m 44s,Okay.,0.6,44.06,44.66,5,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 44s,0m 45s,Yeah.,0.44,44.66,45.1,5,,,,,,,,0,0,0,0,0,0,0
+student,0m 45s,0m 49s,"Oh, because it will help me save time and not get stressed.",4.4,45.1,49.5,6,,,,,,,,0,0,0,0,0,0,0
+student,0m 49s,0m 49s,,0.08,49.5,49.58,6,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 49s,0m 50s,Nice.,0.48,49.58,50.06,7,,,,,1.0,,1.0,0,0,0,0,1,0,1
+teacher,0m 50s,0m 50s,,0.32,50.06,50.38,7,,,,,1.0,,1.0,0,0,0,0,1,0,1
+teacher,0m 50s,0m 52s,"Save time, not get stressed.",1.64,50.38,52.02,7,,,,,1.0,,1.0,0,0,0,0,1,0,1
+teacher,0m 52s,0m 57s,Also you'll be able to figure out the most important point of whatever you're reading or seeing.,5.52,52.02,57.54,7,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 57s,0m 59s,That's kind of for the summary statement too.,1.56,57.54,59.1,7,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 59s,0m 59s,,0.16,59.1,59.26,7,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 59s,0m 59s,Cool.,0.48,59.26,59.74,7,,,,,,,,0,0,0,0,0,0,0
+teacher,0m 59s,1m 0s,So not just about history.,1.12,59.74,60.86,7,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 0s,1m 0s,,0.08,60.86,60.94,7,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 0s,1m 3s,Giving skills that will help you in school and in life.,2.64,60.94,63.58,7,,,,,,,,0,0,0,0,0,0,0
+student,1m 3s,1m 4s,[Untranscribed],1.12,63.58,64.7,8,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 4s,1m 7s,"Alright, so that was it for the do now the learning goal today.",2.68,64.7,67.38,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 7s,1m 16s,"So today's mostly focusing on just content like learning about the geography of Rome since it's our new unit, Unit one, officially.",8.72,67.38,76.1,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 16s,1m 24s,"I know you guys read a little bit yesterday about some daily life stuff, but we're gonna rewind a little bit and talk about like what their location was like.",8.12,76.1,84.22,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 24s,1m 24s,,0.08,84.22,84.3,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 24s,1m 26s,"If you want, you know, you can put page 10 in your binder.",2.57,84.3,86.87,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 26s,1m 27s,,0.16,86.87,87.03,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 27s,1m 29s,We're going to be adding to this a little bit as we go.,2.88,87.03,89.91,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 29s,1m 30s,,0.32,89.91,90.23,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 30s,1m 35s,"You see there we got the grapes on the back, little graphic organizer on the back.",5.32,90.23,95.55,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 35s,1m 39s,"But if you want to put page in in your binder so it's not in your way, that's fine.",3.8,95.55,99.35,9,,,,,,,,0,0,0,0,0,0,0
+teacher,1m 39s,1m 39s,,0.277,99.35,99.627,9,,,,,,,,0,0,0,0,0,0,0
+silence,1m 39s,1m 58s,,18.883,99.627,118.51,10,,,,,,,,0,0,0,0,0,0,0
+student,1m 58s,2m 0s,[Untranscribed],2.34,118.51,120.85,11,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 0s,2m 4s,"Okay, so I can explain how the Romans benefited.",3.36,120.85,124.21,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 4s,2m 4s,,0.48,124.21,124.69,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 4s,2m 6s,So we're talking how it helped them.,1.68,124.69,126.37,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 6s,2m 8s,These are all the positive things helped.,2.24,126.37,128.61,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 8s,2m 9s,,0.8,128.61,129.41,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 9s,2m 10s,So geography.,1.28,129.41,130.69,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 10s,2m 10s,Right.,0.28,130.69,130.97,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 10s,2m 13s,"Mountains, rivers, lakes, valleys, all that good stuff.",2.44,130.97,133.41,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 13s,2m 19s,How did that help the Romans basically thrive and become one of the biggest empires in history?,5.67,133.41,139.08,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 19s,2m 22s,A lot of it does have to do with their location and geography.,3.6,139.08,142.68,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 22s,2m 24s,"Okay, that's what we'll talk about today.",1.88,142.68,144.56,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 24s,2m 25s,,0.48,144.56,145.04,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 25s,2m 26s,Before we get into the reading.,1.92,145.04,146.96,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 26s,2m 28s,We're gonna do a little map analysis.,1.92,146.96,148.88,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 28s,2m 29s,,0.16,148.88,149.04,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 29s,2m 33s,So there's a couple maps in Google classroom and all I want you guys to do is just like look through them.,4.359,149.04,153.399,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 33s,2m 35s,I'll put like a timer for six minutes.,2.121,153.399,155.52,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 35s,2m 35s,,0.32,155.52,155.84,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 35s,2m 39s,There's also a Google Earth like slideshow.,3.2,155.84,159.04,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 39s,2m 39s,It's kind of cool.,0.48,159.04,159.52,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 39s,2m 44s,"You can look through that and then maybe as you're looking at the maps, fill this in.",4.88,159.52,164.4,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 44s,2m 44s,,0.16,164.4,164.56,12,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 44s,2m 48s,So what do you notice about Italy's geography?,3.92,164.56,168.48,12,1.0,1.0,,1.0,,,,3,1,0,3,0,0,0
+teacher,2m 48s,2m 49s,"So for example,",1.12,168.48,169.6,12,1.0,1.0,,1.0,,,,3,1,0,3,0,0,0
+teacher,2m 49s,2m 49s,,0.025,169.6,169.625,12,,,,,,,,0,0,0,0,0,0,0
+silence,2m 49s,2m 53s,,3.495,169.625,173.12,13,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 53s,2m 58s,I noticed that Italy has many rivers that run through it like the Tiber river and Arno River.,5.16,173.12,178.28,14,,,,,,,,0,0,0,0,0,0,0
+teacher,2m 58s,3m 0s,"So see, I was like specific and named the rivers.",2.12,178.28,180.4,14,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 0s,3m 1s,They didn't just say it has a lot of rivers.,1.36,180.4,181.76,14,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 1s,3m 2s,,0.32,181.76,182.08,14,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 2s,3m 4s,So see if you can find some other stuff.,2.04,182.08,184.12,14,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 4s,3m 8s,Or maybe there's other rivers that weren't in the example or other types of geography.,4.72,184.12,188.84,14,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 8s,3m 16s,"Okay, so it's just called, Let me see, geography of Italy maps, what we're looking at.",7.96,188.84,196.8,14,,,,,,,,0,0,0,0,0,0,0
+silence,3m 16s,3m 18s,,1.917,196.8,198.717,15,,,,,,,,0,0,0,0,0,0,0
+student,3m 18s,3m 21s,[Untranscribed],2.784,198.717,201.502,16,,,,,,,,0,0,0,0,0,0,0
+silence,3m 21s,3m 34s,,12.898,201.502,214.4,17,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 34s,3m 37s,So this one's probably the easiest to get your information from.,3.08,214.4,217.48,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 37s,3m 38s,For the.,0.6,217.48,218.08,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 38s,3m 38s,,0.4,218.08,218.48,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 38s,3m 39s,"Your response, little box.",1.46,218.48,219.94,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 39s,3m 40s,,0.16,219.94,220.1,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 40s,3m 41s,This one I just wanted to show you.,1.52,220.1,221.62,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 41s,3m 41s,,0.08,221.62,221.7,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 41s,3m 45s,"If you don't know what topography is, you can look at that, read the definition there.",4.16,221.7,225.86,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 45s,3m 46s,,0.16,225.86,226.02,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 46s,3m 48s,And then there's the Google Earth link.,2.16,226.02,228.18,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 48s,3m 48s,,0.08,228.18,228.26,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 48s,3m 48s,Cool.,0.48,228.26,228.74,18,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 48s,3m 49s,,0.572,228.74,229.312,18,,,,,,,,0,0,0,0,0,0,0
+silence,3m 49s,3m 57s,,7.864,229.312,237.175,19,,,,,,,,0,0,0,0,0,0,0
+student,3m 57s,3m 58s,[Untranscribed],1.165,237.175,238.34,20,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 58s,3m 59s,Five minutes maybe.,0.96,238.34,239.3,21,,,,,,,,0,0,0,0,0,0,0
+teacher,3m 59s,4m 1s,Or I'll check in in five minutes.,2.32,239.3,241.62,21,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 1s,4m 1s,,0.24,241.62,241.86,21,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 1s,4m 2s,Let's do,0.56,241.86,242.42,21,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 2s,4m 2s,,0.442,242.42,242.862,21,,,,,,,,0,0,0,0,0,0,0
+silence,4m 2s,4m 6s,,3.358,242.862,246.22,22,,,,,,,,0,0,0,0,0,0,0
+silence,4m 6s,4m 6s,it.,0.24,246.22,246.46,22,,,,,,,,0,0,0,0,0,0,0
+silence,4m 6s,4m 29s,,23.048,246.46,269.508,22,,,,,,,,0,0,0,0,0,0,0
+student,4m 29s,4m 31s,[Untranscribed],1.89,269.508,271.398,23,,,,,,,,0,0,0,0,0,0,0
+silence,4m 31s,4m 34s,,3.156,271.398,274.553,24,,,,,,,,0,0,0,0,0,0,0
+student,4m 34s,4m 36s,[Untranscribed],1.517,274.553,276.07,25,,,,,,,,0,0,0,0,0,0,0
+teacher,4m 36s,4m 37s,So what do you notice from the maps?,1.84,276.07,277.91,26,1.0,,,1.0,,,,4,0,0,4,0,0,0
+teacher,4m 37s,4m 38s,,0.592,277.91,278.502,26,,,,,,,,0,0,0,0,0,0,0
+silence,4m 38s,4m 43s,,4.995,278.502,283.497,27,,,,,,,,0,0,0,0,0,0,0
+student,4m 43s,4m 48s,[Untranscribed],5.012,283.497,288.509,28,,,,,,,,0,0,0,0,0,0,0
+silence,4m 48s,4m 53s,,5.333,288.509,293.842,29,,,,,,,,0,0,0,0,0,0,0
+student,4m 53s,4m 56s,[Untranscribed],3.037,293.842,296.879,30,,,,,,,,0,0,0,0,0,0,0
+silence,4m 56s,4m 59s,,2.278,296.879,299.157,31,,,,,,,,0,0,0,0,0,0,0
+student,4m 59s,5m 0s,[Untranscribed],1.282,299.157,300.44,32,,,,,,,,0,0,0,0,0,0,0
+silence,5m 0s,5m 4s,,4.016,300.44,304.456,33,,,,,,,,0,0,0,0,0,0,0
+student,5m 4s,5m 7s,[Untranscribed],3.054,304.456,307.51,34,,,,,,,,0,0,0,0,0,0,0
+silence,5m 7s,5m 16s,,9.281,307.51,316.792,35,,,,,,,,0,0,0,0,0,0,0
+student,5m 16s,5m 19s,[Untranscribed],2.717,316.792,319.508,36,,,,,,,,0,0,0,0,0,0,0
+silence,5m 19s,5m 23s,,3.962,319.508,323.47,37,,,,,,,,0,0,0,0,0,0,0
+student,5m 23s,5m 23s,It,0.24,323.47,323.71,38,,,,,,,,0,0,0,0,0,0,0
+student,5m 23s,5m 24s,,0.912,323.71,324.622,38,,,,,,,,0,0,0,0,0,0,0
+silence,5m 24s,5m 32s,,7.881,324.622,332.502,39,,,,,,,,0,0,0,0,0,0,0
+student,5m 32s,5m 36s,[Untranscribed],4.168,332.502,336.67,40,,,,,,,,0,0,0,0,0,0,0
+silence,5m 36s,5m 38s,,1.839,336.67,338.51,41,,,,,,,,0,0,0,0,0,0,0
+student,5m 38s,5m 40s,[Untranscribed],2.008,338.51,340.518,42,,,,,,,,0,0,0,0,0,0,0
+silence,5m 40s,5m 42s,,1.755,340.518,342.273,43,,,,,,,,0,0,0,0,0,0,0
+student,5m 42s,5m 46s,[Untranscribed],3.932,342.273,346.205,44,,,,,,,,0,0,0,0,0,0,0
+silence,5m 46s,5m 57s,,11.002,346.205,357.207,45,,,,,,,,0,0,0,0,0,0,0
+student,5m 57s,5m 58s,[Untranscribed],1.266,357.207,358.473,46,,,,,,,,0,0,0,0,0,0,0
+silence,5m 58s,6m 1s,,2.768,358.473,361.24,47,,,,,,,,0,0,0,0,0,0,0
+student,6m 1s,6m 3s,[Untranscribed],2.261,361.24,363.502,48,,,,,,,,0,0,0,0,0,0,0
+silence,6m 3s,6m 9s,,6.007,363.502,369.509,49,,,,,,,,0,0,0,0,0,0,0
+student,6m 9s,6m 10s,[Untranscribed],1.331,369.509,370.84,50,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 10s,6m 13s,"if you finish early, you can find your house on Google Earth.",2.56,370.84,373.4,51,,,,,,,,0,0,0,0,0,0,0
+student,6m 13s,6m 18s,[Untranscribed],4.918,373.4,378.318,52,,,,,,,,0,0,0,0,0,0,0
+silence,6m 18s,6m 20s,,2.194,378.318,380.512,53,,,,,,,,0,0,0,0,0,0,0
+student,6m 20s,6m 30s,[Untranscribed],9.488,380.512,390.0,54,,,,,,,,0,0,0,0,0,0,0
+group,6m 30s,6m 40s,[Untranscribed],10.01,390.0,400.01,55,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 40s,6m 40s,That,0.24,400.01,400.25,56,,,,,,,,0,0,0,0,0,0,0
+teacher,6m 40s,6m 40s,,0.596,400.25,400.846,56,,,,,,,,0,0,0,0,0,0,0
+group,6m 40s,6m 45s,[Untranscribed],4.154,400.846,405.0,57,,,,,,,,0,0,0,0,0,0,0
+student,6m 45s,6m 53s,[Untranscribed],8.502,405.0,413.502,58,,,,,,,,0,0,0,0,0,0,0
+silence,6m 53s,6m 56s,,2.919,413.502,416.422,59,,,,,,,,0,0,0,0,0,0,0
+student,6m 56s,7m 5s,,9.198,416.422,425.62,60,,,,,,,,0,0,0,0,0,0,0
+student,7m 5s,7m 5s,it,0.24,425.62,425.86,60,,,,,,,,0,0,0,0,0,0,0
+student,7m 5s,7m 17s,,11.638,425.86,437.498,60,,,,,,,,0,0,0,0,0,0,0
+silence,7m 17s,7m 21s,,3.999,437.498,441.498,61,,,,,,,,0,0,0,0,0,0,0
+student,7m 21s,7m 30s,[Untranscribed],8.502,441.498,450.0,62,,,,,,,,0,0,0,0,0,0,0
+group,7m 30s,7m 35s,[Untranscribed],5.251,450.0,455.251,63,,,,,,,,0,0,0,0,0,0,0
+student,7m 35s,7m 44s,[Untranscribed],9.709,455.251,464.96,64,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 44s,7m 49s,make sure on the Google Earth that you go to at the bottom there's like the little table of contents thing.,4.96,464.96,469.92,65,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 49s,7m 50s,,0.96,469.92,470.88,65,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 50s,7m 52s,So it starts off in.,1.52,470.88,472.4,65,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 52s,7m 52s,,0.16,472.4,472.56,65,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 52s,7m 53s,Let's see.,0.64,472.56,473.2,65,,,,,,,,0,0,0,0,0,0,0
+student,7m 53s,7m 54s,[Untranscribed],1.36,473.2,474.56,66,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 54s,7m 55s,So right here.,0.72,474.56,475.28,67,,,,,,,,0,0,0,0,0,0,0
+student,7m 55s,7m 57s,[Untranscribed],2.33,475.28,477.61,68,,,,,,,,0,0,0,0,0,0,0
+teacher,7m 57s,8m 1s,"Because it starts off in Eurasia, which is just a word, Europe and Asia combined.",4.24,477.61,481.85,69,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 1s,8m 2s,,0.24,481.85,482.09,69,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 2s,8m 4s,"So I just wanted to show you, like, from a distance.",2.2,482.09,484.29,69,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 4s,8m 6s,And then it goes like more and more and more and more in.,2.12,484.29,486.41,69,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 6s,8m 7s,,0.954,486.41,487.364,69,,,,,,,,0,0,0,0,0,0,0
+silence,8m 7s,8m 12s,,4.809,487.364,492.173,70,,,,,,,,0,0,0,0,0,0,0
+student,8m 12s,8m 15s,[Untranscribed],3.324,492.173,495.498,71,,,,,,,,0,0,0,0,0,0,0
+silence,8m 15s,8m 17s,,2.008,495.498,497.506,72,,,,,,,,0,0,0,0,0,0,0
+student,8m 17s,8m 21s,[Untranscribed],3.999,497.506,501.505,73,,,,,,,,0,0,0,0,0,0,0
+silence,8m 21s,8m 24s,,2.734,501.505,504.239,74,,,,,,,,0,0,0,0,0,0,0
+student,8m 24s,8m 26s,[Untranscribed],2.421,504.239,506.66,75,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 26s,8m 27s,Okay.,0.36,506.66,507.02,76,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 27s,8m 29s,Have you guys had a chance to write your response yet?,2.92,507.02,509.94,76,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 29s,8m 30s,,0.323,509.94,510.263,76,,,,,,,,0,0,0,0,0,0,0
+silence,8m 30s,8m 32s,,1.837,510.263,512.1,77,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 32s,8m 34s,Anyone not written their response on the box?,2.56,512.1,514.66,78,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 34s,8m 36s,,1.44,514.66,516.1,78,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 36s,8m 36s,Very good.,0.56,516.1,516.66,78,,,,,1.0,,,0,0,0,0,2,0,0
+teacher,8m 36s,8m 37s,"Okay,",0.48,516.66,517.14,78,,,,,,,,0,0,0,0,0,0,0
+silence,8m 37s,8m 40s,,2.88,517.14,520.02,79,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 40s,8m 43s,"topography, guys, is basically it's showing the different elevation levels.",3.92,520.02,523.94,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 43s,8m 46s,So the more brown means the higher it is.,2.4,523.94,526.34,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 46s,8m 48s,So it's probably a mountain.,2.17,526.34,528.51,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 48s,8m 48s,,0.24,528.51,528.75,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 48s,8m 49s,Right.,0.32,528.75,529.07,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 49s,8m 52s,And then near the coast is the near the sea level screen.,3.28,529.07,532.35,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 52s,8m 52s,,0.64,532.35,532.99,80,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 52s,8m 55s,And then hopefully you got a chance to click through there.,2.72,532.99,535.71,80,,,,,,,,0,0,0,0,0,0,0
+student,8m 55s,8m 57s,[Untranscribed],1.6,535.71,537.31,81,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 57s,8m 59s,Are we ready for the pair share?,2.08,537.31,539.39,82,,,,,,,,0,0,0,0,0,0,0
+teacher,8m 59s,8m 59s,,0.202,539.39,539.592,82,,,,,,,,0,0,0,0,0,0,0
+silence,8m 59s,9m 1s,,2.198,539.592,541.79,83,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 1s,9m 2s,Yeah.,0.4,541.79,542.19,84,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 2s,9m 2s,"Okay, cool.",0.64,542.19,542.83,84,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 2s,9m 3s,,0.72,542.83,543.55,84,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 3s,9m 4s,I didn't want to go too fast.,1.28,543.55,544.83,84,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 4s,9m 5s,,0.96,544.83,545.79,84,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 5s,9m 9s,"So on your desks, we have odd and even numbers, Right.",3.96,545.79,549.75,84,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 9s,9m 11s,"So figure out who's odd, who's even.",1.96,549.75,551.71,84,,,,,,,,0,0,0,0,0,0,0
+student,9m 11s,9m 12s,[Untranscribed],1.28,551.71,552.99,85,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 12s,9m 14s,Odds will start be partner A.,1.68,552.99,554.67,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 14s,9m 15s,,0.47,554.67,555.14,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 15s,9m 18s,"And then remember, we're taking notes where it says your partner's response.",3.12,555.14,558.26,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 18s,9m 20s,"If you need them to repeat it, make sure you just ask them to repeat it.",2.64,558.26,560.9,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 20s,9m 22s,And then we're going to rephrase.,1.44,560.9,562.34,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 22s,9m 22s,,0.64,562.34,562.98,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 22s,9m 24s,So you observe that.,1.28,562.98,564.26,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 24s,9m 24s,,0.48,564.26,564.74,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 24s,9m 27s,"So don't forget the star habits as we do, basically.",2.32,564.74,567.06,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 27s,9m 27s,,0.64,567.06,567.7,86,,,,,,,,0,0,0,0,0,0,0
+teacher,9m 27s,9m 29s,"All right, ready, set, talk",1.6,567.7,569.3,86,1.0,,,,,,,5,0,0,0,0,0,0
+teacher,9m 29s,9m 30s,,0.7,569.3,570.0,86,,,,,,,,0,0,0,0,0,0,0
+group,9m 30s,9m 46s,,16.88,570.0,586.88,87,,,,,,,,0,0,0,0,0,0,0
+group,9m 46s,9m 47s,it.,0.24,586.88,587.12,87,,,,,,,,0,0,0,0,0,0,0
+group,9m 47s,10m 3s,,16.378,587.12,603.498,87,,,,,,,,0,0,0,0,0,0,0
+silence,10m 3s,10m 5s,,2.008,603.498,605.506,88,,,,,,,,0,0,0,0,0,0,0
+group,10m 5s,10m 34s,[Untranscribed],29.314,605.506,634.82,89,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 34s,10m 36s,[Untranscribed],2.0,634.82,636.82,90,,,,,,,,0,0,0,0,0,0,0
+group,10m 36s,10m 47s,[Untranscribed],11.04,636.82,647.86,91,,,,,,,,0,0,0,0,0,0,0
+teacher,10m 47s,10m 49s,So maybe she needs to repeat it.,1.36,647.86,649.22,92,,,,,,,,0,0,0,0,0,0,0
+group,10m 49s,10m 52s,[Untranscribed],2.88,649.22,652.1,93,,,,,,,,0,0,0,0,0,0,0
+student,10m 52s,10m 53s,Nice and secret landscape.,1.52,652.1,653.62,94,,,,,,,,0,0,0,0,0,0,0
+group,10m 53s,11m 4s,[Untranscribed],10.58,653.62,664.2,95,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 4s,11m 4s,Yeah.,0.32,664.2,664.52,96,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 4s,11m 4s,,0.08,664.52,664.6,96,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 4s,11m 5s,Did you get his response?,1.12,664.6,665.72,96,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 5s,11m 6s,Yeah.,0.4,665.72,666.12,96,,,,,,,,0,0,0,0,0,0,0
+group,11m 6s,11m 20s,[Untranscribed],13.88,666.12,680.0,97,,,,,,,,0,0,0,0,0,0,0
+student,11m 20s,11m 29s,[Untranscribed],9.97,680.0,689.97,98,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 29s,11m 30s,"Oh, all right.",0.52,689.97,690.49,99,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 30s,11m 31s,Sounds like we're done.,0.76,690.49,691.25,99,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 31s,11m 31s,,0.16,691.25,691.41,99,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 31s,11m 33s,So what did you guys observe?,1.88,691.41,693.29,99,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 33s,11m 34s,What did you guys put?,0.92,693.29,694.21,99,1.0,,,1.0,,,,6,0,0,5,0,0,0
+teacher,11m 34s,11m 34s,,0.295,694.21,694.505,99,,,,,,,,0,0,0,0,0,0,0
+student,11m 34s,11m 36s,[Untranscribed],1.625,694.505,696.13,100,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 36s,11m 37s,"Thank you, Natalie.",0.96,696.13,697.09,101,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 37s,11m 37s,,0.537,697.09,697.627,101,,,,,,,,0,0,0,0,0,0,0
+student,11m 37s,11m 41s,[Untranscribed],4.103,697.627,701.73,102,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 41s,11m 42s,Very good.,0.56,701.73,702.29,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 42s,11m 42s,Yeah.,0.32,702.29,702.61,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 42s,11m 46s,"So the mountains here, these are called the Apennine Mountains.",3.96,702.61,706.57,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 46s,11m 47s,Those ones.,0.68,706.57,707.25,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 47s,11m 47s,,0.24,707.25,707.49,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 47s,11m 49s,And then we got the Alps up top here.,2.48,707.49,709.97,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 49s,11m 50s,,0.24,709.97,710.21,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 50s,11m 50s,Good.,0.36,710.21,710.57,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 50s,11m 51s,And then rivers.,0.68,710.57,711.25,103,,,,,1.0,,,0,0,0,0,3,0,0
+teacher,11m 51s,11m 52s,"Yeah, lots of different rivers.",1.44,711.25,712.69,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 52s,11m 53s,,0.56,712.69,713.25,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 53s,11m 54s,Rome is like right here.,1.68,713.25,714.93,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 54s,11m 55s,,0.08,714.93,715.01,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 55s,11m 57s,So the one closest to Rome is the Tiber River.,2.76,715.01,717.77,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 57s,11m 58s,,0.55,717.77,718.32,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 58s,11m 58s,Cool.,0.28,718.32,718.6,103,,,,,,,,0,0,0,0,0,0,0
+teacher,11m 58s,11m 59s,Anything else?,0.52,718.6,719.12,103,1.0,,,1.0,,,,7,0,0,6,0,0,0
+student,11m 59s,12m 8s,"Yeah, Eric, I noticed that Italy is located in a peninsula and that it is surrounded by the Alps and the sea.",9.68,719.12,728.8,104,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 8s,12m 10s,It is also very hilly.,1.52,728.8,730.32,105,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 10s,12m 10s,,0.16,730.32,730.48,105,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 10s,12m 11s,Very good.,0.72,730.48,731.2,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 11s,12m 11s,Yeah.,0.48,731.2,731.68,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 11s,12m 11s,,0.08,731.68,731.76,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 11s,12m 12s,"So peninsula, guys.",1.08,731.76,732.84,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 12s,12m 13s,We didn't know.,0.48,732.84,733.32,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 13s,12m 13s,Right.,0.16,733.32,733.48,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 13s,12m 17s,"It has water on 1, 2, 3 sides, but land on the other.",3.68,733.48,737.16,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 17s,12m 17s,Right.,0.16,737.16,737.32,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 17s,12m 19s,It's the difference between the island having water all the way around.,2.36,737.32,739.68,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 19s,12m 20s,"Nice, Eric.",0.68,739.68,740.36,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 20s,12m 20s,Very good.,0.44,740.36,740.8,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 20s,12m 21s,,0.24,740.8,741.04,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 21s,12m 21s,Cool.,0.48,741.04,741.52,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 21s,12m 21s,,0.08,741.52,741.6,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 21s,12m 23s,"Well, let's get to the next part then.",1.68,741.6,743.28,105,,,,,1.0,,,0,0,0,0,4,0,0
+teacher,12m 23s,12m 23s,,0.23,743.28,743.51,105,,,,,,,,0,0,0,0,0,0,0
+student,12m 23s,12m 25s,[Untranscribed],2.02,743.51,745.53,106,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 25s,12m 26s,The reading is very straightforward.,1.32,745.53,746.85,107,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 26s,12m 27s,We'll kind of go through it together.,0.96,746.85,747.81,107,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 27s,12m 32s,"If you have a highlighter, let's grab that out, do a little highlighting.",4.28,747.81,752.09,107,,,,,,,,0,0,0,0,0,0,0
+silence,12m 32s,12m 35s,,3.44,752.09,755.53,108,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 35s,12m 41s,"So all those things that you guys just said, the hills, the mountains, the rivers, we're gonna read basically how that helped them.",5.68,755.53,761.21,109,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 41s,12m 41s,Right?,0.2,761.21,761.41,109,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 41s,12m 44s,"And then that's our goal for the day, to be able to explain.",2.6,761.41,764.01,109,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 44s,12m 44s,,0.087,764.01,764.097,109,,,,,,,,0,0,0,0,0,0,0
+silence,12m 44s,12m 58s,,14.483,764.097,778.58,110,,,,,,,,0,0,0,0,0,0,0
+teacher,12m 58s,13m 1s,And you guys notice Italy's shaped like a boot here.,2.48,778.58,781.06,111,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 1s,13m 1s,,0.24,781.06,781.3,111,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 1s,13m 2s,It's got like a little heel.,1.36,781.3,782.66,111,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 2s,13m 2s,,0.16,782.66,782.82,111,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 2s,13m 5s,"So like a long boot, fancy boot.",2.88,782.82,785.7,111,,,,,,,,0,0,0,0,0,0,0
+silence,13m 5s,13m 7s,,2.24,785.7,787.94,112,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 7s,13m 9s,"Okay, are we ready to read?",1.36,787.94,789.3,113,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 9s,13m 10s,,0.72,789.3,790.02,113,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 10s,13m 11s,Anyone wants to read the first paragraph?,1.76,790.02,791.78,113,1.0,1.0,,,,,,8,2,0,0,0,0,0
+teacher,13m 11s,13m 13s,,1.36,791.78,793.14,113,1.0,1.0,,,,,,8,2,0,0,0,0,0
+teacher,13m 13s,13m 14s,"Thanks, Ellie.",0.88,793.14,794.02,113,1.0,1.0,,,,,,8,2,0,0,0,0,0
+silence,13m 14s,13m 16s,,2.477,794.02,796.497,114,,,,,,,,0,0,0,0,0,0,0
+student,13m 16s,13m 18s,[Untranscribed],2.008,796.497,798.505,115,,,,,,,,0,0,0,0,0,0,0
+silence,13m 18s,13m 23s,,4.805,798.505,803.31,116,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 23s,13m 24s,"Peninsula,",0.72,803.31,804.03,117,,,,,,,,0,0,0,0,0,0,0
+silence,13m 24s,13m 26s,,2.693,804.03,806.723,118,,,,,,,,0,0,0,0,0,0,0
+student,13m 26s,13m 33s,[Untranscribed],6.716,806.723,813.44,119,,,,,,,,0,0,0,0,0,0,0
+silence,13m 33s,13m 36s,,2.99,813.44,816.43,120,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 36s,13m 39s,"Adriatic Sea, Ionian Sea,",3.28,816.43,819.71,121,,,,,,,,0,0,0,0,0,0,0
+silence,13m 39s,13m 42s,,3.13,819.71,822.84,122,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 42s,13m 43s,Mediterranean.,0.96,822.84,823.8,123,,,,,,,,0,0,0,0,0,0,0
+student,13m 43s,13m 47s,[Untranscribed],3.595,823.8,827.395,124,,,,,,,,0,0,0,0,0,0,0
+silence,13m 47s,13m 50s,,3.045,827.395,830.44,125,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 50s,13m 50s,Awesome.,0.4,830.44,830.84,126,,,,,1.0,,,0,0,0,0,5,0,0
+teacher,13m 50s,13m 51s,"Thank you, Alan.",0.68,830.84,831.52,126,,,,,1.0,,,0,0,0,0,5,0,0
+teacher,13m 51s,13m 54s,"Hey, whoever's phone is vibrating, make sure you are putting it on silent.",3.36,831.52,834.88,126,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 54s,13m 55s,Is it in the pouch?,0.76,834.88,835.64,126,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 55s,13m 56s,I first,0.8,835.64,836.44,126,,,,,,,,0,0,0,0,0,0,0
+student,13m 56s,13m 59s,[Untranscribed],2.88,836.44,839.32,127,,,,,,,,0,0,0,0,0,0,0
+teacher,13m 59s,14m 0s,beware.,0.72,839.32,840.04,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 0s,14m 0s,,0.16,840.04,840.2,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 0s,14m 2s,"Okay, let's just highlight the key.",2.0,840.2,842.2,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 2s,14m 2s,,0.08,842.2,842.28,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 2s,14m 3s,Like things we need to know.,1.2,842.28,843.48,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 3s,14m 3s,,0.08,843.48,843.56,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 3s,14m 4s,So location.,1.0,843.56,844.56,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 4s,14m 4s,Right.,0.36,844.56,844.92,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 4s,14m 7s,Ancient Rome located in the middle of Italy.,2.92,844.92,847.84,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 7s,14m 9s,There it is on the map right there.,1.44,847.84,849.28,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 9s,14m 10s,,0.72,849.28,850.0,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 10s,14m 12s,We just talked about what a peninsula is.,2.12,850.0,852.12,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 12s,14m 13s,Eric pointed that out.,1.08,852.12,853.2,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 13s,14m 13s,Right.,0.32,853.2,853.52,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 13s,14m 16s,"So again, it's a piece of land surrounded by water on three sides.",3.44,853.52,856.96,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 16s,14m 17s,,0.56,856.96,857.52,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 17s,14m 20s,"So those waters, those seas, are these ones.",2.56,857.52,860.08,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 20s,14m 20s,,0.4,860.08,860.48,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 20s,14m 22s,"Mediterranean, Ionian, Adriatic.",2.32,860.48,862.8,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 22s,14m 23s,,0.8,862.8,863.6,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 23s,14m 26s,We know we're in the continent of Europe.,2.88,863.6,866.48,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 26s,14m 27s,And then down below.,1.0,866.48,867.48,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 27s,14m 27s,Right.,0.32,867.48,867.8,128,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 27s,14m 28s,Is Africa.,0.76,867.8,868.56,128,,,,,,,,0,0,0,0,0,0,0
+student,14m 28s,14m 30s,[Untranscribed],1.68,868.56,870.24,129,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 30s,14m 30s,Cool.,0.48,870.24,870.72,130,,,,,1.0,,,0,0,0,0,6,0,0
+teacher,14m 30s,14m 31s,,0.89,870.72,871.61,130,,,,,1.0,,,0,0,0,0,6,0,0
+teacher,14m 31s,14m 33s,Anyone want to read the next one?,1.6,871.61,873.21,130,1.0,,,,1.0,,,9,0,0,0,6,0,0
+teacher,14m 33s,14m 33s,Go ahead.,0.56,873.21,873.77,130,1.0,,,,,,,9,0,0,0,0,0,0
+teacher,14m 33s,14m 34s,,0.56,873.77,874.33,130,,,,,,,,0,0,0,0,0,0,0
+student,14m 34s,14m 40s,Rome was situated 15 miles inland from the Mediterranean Sea.,6.16,874.33,880.49,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 40s,14m 40s,,0.08,880.49,880.57,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 40s,14m 45s,It was far enough the inland to keep the Romans safe from invaders.,5.12,880.57,885.69,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 45s,14m 46s,,0.32,885.69,886.01,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 46s,14m 50s,And it was in a central location for trading and traveling.,4.16,886.01,890.17,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 50s,14m 50s,,0.48,890.17,890.65,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 50s,14m 58s,Rome's geographic position on the Mediterranean Sea also made it easier to conquer new lands of the region.,7.61,890.65,898.26,131,,,,,,,,0,0,0,0,0,0,0
+student,14m 58s,14m 58s,,0.4,898.26,898.66,131,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 58s,14m 59s,Awesome.,0.56,898.66,899.22,132,,,,,1.0,,,0,0,0,0,7,0,0
+teacher,14m 59s,14m 59s,Thank you.,0.56,899.22,899.78,132,,,,,1.0,,,0,0,0,0,7,0,0
+teacher,14m 59s,14m 59s,,0.08,899.78,899.86,132,,,,,,,,0,0,0,0,0,0,0
+teacher,14m 59s,15m 4s,"Okay, so they're first talking about the Mediterranean Sea and how that was beneficial.",4.32,899.86,904.18,132,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 4s,15m 4s,,0.08,904.18,904.26,132,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 4s,15m 5s,What did they say?,0.88,904.26,905.14,132,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 5s,15m 5s,,0.24,905.14,905.38,132,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 5s,15m 6s,What should we highlight?,1.0,905.38,906.38,132,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 6s,15m 9s,How did the Mediterranean Sea help romans?,3.24,906.38,909.62,132,1.0,1.0,,1.0,,,,10,3,0,7,0,0,0
+silence,15m 9s,15m 12s,,3.163,909.62,912.783,133,,,,,,,,0,0,0,0,0,0,0
+student,15m 12s,15m 14s,[Untranscribed],1.957,912.783,914.74,134,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 14s,15m 18s,"So they're 15 miles inland, meaning from the coast where the ocean is.",3.6,914.74,918.34,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 18s,15m 18s,Right.,0.32,918.34,918.66,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 18s,15m 22s,And it says it's far enough inland to keep the Roman safe from invaders.,4.24,918.66,922.9,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 22s,15m 24s,So that's one good thing.,1.97,922.9,924.87,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 24s,15m 25s,,0.64,924.87,925.51,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 25s,15m 28s,"So if anyone's trying to attack by sea or anything, I have a little time to prepare.",3.28,925.51,928.79,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 28s,15m 29s,,0.4,928.79,929.19,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 29s,15m 31s,It's also right in the middle of the Mediterranean Sea.,2.6,929.19,931.79,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 31s,15m 31s,Right.,0.16,931.79,931.95,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 31s,15m 34s,"If you looked on that big map on Google Earth, right.",2.36,931.95,934.31,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 34s,15m 35s,"Eurasia, like, boom.",1.2,934.31,935.51,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 35s,15m 35s,Right.,0.2,935.51,935.71,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 35s,15m 37s,In between a lot of different places.,1.8,935.71,937.51,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 37s,15m 38s,,0.56,937.51,938.07,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 38s,15m 39s,So that made it easy.,1.24,938.07,939.31,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 39s,15m 40s,"If you're in the middle, right.",1.04,939.31,940.35,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 40s,15m 48s,"You can trade with people above you decide all over, and not only trade, but maybe even conquer that.",7.88,940.35,948.23,135,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 48s,15m 48s,,0.395,948.23,948.625,135,,,,,,,,0,0,0,0,0,0,0
+silence,15m 48s,15m 50s,,2.095,948.625,950.72,136,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 50s,15m 54s,So just basically being in the center is always kind of a good thing.,3.36,950.72,954.08,137,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 54s,15m 54s,,0.165,954.08,954.245,137,,,,,,,,0,0,0,0,0,0,0
+silence,15m 54s,15m 58s,,3.995,954.245,958.24,138,,,,,,,,0,0,0,0,0,0,0
+teacher,15m 58s,16m 0s,"All right, any questions so far?",1.84,958.24,960.08,139,1.0,,,,,,,11,0,0,0,0,0,0
+student,16m 0s,16m 1s,[Untranscribed],1.44,960.08,961.52,140,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 1s,16m 2s,"All right, let's flip it over.",0.92,961.52,962.44,141,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 2s,16m 3s,When you're ready.,0.6,962.44,963.04,141,,,,,,,,0,0,0,0,0,0,0
+silence,16m 3s,16m 14s,,11.52,963.04,974.56,142,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 14s,16m 15s,Do me a favor.,0.76,974.56,975.32,143,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 15s,16m 17s,I see some of you guys maybe getting distracted by the computer.,1.76,975.32,977.08,143,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 17s,16m 21s,Maybe put your computer like 45 degrees so you don't get distracted.,4.09,977.08,981.17,143,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 21s,16m 22s,,1.04,981.17,982.21,143,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 22s,16m 26s,"All right, let's do this paragraph, and then we'll maybe add some stuff to our graphic.",4.56,982.21,986.77,143,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 26s,16m 26s,,0.08,986.77,986.85,143,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 26s,16m 27s,Anyone want to read this one?,1.0,986.85,987.85,143,1.0,1.0,,,,,,12,4,0,0,0,0,0
+teacher,16m 27s,16m 28s,Rome is located.,0.92,987.85,988.77,143,1.0,1.0,,,,,,12,4,0,0,0,0,0
+teacher,16m 28s,16m 29s,,0.727,988.77,989.497,143,,,,,,,,0,0,0,0,0,0,0
+student,16m 29s,16m 30s,[Untranscribed],1.013,989.497,990.509,144,,,,,,,,0,0,0,0,0,0,0
+silence,16m 30s,16m 32s,,2.101,990.509,992.61,145,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 32s,16m 33s,"Jose, how about you?",1.04,992.61,993.65,146,1.0,,,,,,,13,0,0,0,0,0,0
+silence,16m 33s,16m 35s,,1.753,993.65,995.403,147,,,,,,,,0,0,0,0,0,0,0
+student,16m 35s,16m 40s,[Untranscribed],5.447,995.403,1000.85,148,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 40s,16m 41s,"Yeah, you're in the right spot.",1.12,1000.85,1001.97,149,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 41s,16m 43s,,1.533,1001.97,1003.503,149,,,,,,,,0,0,0,0,0,0,0
+student,16m 43s,16m 52s,,9.437,1003.503,1012.94,150,,,,,,,,0,0,0,0,0,0,0
+student,16m 52s,16m 55s,"They used it for drinking, bathing, and watering.",2.36,1012.94,1015.3,150,,,,,,,,0,0,0,0,0,0,0
+student,16m 55s,16m 57s,Their river was also used for traveling.,2.48,1015.3,1017.78,150,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 57s,16m 58s,And boom.,1.0,1017.78,1018.78,151,,,,,,,,0,0,0,0,0,0,0
+teacher,16m 58s,17m 0s,"All right, so we got the Tyer River.",1.52,1018.78,1020.3,151,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 0s,17m 0s,,0.196,1020.3,1020.496,151,,,,,,,,0,0,0,0,0,0,0
+silence,17m 0s,17m 2s,,2.364,1020.496,1022.86,152,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 2s,17m 5s,"Okay, someone tell me, why was the typer river helpful?",2.68,1022.86,1025.54,153,1.0,1.0,1.0,1.0,,,,14,5,2,8,0,0,0
+teacher,17m 5s,17m 6s,How did it help them?,0.92,1025.54,1026.46,153,1.0,1.0,1.0,1.0,,,,14,5,2,8,0,0,0
+silence,17m 6s,17m 8s,,1.866,1026.46,1028.326,154,,,,,,,,0,0,0,0,0,0,0
+student,17m 8s,17m 11s,[Untranscribed],3.604,1028.326,1031.93,155,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 11s,17m 12s,"Yeah, right?",0.36,1031.93,1032.29,156,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 12s,17m 14s,"We know people need water, so drinking water, right?",2.56,1032.29,1034.85,156,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 14s,17m 15s,It's fresh water.,0.84,1034.85,1035.69,156,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 15s,17m 16s,,0.48,1035.69,1036.17,156,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 16s,17m 20s,Also for the crops and ally.,4.4,1036.17,1040.57,156,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 20s,17m 20s,,0.243,1040.57,1040.813,156,,,,,,,,0,0,0,0,0,0,0
+student,17m 20s,17m 24s,[Untranscribed],3.277,1040.813,1044.09,157,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 24s,17m 24s,Nice.,0.36,1044.09,1044.45,158,,,,,1.0,,,0,0,0,0,8,0,0
+teacher,17m 24s,17m 25s,"Yeah, similar to the Caesar.",1.24,1044.45,1045.69,158,,,,,1.0,,,0,0,0,0,8,0,0
+teacher,17m 25s,17m 27s,You can travel all the way down the river.,1.68,1045.69,1047.37,158,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 27s,17m 27s,,0.4,1047.37,1047.77,158,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 27s,17m 29s,"Hey, everybody down there, I'll trade with you.",1.92,1047.77,1049.69,158,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 29s,17m 30s,,0.48,1049.69,1050.17,158,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 30s,17m 31s,"Just makes it quicker, right?",1.0,1050.17,1051.17,158,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 31s,17m 32s,It's not having to walk.,0.84,1051.17,1052.01,158,,,,,,,,0,0,0,0,0,0,0
+silence,17m 32s,17m 36s,,4.65,1052.01,1056.66,159,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 36s,17m 37s,"Okay, let's look at this real quick.",1.28,1056.66,1057.94,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 37s,17m 39s,Let's take a pause here.,1.28,1057.94,1059.22,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 39s,17m 39s,,0.16,1059.22,1059.38,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 39s,17m 45s,So we know this Rome is a city located in the country of Italia.,6.32,1059.38,1065.7,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 45s,17m 45s,,0.24,1065.7,1065.94,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 45s,17m 46s,Yes.,0.48,1065.94,1066.42,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 46s,17m 46s,,0.16,1066.42,1066.58,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 46s,17m 47s,Don't forget.,0.72,1066.58,1067.3,160,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 47s,17m 47s,,0.412,1067.3,1067.712,160,,,,,,,,0,0,0,0,0,0,0
+silence,17m 47s,17m 55s,,7.988,1067.712,1075.7,161,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 55s,17m 57s,"And which continent are we on, guys?",1.92,1075.7,1077.62,162,1.0,,,,,,,15,0,0,0,0,0,0
+teacher,17m 57s,17m 58s,,0.96,1077.62,1078.58,162,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 58s,17m 59s,"Okay, good.",0.68,1078.58,1079.26,162,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 59s,17m 59s,Europe.,0.36,1079.26,1079.62,162,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 59s,17m 59s,,0.24,1079.62,1079.86,162,,,,,,,,0,0,0,0,0,0,0
+teacher,17m 59s,18m 0s,"Yes,",0.48,1079.86,1080.34,162,,,,,,,,0,0,0,0,0,0,0
+silence,18m 0s,18m 3s,,3.45,1080.34,1083.79,163,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 3s,18m 4s,perfect.,0.28,1083.79,1084.07,164,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,18m 4s,18m 4s,Okay.,0.4,1084.07,1084.47,164,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,18m 4s,18m 7s,We learned about the benefits of the Mediterranean Sea.,3.4,1084.47,1087.87,164,,,,,1.0,,,0,0,0,0,9,0,0
+teacher,18m 7s,18m 9s,Let's look back for a second.,1.52,1087.87,1089.39,164,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 9s,18m 12s,What did we learn about that on the front side?,3.0,1089.39,1092.39,164,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 12s,18m 13s,How did it help,0.92,1092.39,1093.31,164,1.0,1.0,1.0,,,,,16,6,3,0,0,0,0
+teacher,18m 13s,18m 13s,,0.356,1093.31,1093.666,164,,,,,,,,0,0,0,0,0,0,0
+silence,18m 13s,18m 16s,,2.835,1093.666,1096.501,165,,,,,,,,0,0,0,0,0,0,0
+student,18m 16s,18m 17s,[Untranscribed],1.209,1096.501,1097.71,166,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 17s,18m 19s,"Mediterranean, Penny?",1.76,1097.71,1099.47,167,1.0,,,,,,,17,0,0,0,0,0,0
+teacher,18m 19s,18m 19s,,0.406,1099.47,1099.876,167,,,,,,,,0,0,0,0,0,0,0
+student,18m 19s,18m 24s,[Untranscribed],4.794,1099.876,1104.67,168,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 24s,18m 25s,Safe.,0.52,1104.67,1105.19,169,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 25s,18m 27s,Helps keep them safe from invaders.,2.04,1105.19,1107.23,169,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 27s,18m 27s,Good.,0.28,1107.23,1107.51,169,,,,,1.0,,,0,0,0,0,10,0,0
+teacher,18m 27s,18m 30s,So being inland actually was for that one.,3.01,1107.51,1110.52,169,,,,,1.0,,,0,0,0,0,10,0,0
+teacher,18m 30s,18m 30s,,0.477,1110.52,1110.997,169,,,,,,,,0,0,0,0,0,0,0
+silence,18m 30s,18m 34s,,3.683,1110.997,1114.68,170,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 34s,18m 35s,Yeah.,0.48,1114.68,1115.16,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 35s,18m 35s,,0.08,1115.16,1115.24,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 35s,18m 36s,So I guess.,0.88,1115.24,1116.12,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 36s,18m 36s,,0.4,1116.12,1116.52,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 36s,18m 37s,I don't know.,0.52,1116.52,1117.04,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 37s,18m 37s,Is that a benefit?,0.88,1117.04,1117.92,171,1.0,,,,,,,18,0,0,0,0,0,0
+teacher,18m 37s,18m 44s,"Actually, because now that I'm thinking of it, I know I highlighted it, but being inland is not of the Mediterranean Sea.",6.16,1117.92,1124.08,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 44s,18m 44s,So let's.,0.44,1124.08,1124.52,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 44s,18m 45s,"Let's leave that one out, actually.",1.399,1124.52,1125.919,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 45s,18m 47s,"Sorry, Penny, that was my fault.",1.321,1125.919,1127.24,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 47s,18m 48s,,1.04,1127.24,1128.28,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 48s,18m 49s,What else?,0.72,1128.28,1129.0,171,1.0,,,,,,,19,0,0,0,0,0,0
+teacher,18m 49s,18m 49s,,0.8,1129.0,1129.8,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 49s,18m 52s,"Yeah, good.",3.12,1129.8,1132.92,171,,,,,1.0,,1.0,0,0,0,0,11,0,2
+teacher,18m 52s,18m 53s,Yeah.,0.32,1132.92,1133.24,171,,,,,1.0,,1.0,0,0,0,0,11,0,2
+teacher,18m 53s,18m 54s,Location for trading and travel.,1.68,1133.24,1134.92,171,,,,,1.0,,1.0,0,0,0,0,11,0,2
+teacher,18m 54s,18m 55s,,0.24,1134.92,1135.16,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 55s,18m 55s,So.,0.18,1135.16,1135.34,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 55s,18m 55s,,0.07,1135.34,1135.41,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 55s,18m 57s,"So being like 15 miles in, right?",1.72,1135.41,1137.13,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 57s,18m 58s,I guess that would be.,1.32,1137.13,1138.45,171,,,,,,,,0,0,0,0,0,0,0
+teacher,18m 58s,19m 0s,That's like a separate benefit.,2.52,1138.45,1140.97,171,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 0s,19m 4s,I should have put that on there so we don't have to write incomplete sentences.,4.0,1140.97,1144.97,171,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 4s,19m 6s,Let's just write some quick notes here.,1.88,1144.97,1146.85,171,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 6s,19m 7s,,0.16,1146.85,1147.01,171,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 7s,19m 9s,So easy.,2.16,1147.01,1149.17,171,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 9s,19m 10s,Made it easier,0.88,1149.17,1150.05,171,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 10s,19m 11s,,1.447,1150.05,1151.497,171,,,,,,,,0,0,0,0,0,0,0
+silence,19m 11s,19m 16s,,4.713,1151.497,1156.21,172,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 16s,19m 24s,"to travel, trip and conquer.",8.33,1156.21,1164.54,173,,,,,,,,0,0,0,0,0,0,0
+silence,19m 24s,19m 29s,,4.962,1164.54,1169.502,174,,,,,,,,0,0,0,0,0,0,0
+student,19m 29s,19m 31s,[Untranscribed],1.822,1169.502,1171.325,175,,,,,,,,0,0,0,0,0,0,0
+silence,19m 31s,19m 47s,,16.415,1171.325,1187.74,176,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 47s,19m 48s,Put it back in a second.,0.72,1187.74,1188.46,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 48s,19m 49s,You're still writing.,0.72,1188.46,1189.18,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 49s,19m 50s,But so there's Rome.,1.4,1189.18,1190.58,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 50s,19m 50s,Right.,0.36,1190.58,1190.94,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 50s,19m 51s,,0.08,1190.94,1191.02,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 51s,19m 51s,So you could travel.,0.84,1191.02,1191.86,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 51s,19m 55s,"Oh, I could go trade with you guys over in Spain, Portugal, maybe down in Africa.",4.04,1191.86,1195.9,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 55s,19m 56s,,0.24,1195.9,1196.14,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 56s,19m 56s,Right.,0.32,1196.14,1196.46,177,,,,,,,,0,0,0,0,0,0,0
+teacher,19m 56s,20m 0s,Or even go around the island of Sicily and go over here to Asia.,3.72,1196.46,1200.18,177,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 0s,20m 0s,Right.,0.24,1200.18,1200.42,177,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 0s,20m 2s,So right in the center there.,1.72,1200.42,1202.14,177,,,,,,,,0,0,0,0,0,0,0
+silence,20m 2s,20m 4s,,2.0,1202.14,1204.14,178,,,,,,,,0,0,0,0,0,0,0
+silence,20m 4s,20m 4s,Cool.,0.48,1204.14,1204.62,178,,,,,,,,0,0,0,0,0,0,0
+silence,20m 4s,20m 4s,,0.16,1204.62,1204.78,178,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 4s,20m 6s,How about the Tiber River?,1.76,1204.78,1206.54,179,1.0,,,,,,,20,0,0,0,0,0,0
+teacher,20m 6s,20m 6s,,0.205,1206.54,1206.745,179,,,,,,,,0,0,0,0,0,0,0
+silence,20m 6s,20m 9s,,2.835,1206.745,1209.58,180,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 9s,20m 10s,"Yeah, Joe.",0.72,1209.58,1210.3,181,1.0,,,,,,,21,0,0,0,0,0,0
+student,20m 10s,20m 12s,,2.37,1210.3,1212.67,182,,,,,,,,0,0,0,0,0,0,0
+student,20m 12s,20m 19s,"Just like the rivers of other civilizations, provided fresh water for the people and animals who live near it.",6.88,1212.67,1219.55,182,,,,,,,,0,0,0,0,0,0,0
+student,20m 19s,20m 23s,"Used for drinking, baking, and watering the crops.",4.32,1219.55,1223.87,182,,,,,,,,0,0,0,0,0,0,0
+student,20m 23s,20m 24s,,0.56,1223.87,1224.43,182,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 24s,20m 24s,Perfect.,0.56,1224.43,1224.99,183,,,,,1.0,,,0,0,0,0,12,0,0
+teacher,20m 24s,20m 25s,,0.2,1224.99,1225.19,183,,,,,,,,0,0,0,0,0,0,0
+silence,20m 25s,20m 28s,,3.307,1225.19,1228.497,184,,,,,,,,0,0,0,0,0,0,0
+student,20m 28s,20m 29s,[Untranscribed],1.013,1228.497,1229.51,185,,,,,,,,0,0,0,0,0,0,0
+silence,20m 29s,20m 32s,,2.987,1229.51,1232.497,186,,,,,,,,0,0,0,0,0,0,0
+student,20m 32s,20m 33s,[Untranscribed],1.012,1232.497,1233.509,187,,,,,,,,0,0,0,0,0,0,0
+silence,20m 33s,20m 38s,,4.995,1233.509,1238.504,188,,,,,,,,0,0,0,0,0,0,0
+student,20m 38s,20m 40s,[Untranscribed],1.926,1238.504,1240.43,189,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 40s,20m 43s,"Also, maybe there was another one, too, similar to the Mediterranean Sea.",3.16,1240.43,1243.59,190,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 43s,20m 43s,Right.,0.24,1243.59,1243.83,190,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 43s,20m 45s,"Also, travel trading.",1.4,1243.83,1245.23,190,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 45s,20m 46s,,1.273,1245.23,1246.503,190,,,,,,,,0,0,0,0,0,0,0
+silence,20m 46s,20m 48s,,1.767,1246.503,1248.27,191,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 48s,20m 49s,"Sorry, I ran out of room.",1.12,1248.27,1249.39,192,,,,,,,,0,0,0,0,0,0,0
+silence,20m 49s,20m 51s,,2.56,1249.39,1251.95,193,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 51s,20m 57s,"Yeah, so like it said, like the part where it says just like, rivers of other ancient civilizations.",5.84,1251.95,1257.79,194,,,,,,,,0,0,0,0,0,0,0
+teacher,20m 57s,21m 0s,"A lot of civilizations, that's where they popped up, right?",3.04,1257.79,1260.83,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 0s,21m 2s,It's you need water.,1.24,1260.83,1262.07,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 2s,21m 3s,You need water to survive.,1.28,1262.07,1263.35,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 3s,21m 8s,"So, like the first, you know, people ever, like, they're gonna settle near the rivers, right?",5.43,1263.35,1268.78,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 8s,21m 9s,,0.8,1268.78,1269.58,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 9s,21m 10s,"Yes, exactly.",1.12,1269.58,1270.7,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 10s,21m 10s,,0.08,1270.7,1270.78,194,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 10s,21m 11s,Good.,0.4,1270.78,1271.18,194,,,,,1.0,,,0,0,0,0,13,0,0
+teacher,21m 11s,21m 11s,,0.078,1271.18,1271.258,194,,,,,,,,0,0,0,0,0,0,0
+silence,21m 11s,21m 32s,,21.452,1271.258,1292.71,195,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 32s,21m 36s,"All right, if you guys could just put your pencil down when you're done so I know we can go back to reading.",3.84,1292.71,1296.55,196,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 36s,21m 37s,,1.05,1296.55,1297.6,196,,,,,,,,0,0,0,0,0,0,0
+student,21m 37s,21m 39s,[Untranscribed],1.907,1297.6,1299.507,197,,,,,,,,0,0,0,0,0,0,0
+silence,21m 39s,21m 41s,,1.991,1299.507,1301.498,198,,,,,,,,0,0,0,0,0,0,0
+student,21m 41s,21m 42s,[Untranscribed],1.292,1301.498,1302.79,199,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 42s,21m 45s,"Jacob, do you mind reading the first paragraph of part two,",2.48,1302.79,1305.27,200,1.0,1.0,,,,,,22,7,0,0,0,0,0
+teacher,21m 45s,21m 45s,,0.228,1305.27,1305.498,200,,,,,,,,0,0,0,0,0,0,0
+student,21m 45s,21m 48s,[Untranscribed],3.452,1305.498,1308.95,201,,,,,,,,0,0,0,0,0,0,0
+teacher,21m 48s,21m 50s,the two mountain ranges.,1.44,1308.95,1310.39,202,,,,,,,,0,0,0,0,0,0,0
+student,21m 50s,21m 55s,[Untranscribed],5.115,1310.39,1315.505,203,,,,,,,,0,0,0,0,0,0,0
+silence,21m 55s,21m 57s,,1.991,1315.505,1317.496,204,,,,,,,,0,0,0,0,0,0,0
+student,21m 57s,22m 15s,[Untranscribed],17.544,1317.496,1335.04,205,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 15s,22m 15s,Awesome.,0.44,1335.04,1335.48,206,,,,,1.0,,,0,0,0,0,14,0,0
+teacher,22m 15s,22m 16s,So let's highlight that again.,1.2,1335.48,1336.68,206,,,,,1.0,,,0,0,0,0,14,0,0
+teacher,22m 16s,22m 20s,"The mountains, the big ones are the Apennines and the Alps.",3.48,1336.68,1340.16,206,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 20s,22m 20s,,0.303,1340.16,1340.463,206,,,,,,,,0,0,0,0,0,0,0
+silence,22m 20s,22m 22s,,1.947,1340.463,1342.41,207,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 22s,22m 24s,"That helped with protection, Right.",2.24,1342.41,1344.65,208,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 24s,22m 24s,,0.32,1344.65,1344.97,208,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 24s,22m 32s,"Pretty hard to get through snowy high mountains, so they would really have to want to try to invade.",7.52,1344.97,1352.49,208,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 32s,22m 32s,,0.48,1352.49,1352.97,208,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 32s,22m 37s,So it's like a big fence provided a natural obstacle with high peaks before you were juicing.,4.4,1352.97,1357.37,208,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 37s,22m 37s,,0.137,1357.37,1357.507,208,,,,,,,,0,0,0,0,0,0,0
+silence,22m 37s,22m 39s,,1.991,1357.507,1359.498,209,,,,,,,,0,0,0,0,0,0,0
+student,22m 39s,22m 40s,[Untranscribed],1.013,1359.498,1360.51,210,,,,,,,,0,0,0,0,0,0,0
+silence,22m 40s,22m 42s,,1.991,1360.51,1362.502,211,,,,,,,,0,0,0,0,0,0,0
+student,22m 42s,22m 44s,[Untranscribed],2.413,1362.502,1364.915,212,,,,,,,,0,0,0,0,0,0,0
+silence,22m 44s,22m 51s,,6.785,1364.915,1371.7,213,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 51s,22m 53s,"All right, next up, who's on the cards?",1.6,1371.7,1373.3,214,,,,,,,,0,0,0,0,0,0,0
+teacher,22m 53s,22m 56s,"Elizabeth, when you're done, Kylie, what you read?",3.68,1373.3,1376.98,214,1.0,,,,,,,23,0,0,0,0,0,0
+student,22m 56s,23m 4s,The next ones were steep and made of easy.,7.56,1376.98,1384.54,215,,,,,,,,0,0,0,0,0,0,0
+student,23m 4s,23m 8s,It made it easy for the Romans to protect themselves from invaders.,3.48,1384.54,1388.02,215,,,,,,,,0,0,0,0,0,0,0
+student,23m 8s,23m 11s,They could also spot invaders from the distance in the sand position.,3.81,1388.02,1391.83,215,,,,,,,,0,0,0,0,0,0,0
+student,23m 11s,23m 13s,From the elevated position.,1.88,1391.83,1393.71,215,,,,,,,,0,0,0,0,0,0,0
+student,23m 13s,23m 14s,,0.4,1393.71,1394.11,215,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 14s,23m 14s,Nice.,0.44,1394.11,1394.55,216,,,,,1.0,,1.0,0,0,0,0,15,0,3
+teacher,23m 14s,23m 15s,So seven hills.,1.24,1394.55,1395.79,216,,,,,1.0,,1.0,0,0,0,0,15,0,3
+teacher,23m 15s,23m 17s,,1.44,1395.79,1397.23,216,,,,,1.0,,1.0,0,0,0,0,15,0,3
+teacher,23m 17s,23m 18s,"Eric, you pointed that out too, right?",1.36,1397.23,1398.59,216,,,,,1.0,,1.0,0,0,0,0,15,0,3
+teacher,23m 18s,23m 19s,You said about the hills.,0.96,1398.59,1399.55,216,,,,,1.0,,1.0,0,0,0,0,15,0,3
+teacher,23m 19s,23m 20s,,0.8,1399.55,1400.35,216,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 20s,23m 21s,"Similarly, Right.",0.96,1400.35,1401.31,216,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 21s,23m 23s,"Protection again, from invaders.",2.08,1401.31,1403.39,216,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 23s,23m 23s,,0.24,1403.39,1403.63,216,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 23s,23m 24s,"So you're up on the hill, right?",1.24,1403.63,1404.87,216,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 24s,23m 27s,"You got the high ground, elevated position.",2.999,1404.87,1407.869,216,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 27s,23m 28s,,0.263,1407.869,1408.132,216,,,,,,,,0,0,0,0,0,0,0
+silence,23m 28s,23m 38s,,10.378,1408.132,1418.51,217,,,,,,,,0,0,0,0,0,0,0
+student,23m 38s,23m 40s,[Untranscribed],2.09,1418.51,1420.6,218,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 40s,23m 42s,"All right, anyone want to read the last one?",1.92,1420.6,1422.52,219,1.0,,,,,,,24,0,0,0,0,0,0
+student,23m 42s,23m 43s,[Untranscribed],1.04,1422.52,1423.56,220,,,,,,,,0,0,0,0,0,0,0
+teacher,23m 43s,23m 44s,"Leo, go ahead.",0.88,1423.56,1424.44,221,1.0,,,,,,,25,0,0,0,0,0,0
+teacher,23m 44s,23m 44s,,0.4,1424.44,1424.84,221,,,,,,,,0,0,0,0,0,0,0
+student,23m 44s,23m 51s,The Romans were well fed due to the rich cal soil they used for farming.,6.16,1424.84,1431.0,222,,,,,,,,0,0,0,0,0,0,0
+student,23m 51s,23m 51s,,0.4,1431.0,1431.4,222,,,,,,,,0,0,0,0,0,0,0
+student,23m 51s,23m 57s,"Most people lived in farming communities, and some of their main crops were grapes, omelets, and wheat.",6.16,1431.4,1437.56,222,,,,,,,,0,0,0,0,0,0,0
+student,23m 57s,23m 57s,,0.4,1437.56,1437.96,222,,,,,,,,0,0,0,0,0,0,0
+student,23m 57s,24m 2s,"They made wine with grapes, olive oil, olives they had.",4.58,1437.96,1442.54,222,,,,,,,,0,0,0,0,0,0,0
+student,24m 2s,24m 4s,,1.75,1442.54,1444.29,222,,,,,,,,0,0,0,0,0,0,0
+student,24m 4s,24m 8s,These items were a common part of your diet and were also awesome.,4.64,1444.29,1448.93,222,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 8s,24m 10s,"So like Selenas, they had good soil, too.",2.0,1448.93,1450.93,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 10s,24m 11s,,0.32,1450.93,1451.25,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 11s,24m 12s,Easy to grow crops.,1.44,1451.25,1452.69,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 12s,24m 13s,,0.56,1452.69,1453.25,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 13s,24m 14s,All sorts of crops.,1.0,1453.25,1454.25,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 14s,24m 17s,They mentioned here and then.,3.4,1454.25,1457.65,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 17s,24m 20s,So big part of their diet and also trading.,2.88,1457.65,1460.53,223,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 20s,24m 20s,,0.454,1460.53,1460.984,223,,,,,,,,0,0,0,0,0,0,0
+student,24m 20s,24m 22s,[Untranscribed],1.146,1460.984,1462.13,224,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 22s,24m 23s,And that's it.,0.88,1462.13,1463.01,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 23s,24m 23s,,0.24,1463.01,1463.25,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 23s,24m 24s,Those are the main.,0.88,1463.25,1464.13,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 24s,24m 24s,,0.08,1464.13,1464.21,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 24s,24m 25s,Main geography.,1.6,1464.21,1465.81,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 25s,24m 31s,We're going to look at any questions before we do the last three?,5.46,1465.81,1471.27,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 31s,24m 31s,,0.56,1471.27,1471.83,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 31s,24m 33s,I'll let you guys do that on your own.,1.76,1471.83,1473.59,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 33s,24m 34s,,0.8,1473.59,1474.39,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 34s,24m 35s,"You guys,",0.64,1474.39,1475.03,225,,,,,,,,0,0,0,0,0,0,0
+teacher,24m 35s,24m 35s,,0.18,1475.03,1475.21,225,,,,,,,,0,0,0,0,0,0,0
+silence,24m 35s,24m 37s,,1.856,1475.21,1477.066,226,,,,,,,,0,0,0,0,0,0,0
+student,24m 37s,24m 38s,[Untranscribed],1.434,1477.066,1478.5,227,,,,,,,,0,0,0,0,0,0,0
+silence,24m 38s,24m 43s,,4.995,1478.5,1483.495,228,,,,,,,,0,0,0,0,0,0,0
+student,24m 43s,24m 44s,[Untranscribed],1.012,1483.495,1484.508,229,,,,,,,,0,0,0,0,0,0,0
+silence,24m 44s,24m 54s,,9.572,1484.508,1494.08,230,,,,,,,,0,0,0,0,0,0,0
+silence,24m 54s,24m 54s,it.,0.24,1494.08,1494.32,230,,,,,,,,0,0,0,0,0,0,0
+silence,24m 54s,25m 10s,,15.753,1494.32,1510.073,230,,,,,,,,0,0,0,0,0,0,0
+student,25m 10s,25m 14s,[Untranscribed],4.354,1510.073,1514.427,231,,,,,,,,0,0,0,0,0,0,0
+silence,25m 14s,25m 19s,,5.079,1514.427,1519.507,232,,,,,,,,0,0,0,0,0,0,0
+student,25m 19s,25m 19s,,0.253,1519.507,1519.76,233,,,,,,,,0,0,0,0,0,0,0
+student,25m 19s,25m 29s,It's.,10.0,1519.76,1529.76,233,,,,,,,,0,0,0,0,0,0,0
+silence,25m 29s,25m 34s,,4.748,1529.76,1534.508,234,,,,,,,,0,0,0,0,0,0,0
+student,25m 34s,25m 36s,[Untranscribed],1.856,1534.508,1536.365,235,,,,,,,,0,0,0,0,0,0,0
+silence,25m 36s,25m 43s,,7.138,1536.365,1543.503,236,,,,,,,,0,0,0,0,0,0,0
+student,25m 43s,25m 44s,[Untranscribed],1.299,1543.503,1544.802,237,,,,,,,,0,0,0,0,0,0,0
+silence,25m 44s,26m 4s,,19.693,1544.802,1564.495,238,,,,,,,,0,0,0,0,0,0,0
+student,26m 4s,26m 7s,[Untranscribed],3.004,1564.495,1567.499,239,,,,,,,,0,0,0,0,0,0,0
+silence,26m 7s,26m 14s,,7.003,1567.499,1574.502,240,,,,,,,,0,0,0,0,0,0,0
+student,26m 14s,26m 17s,[Untranscribed],3.004,1574.502,1577.506,241,,,,,,,,0,0,0,0,0,0,0
+silence,26m 17s,26m 35s,,18.006,1577.506,1595.512,242,,,,,,,,0,0,0,0,0,0,0
+student,26m 35s,26m 36s,,1.228,1595.512,1596.74,243,,,,,,,,0,0,0,0,0,0,0
+student,26m 36s,26m 46s,It's.,10.0,1596.74,1606.74,243,,,,,,,,0,0,0,0,0,0,0
+silence,26m 46s,26m 49s,,2.508,1606.74,1609.248,244,,,,,,,,0,0,0,0,0,0,0
+student,26m 49s,26m 50s,[Untranscribed],1.249,1609.248,1610.497,245,,,,,,,,0,0,0,0,0,0,0
+silence,26m 50s,26m 55s,,5.012,1610.497,1615.508,246,,,,,,,,0,0,0,0,0,0,0
+student,26m 55s,26m 57s,[Untranscribed],1.991,1615.508,1617.5,247,,,,,,,,0,0,0,0,0,0,0
+silence,26m 57s,26m 59s,,2.43,1617.5,1619.93,248,,,,,,,,0,0,0,0,0,0,0
+student,26m 59s,27m 1s,[Untranscribed],1.215,1619.93,1621.145,249,,,,,,,,0,0,0,0,0,0,0
+silence,27m 1s,27m 4s,,3.358,1621.145,1624.503,250,,,,,,,,0,0,0,0,0,0,0
+student,27m 4s,27m 10s,[Untranscribed],6.244,1624.503,1630.747,251,,,,,,,,0,0,0,0,0,0,0
+silence,27m 10s,27m 18s,,7.762,1630.747,1638.509,252,,,,,,,,0,0,0,0,0,0,0
+student,27m 18s,27m 22s,[Untranscribed],3.999,1638.509,1642.508,253,,,,,,,,0,0,0,0,0,0,0
+silence,27m 22s,27m 24s,,2.059,1642.508,1644.567,254,,,,,,,,0,0,0,0,0,0,0
+student,27m 24s,27m 26s,[Untranscribed],1.941,1644.567,1646.508,255,,,,,,,,0,0,0,0,0,0,0
+silence,27m 26s,27m 29s,,2.97,1646.508,1649.478,256,,,,,,,,0,0,0,0,0,0,0
+student,27m 29s,27m 30s,[Untranscribed],1.029,1649.478,1650.507,257,,,,,,,,0,0,0,0,0,0,0
+silence,27m 30s,27m 55s,,25.303,1650.507,1675.81,258,,,,,,,,0,0,0,0,0,0,0
+teacher,27m 55s,27m 59s,"Oh, Alejandra, where you at?",3.6,1675.81,1679.41,259,,,,,,,,0,0,0,0,0,0,0
+teacher,27m 59s,28m 1s,,1.68,1679.41,1681.09,259,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 1s,28m 1s,There you are.,0.64,1681.09,1681.73,259,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 1s,28m 2s,,0.8,1681.73,1682.53,259,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 2s,28m 4s,What did you put for the next one?,1.48,1682.53,1684.01,259,1.0,,,,,,,26,0,0,0,0,0,0
+teacher,28m 4s,28m 5s,The Apennines and Alps.,1.64,1684.01,1685.65,259,1.0,,,,,,,26,0,0,0,0,0,0
+student,28m 5s,28m 11s,[Untranscribed],5.6,1685.65,1691.25,260,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 11s,28m 12s,Apennines and Alps.,1.44,1691.25,1692.69,261,,,,,,,,0,0,0,0,0,0,0
+student,28m 12s,28m 25s,[Untranscribed],13.13,1692.69,1705.82,262,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 25s,28m 26s,Awesome.,0.44,1705.82,1706.26,263,,,,,1.0,,,0,0,0,0,16,0,0
+teacher,28m 26s,28m 26s,Very good.,0.6,1706.26,1706.86,263,,,,,1.0,,,0,0,0,0,16,0,0
+teacher,28m 26s,28m 29s,So make sure you just remember these are the mountain ranges.,2.56,1706.86,1709.42,263,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 29s,28m 29s,Right?,0.32,1709.42,1709.74,263,,,,,,,,0,0,0,0,0,0,0
+student,28m 29s,28m 31s,[Untranscribed],1.28,1709.74,1711.02,264,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 31s,28m 31s,Cool.,0.32,1711.02,1711.34,265,,,,,1.0,,,0,0,0,0,17,0,0
+teacher,28m 31s,28m 32s,I'm not gonna write it.,0.72,1711.34,1712.06,265,,,,,1.0,,,0,0,0,0,17,0,0
+teacher,28m 32s,28m 32s,I think you guys got it.,0.8,1712.06,1712.86,265,,,,,1.0,,,0,0,0,0,17,0,0
+teacher,28m 32s,28m 33s,,0.16,1712.86,1713.02,265,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 33s,28m 33s,Seven hills.,0.96,1713.02,1713.98,265,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 33s,28m 35s,Seven hills.,1.04,1713.98,1715.02,265,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 35s,28m 35s,,0.4,1715.02,1715.42,265,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 35s,28m 36s,"Annalee,",0.72,1715.42,1716.14,265,,,,,,,,0,0,0,0,0,0,0
+student,28m 36s,28m 39s,[Untranscribed],3.76,1716.14,1719.9,266,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 39s,28m 40s,you get that one yet?,0.8,1719.9,1720.7,267,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 40s,28m 41s,"Oh, okay.",0.48,1720.7,1721.18,267,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 41s,28m 41s,Sorry.,0.32,1721.18,1721.5,267,,,,,,,,0,0,0,0,0,0,0
+student,28m 41s,28m 43s,[Untranscribed],2.4,1721.5,1723.9,268,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 43s,28m 45s,Anyone get to that one yet.,1.2,1723.9,1725.1,269,1.0,,,,,,,27,0,0,0,0,0,0
+teacher,28m 45s,28m 46s,,1.76,1725.1,1726.86,269,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 46s,28m 47s,"Leo, you want to answer it?",1.04,1726.86,1727.9,269,1.0,1.0,,,,,,28,8,0,0,0,0,0
+student,28m 47s,28m 50s,[Untranscribed],2.1,1727.9,1730.0,270,,,,,,,,0,0,0,0,0,0,0
+group,28m 50s,28m 55s,[Untranscribed],5.82,1730.0,1735.82,271,,,,,,,,0,0,0,0,0,0,0
+teacher,28m 55s,28m 56s,Perfect.,0.4,1735.82,1736.22,272,,,,,1.0,,,0,0,0,0,18,0,0
+teacher,28m 56s,28m 56s,Yep.,0.36,1736.22,1736.58,272,,,,,1.0,,,0,0,0,0,18,0,0
+teacher,28m 56s,28m 58s,Giving them right defend themselves easily.,2.04,1736.58,1738.62,272,,,,,1.0,,,0,0,0,0,18,0,0
+teacher,28m 58s,28m 58s,,0.08,1738.62,1738.7,272,,,,,1.0,,,0,0,0,0,18,0,0
+teacher,28m 58s,29m 0s,"Elevated position like you said, the high ground.",2.08,1738.7,1740.78,272,,,,,1.0,,,0,0,0,0,18,0,0
+teacher,29m 0s,29m 1s,Very good.,0.719,1740.78,1741.499,272,,,,,1.0,,,0,0,0,0,18,0,0
+teacher,29m 1s,29m 1s,,0.161,1741.499,1741.66,272,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 1s,29m 2s,And last one.,0.8,1741.66,1742.46,272,1.0,,,,,,,29,0,0,0,0,0,0
+teacher,29m 2s,29m 4s,Volcanic soil is going to.,1.92,1742.46,1744.38,272,1.0,,,,,,,29,0,0,0,0,0,0
+student,29m 4s,29m 5s,[Untranscribed],1.44,1744.38,1745.82,273,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 5s,29m 9s,"Christina, you're working on the last mistake.",3.28,1745.82,1749.1,274,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 9s,29m 10s,,1.61,1749.1,1750.71,274,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 10s,29m 11s,"Oh, you got it.",0.52,1750.71,1751.23,274,,,,,1.0,,,0,0,0,0,19,0,0
+teacher,29m 11s,29m 11s,"Okay, cool.",0.48,1751.23,1751.71,274,,,,,1.0,,,0,0,0,0,19,0,0
+teacher,29m 11s,29m 12s,What do you buy?,0.68,1751.71,1752.39,274,1.0,,,,,,,30,0,0,0,0,0,0
+student,29m 12s,29m 19s,[Untranscribed],7.2,1752.39,1759.59,275,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 19s,29m 20s,Perfect.,0.44,1759.59,1760.03,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 20s,29m 20s,Yep.,0.4,1760.03,1760.43,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 20s,29m 22s,"Able to grow for farming, right?",2.28,1760.43,1762.71,276,1.0,,,,1.0,,,31,0,0,0,20,0,0
+teacher,29m 22s,29m 22s,,0.16,1762.71,1762.87,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 22s,29m 23s,Food trade.,0.96,1762.87,1763.83,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 23s,29m 24s,,0.72,1763.83,1764.55,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 24s,29m 25s,Awesome.,0.6,1764.55,1765.15,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 25s,29m 25s,Yay.,0.48,1765.15,1765.63,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 25s,29m 26s,"Good job, guys.",0.84,1765.63,1766.47,276,,,,,1.0,,,0,0,0,0,20,0,0
+teacher,29m 26s,29m 27s,,0.56,1766.47,1767.03,276,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 27s,29m 30s,"Okay, so you can put that one in your binder if you want.",3.6,1767.03,1770.63,276,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 30s,29m 30s,,0.314,1770.63,1770.944,276,,,,,,,,0,0,0,0,0,0,0
+silence,29m 30s,29m 34s,,3.846,1770.944,1774.79,277,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 34s,29m 36s,I'm going to pass out.,1.32,1774.79,1776.11,278,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 36s,29m 37s,We're going to do the extra ticket a little early.,1.88,1776.11,1777.99,278,,,,,,,,0,0,0,0,0,0,0
+student,29m 37s,29m 39s,[Untranscribed],1.65,1777.99,1779.64,279,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 39s,29m 40s,Gonna do the first one together.,1.2,1779.64,1780.84,280,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 40s,29m 41s,,0.4,1780.84,1781.24,280,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 41s,29m 45s,"But while I pass it out, you guys can watch Rome in 4K.",3.84,1781.24,1785.08,280,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 45s,29m 46s,This is Rome today.,1.04,1785.08,1786.12,280,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 46s,29m 46s,,0.383,1786.12,1786.503,280,,,,,,,,0,0,0,0,0,0,0
+silence,29m 46s,29m 51s,,5.197,1786.503,1791.7,281,,,,,,,,0,0,0,0,0,0,0
+student,29m 51s,29m 53s,[Untranscribed],1.62,1791.7,1793.32,282,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 53s,29m 54s,"Yeah, that one goes.",0.879,1793.32,1794.199,283,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 54s,29m 55s,That's phase 10,0.801,1794.199,1795.0,283,,,,,,,,0,0,0,0,0,0,0
+student,29m 55s,29m 56s,[Untranscribed],1.932,1795.0,1796.932,284,,,,,,,,0,0,0,0,0,0,0
+silence,29m 56s,29m 59s,,2.228,1796.932,1799.16,285,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 59s,29m 59s,in blue.,0.6,1799.16,1799.76,286,,,,,,,,0,0,0,0,0,0,0
+teacher,29m 59s,30m 1s,"So you know, that's the COVID phase.",1.28,1799.76,1801.04,286,,,,,,,,0,0,0,0,0,0,0
+teacher,30m 1s,30m 1s,Everything after,0.68,1801.04,1801.72,286,,,,,,,,0,0,0,0,0,0,0
+teacher,30m 1s,30m 3s,,2.17,1801.72,1803.89,286,,,,,,,,0,0,0,0,0,0,0
+student,30m 3s,30m 13s,it's,10.0,1803.89,1813.89,287,,,,,,,,0,0,0,0,0,0,0
+silence,30m 13s,30m 19s,,5.418,1813.89,1819.308,288,,,,,,,,0,0,0,0,0,0,0
+student,30m 19s,30m 21s,[Untranscribed],2.194,1819.308,1821.502,289,,,,,,,,0,0,0,0,0,0,0
+silence,30m 21s,30m 29s,,8.353,1821.502,1829.855,290,,,,,,,,0,0,0,0,0,0,0
+student,30m 29s,30m 29s,,0.135,1829.855,1829.99,291,,,,,,,,0,0,0,0,0,0,0
+student,30m 29s,30m 30s,G.,0.24,1829.99,1830.23,291,,,,,,,,0,0,0,0,0,0,0
+student,30m 30s,30m 32s,,2.274,1830.23,1832.504,291,,,,,,,,0,0,0,0,0,0,0
+silence,30m 32s,30m 40s,,7.999,1832.504,1840.503,292,,,,,,,,0,0,0,0,0,0,0
+student,30m 40s,30m 45s,[Untranscribed],4.877,1840.503,1845.38,293,,,,,,,,0,0,0,0,0,0,0
+silence,30m 45s,30m 48s,,3.122,1845.38,1848.502,294,,,,,,,,0,0,0,0,0,0,0
+student,30m 48s,30m 51s,[Untranscribed],2.666,1848.502,1851.168,295,,,,,,,,0,0,0,0,0,0,0
+silence,30m 51s,30m 56s,,5.392,1851.168,1856.56,296,,,,,,,,0,0,0,0,0,0,0
+teacher,30m 56s,30m 57s,Coliseum.,0.56,1856.56,1857.12,297,,,,,,,,0,0,0,0,0,0,0
+student,30m 57s,30m 59s,[Untranscribed],2.384,1857.12,1859.504,298,,,,,,,,0,0,0,0,0,0,0
+silence,30m 59s,31m 4s,,4.496,1859.504,1864.0,299,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 4s,31m 6s,So lots of old ruins in Rome.,2.2,1864.0,1866.2,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 6s,31m 8s,So pretty historic city if you ever get to go check it out.,2.52,1866.2,1868.72,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 8s,31m 9s,,0.48,1868.72,1869.2,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 9s,31m 9s,Okay.,0.48,1869.2,1869.68,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 9s,31m 12s,On the back of your paper is the rubric.,2.88,1869.68,1872.56,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 12s,31m 21s,"So just to make sure everyone gets a four on this, make sure you clearly explain two positive ways that the geography helps and then that's based on the text.",9.33,1872.56,1881.89,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 21s,31m 22s,You didn't just like Google something.,1.08,1881.89,1882.97,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 22s,31m 23s,,0.4,1882.97,1883.37,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 23s,31m 24s,So it's pretty straightforward.,1.0,1883.37,1884.37,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 24s,31m 27s,We have a lot of notes here that's going to help us make this super easy.,3.36,1884.37,1887.73,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 27s,31m 29s,Let's do the class practice together.,1.56,1887.73,1889.29,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 29s,31m 32s,"I just want to show you, like, make sure we, you know, be thorough about it.",3.68,1889.29,1892.97,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 32s,31m 33s,,0.24,1892.97,1893.21,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 33s,31m 33s,So let's do.,0.76,1893.21,1893.97,300,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 33s,31m 35s,Let's do the type of river.,1.16,1893.97,1895.13,300,1.0,,,,,,,32,0,0,0,0,0,0
+silence,31m 35s,31m 36s,,1.76,1895.13,1896.89,301,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 36s,31m 38s,So circle that one.,1.12,1896.89,1898.01,302,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 38s,31m 38s,,0.96,1898.01,1898.97,302,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 38s,31m 46s,So the Tiber river had a positive effect on the Romans because look over here what we wrote.,7.56,1898.97,1906.53,302,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 46s,31m 49s,"And we're just going to put that into a complete sentence, right?",2.84,1906.53,1909.37,302,,,,,,,,0,0,0,0,0,0,0
+student,31m 49s,31m 50s,[Untranscribed],1.52,1909.37,1910.89,303,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 50s,31m 54s,Because it's really gonna get it in your hand.,3.52,1910.89,1914.41,304,,,,,,,,0,0,0,0,0,0,0
+teacher,31m 54s,31m 54s,,0.09,1914.41,1914.5,304,,,,,,,,0,0,0,0,0,0,0
+silence,31m 54s,32m 6s,,11.998,1914.5,1926.498,305,,,,,,,,0,0,0,0,0,0,0
+student,32m 6s,32m 7s,[Untranscribed],1.299,1926.498,1927.797,306,,,,,,,,0,0,0,0,0,0,0
+silence,32m 7s,32m 11s,,3.848,1927.797,1931.645,307,,,,,,,,0,0,0,0,0,0,0
+student,32m 11s,32m 15s,[Untranscribed],3.735,1931.645,1935.38,308,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 15s,32m 15s,What?,0.24,1935.38,1935.62,309,,,,,,,,0,0,0,0,0,0,0
+student,32m 15s,32m 16s,[Untranscribed],1.12,1935.62,1936.74,310,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 16s,32m 18s,"Yep, this is the class one.",1.52,1936.74,1938.26,311,,,,,,,,0,0,0,0,0,0,0
+silence,32m 18s,32m 20s,,2.244,1938.26,1940.504,312,,,,,,,,0,0,0,0,0,0,0
+student,32m 20s,32m 25s,[Untranscribed],4.995,1940.504,1945.499,313,,,,,,,,0,0,0,0,0,0,0
+silence,32m 25s,32m 30s,,5.161,1945.499,1950.66,314,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 30s,32m 31s,Ran out of room.,0.8,1950.66,1951.46,315,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 31s,32m 31s,Sorry.,0.4,1951.46,1951.86,315,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 31s,32m 33s,,1.638,1951.86,1953.498,315,,,,,,,,0,0,0,0,0,0,0
+student,32m 33s,32m 35s,[Untranscribed],1.553,1953.498,1955.05,316,,,,,,,,0,0,0,0,0,0,0
+silence,32m 35s,32m 42s,,7.459,1955.05,1962.509,317,,,,,,,,0,0,0,0,0,0,0
+student,32m 42s,32m 45s,[Untranscribed],2.852,1962.509,1965.361,318,,,,,,,,0,0,0,0,0,0,0
+silence,32m 45s,32m 52s,,6.669,1965.361,1972.03,319,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 52s,32m 52s,So I just put all.,0.8,1972.03,1972.83,320,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 52s,32m 53s,But I.,0.52,1972.83,1973.35,320,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 53s,32m 57s,"Unfortunately, I could not fit it in one sentence, but if you can make it work.",4.6,1973.35,1977.95,320,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 57s,32m 58s,,0.32,1977.95,1978.27,320,,,,,,,,0,0,0,0,0,0,0
+teacher,32m 58s,33m 1s,"So it provided fresh water for drinking, bathing, crops.",3.04,1978.27,1981.31,320,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 1s,33m 3s,"Additionally, it made travel and trade easier.",2.16,1981.31,1983.47,320,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 3s,33m 5s,So you pick now and make sure we already did.,2.16,1983.47,1985.63,320,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 5s,33m 5s,,0.24,1985.63,1985.87,320,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 5s,33m 6s,Right.,0.32,1985.87,1986.19,320,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 6s,33m 6s,The Tiger River.,0.76,1986.19,1986.95,320,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 6s,33m 8s,So pick one of the other two.,1.57,1986.95,1988.52,320,,,,,,,,0,0,0,0,0,0,0
+student,33m 8s,33m 9s,[Untranscribed],1.04,1988.52,1989.56,321,,,,,,,,0,0,0,0,0,0,0
+teacher,33m 9s,33m 10s,"Okay, do",0.72,1989.56,1990.28,322,,,,,,,,0,0,0,0,0,0,0
+silence,33m 10s,33m 33s,,22.89,1990.28,2013.17,323,,,,,,,,0,0,0,0,0,0,0
+student,33m 33s,33m 43s,it's.,10.0,2013.17,2023.17,324,,,,,,,,0,0,0,0,0,0,0
+student,33m 43s,33m 44s,,1.338,2023.17,2024.508,324,,,,,,,,0,0,0,0,0,0,0
+silence,33m 44s,33m 55s,,11.003,2024.508,2035.51,325,,,,,,,,0,0,0,0,0,0,0
+student,33m 55s,33m 57s,[Untranscribed],1.89,2035.51,2037.4,326,,,,,,,,0,0,0,0,0,0,0
+silence,33m 57s,33m 59s,,2.109,2037.4,2039.51,327,,,,,,,,0,0,0,0,0,0,0
+student,33m 59s,34m 1s,[Untranscribed],1.502,2039.51,2041.012,328,,,,,,,,0,0,0,0,0,0,0
+silence,34m 1s,34m 10s,,9.528,2041.012,2050.54,329,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 10s,34m 18s,"Since we're in pairs now for putting stuff away, have just like choose maybe switch off one person today.",7.6,2050.54,2058.14,330,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 18s,34m 19s,Put the binder away.,0.88,2058.14,2059.02,330,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 19s,34m 22s,"And when you're done with the exit ticket, we'll turn it into the tray over there.",3.36,2059.02,2062.38,330,,,,,,,,0,0,0,0,0,0,0
+student,34m 22s,34m 24s,,1.91,2062.38,2064.29,331,,,,,,,,0,0,0,0,0,0,0
+student,34m 24s,34m 25s,Job every day.,0.72,2064.29,2065.01,331,,,,,,,,0,0,0,0,0,0,0
+student,34m 25s,34m 26s,,1.5,2065.01,2066.51,331,,,,,,,,0,0,0,0,0,0,0
+silence,34m 26s,34m 28s,,1.772,2066.51,2068.282,332,,,,,,,,0,0,0,0,0,0,0
+student,34m 28s,34m 29s,[Untranscribed],1.198,2068.282,2069.48,333,,,,,,,,0,0,0,0,0,0,0
+silence,34m 29s,34m 31s,,2.025,2069.48,2071.505,334,,,,,,,,0,0,0,0,0,0,0
+student,34m 31s,34m 32s,[Untranscribed],1.425,2071.505,2072.93,335,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 32s,34m 33s,"Oh, you know what?",0.8,2072.93,2073.73,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 33s,34m 34s,,0.32,2073.73,2074.05,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 34s,34m 35s,Forgot about the blue paper.,1.2,2074.05,2075.25,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 35s,34m 35s,,0.16,2075.25,2075.41,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 35s,34m 39s,And then let's add forgot.,3.68,2075.41,2079.09,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 39s,34m 39s,,0.32,2079.09,2079.41,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 39s,34m 40s,So I'll give you guys.,0.88,2079.41,2080.29,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 40s,34m 40s,Sorry.,0.16,2080.29,2080.45,336,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 40s,34m 41s,A couple more minutes for exit to go.,1.28,2080.45,2081.73,336,,,,,,,,0,0,0,0,0,0,0
+student,34m 41s,34m 43s,[Untranscribed],1.92,2081.73,2083.65,337,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 43s,34m 48s,"If you finish early, though, and you want to get started, maybe add a couple things that we learned today about geography.",5.32,2083.65,2088.97,338,,,,,,,,0,0,0,0,0,0,0
+teacher,34m 48s,34m 49s,"While it's fresh,",0.68,2088.97,2089.65,338,,,,,,,,0,0,0,0,0,0,0
+student,34m 49s,34m 50s,[Untranscribed],1.042,2089.65,2090.692,339,,,,,,,,0,0,0,0,0,0,0
+silence,34m 50s,35m 0s,,10.247,2090.692,2100.939,340,,,,,,,,0,0,0,0,0,0,0
+teacher,35m 0s,35m 2s,you could just do like bullet points.,1.52,2100.939,2102.459,341,,,,,,,,0,0,0,0,0,0,0
+teacher,35m 2s,35m 4s,You don't have to write incomplete sentences on the blue paper.,2.36,2102.459,2104.819,341,,,,,,,,0,0,0,0,0,0,0
+student,35m 4s,35m 5s,Okay.,0.44,2104.819,2105.259,342,,,,,,,,0,0,0,0,0,0,0
+student,35m 5s,35m 5s,,0.64,2105.259,2105.899,342,,,,,,,,0,0,0,0,0,0,0
+teacher,35m 5s,35m 7s,Just like little notes.,1.12,2105.899,2107.019,343,,,,,,,,0,0,0,0,0,0,0
+teacher,35m 7s,35m 7s,,0.632,2107.019,2107.651,343,,,,,,,,0,0,0,0,0,0,0
+silence,35m 7s,35m 28s,,20.773,2107.651,2128.424,344,,,,,,,,0,0,0,0,0,0,0
+student,35m 28s,35m 39s,[Untranscribed],10.733,2128.424,2139.157,345,,,,,,,,0,0,0,0,0,0,0
+silence,35m 39s,35m 43s,,4.354,2139.157,2143.51,346,,,,,,,,0,0,0,0,0,0,0
+student,35m 43s,35m 45s,[Untranscribed],1.958,2143.51,2145.468,347,,,,,,,,0,0,0,0,0,0,0
+silence,35m 45s,35m 49s,,4.033,2145.468,2149.501,348,,,,,,,,0,0,0,0,0,0,0
+student,35m 49s,35m 51s,[Untranscribed],2.143,2149.501,2151.644,349,,,,,,,,0,0,0,0,0,0,0
+silence,35m 51s,36m 2s,,10.462,2151.644,2162.107,350,,,,,,,,0,0,0,0,0,0,0
+student,36m 2s,36m 4s,[Untranscribed],2.396,2162.107,2164.503,351,,,,,,,,0,0,0,0,0,0,0
+silence,36m 4s,36m 6s,,2.008,2164.503,2166.511,352,,,,,,,,0,0,0,0,0,0,0
+student,36m 6s,36m 7s,[Untranscribed],1.468,2166.511,2167.979,353,,,,,,,,0,0,0,0,0,0,0
+silence,36m 7s,36m 24s,,16.521,2167.979,2184.5,354,,,,,,,,0,0,0,0,0,0,0
+student,36m 24s,36m 26s,[Untranscribed],2.008,2184.5,2186.508,355,,,,,,,,0,0,0,0,0,0,0
+silence,36m 26s,36m 31s,,5.332,2186.508,2191.84,356,,,,,,,,0,0,0,0,0,0,0
+student,36m 31s,36m 32s,,0.2,2191.84,2192.04,357,,,,,,,,0,0,0,0,0,0,0
+student,36m 32s,36m 42s,It's,10.0,2192.04,2202.04,357,,,,,,,,0,0,0,0,0,0,0
+silence,36m 42s,36m 57s,,15.636,2202.04,2217.676,358,,,,,,,,0,0,0,0,0,0,0
+student,36m 57s,36m 59s,[Untranscribed],1.823,2217.676,2219.498,359,,,,,,,,0,0,0,0,0,0,0
+silence,36m 59s,37m 30s,,30.999,2219.498,2250.498,360,,,,,,,,0,0,0,0,0,0,0
+student,37m 30s,37m 34s,[Untranscribed],3.999,2250.498,2254.497,361,,,,,,,,0,0,0,0,0,0,0
+silence,37m 34s,37m 40s,,6.008,2254.497,2260.505,362,,,,,,,,0,0,0,0,0,0,0
+student,37m 40s,37m 43s,[Untranscribed],2.683,2260.505,2263.188,363,,,,,,,,0,0,0,0,0,0,0
+silence,37m 43s,37m 47s,,4.32,2263.188,2267.508,364,,,,,,,,0,0,0,0,0,0,0
+student,37m 47s,37m 49s,[Untranscribed],2.462,2267.508,2269.97,365,,,,,,,,0,0,0,0,0,0,0
+teacher,37m 49s,37m 59s,"still like eight minutes that we usually pack up, so if you want to like explore more Google Earth, if you still haven't turned in your foldable, get that in.",9.12,2269.97,2279.09,366,,,,,,,,0,0,0,0,0,0,0
+teacher,37m 59s,37m 59s,,0.146,2279.09,2279.236,366,,,,,,,,0,0,0,0,0,0,0
+silence,37m 59s,38m 3s,,4.574,2279.236,2283.81,367,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 3s,38m 5s,"Make sure your binder, the pages are in the right order.",2.08,2283.81,2285.89,368,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 5s,38m 6s,,0.56,2285.89,2286.45,368,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 6s,38m 8s,And then just add a couple things maybe to that.,2.16,2286.45,2288.61,368,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 8s,38m 8s,,0.245,2288.61,2288.855,368,,,,,,,,0,0,0,0,0,0,0
+silence,38m 8s,38m 23s,,14.648,2288.855,2303.502,369,,,,,,,,0,0,0,0,0,0,0
+student,38m 23s,38m 28s,[Untranscribed],4.558,2303.502,2308.06,370,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 28s,38m 28s,"No, that's for me.",0.92,2308.06,2308.98,371,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 28s,38m 30s,But just check that you got a four of them.,1.48,2308.98,2310.46,371,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 30s,38m 30s,,0.32,2310.46,2310.78,371,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 30s,38m 31s,I'm sure you did.,0.8,2310.78,2311.58,371,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 31s,38m 31s,,0.09,2311.58,2311.67,371,,,,,,,,0,0,0,0,0,0,0
+silence,38m 31s,38m 37s,,5.451,2311.67,2317.12,372,,,,,,,,0,0,0,0,0,0,0
+student,38m 37s,38m 39s,[Untranscribed],2.379,2317.12,2319.5,373,,,,,,,,0,0,0,0,0,0,0
+silence,38m 39s,38m 42s,,2.87,2319.5,2322.37,374,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 42s,38m 42s,"Yeah,",0.32,2322.37,2322.69,375,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 42s,38m 43s,,0.809,2322.69,2323.499,375,,,,,,,,0,0,0,0,0,0,0
+student,38m 43s,38m 51s,[Untranscribed],7.751,2323.499,2331.25,376,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 51s,38m 52s,"it's pretty, like, cushy.",1.24,2331.25,2332.49,377,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 52s,38m 52s,Maybe.,0.36,2332.49,2332.85,377,,,,,,,,0,0,0,0,0,0,0
+teacher,38m 52s,38m 55s,"Maybe it softened the, the blow a little bit,",2.68,2332.85,2335.53,377,,,,,,,,0,0,0,0,0,0,0
+student,38m 55s,39m 5s,huh?,9.8,2335.53,2345.33,378,,,,,,,,0,0,0,0,0,0,0
+student,39m 5s,39m 5s,,0.15,2345.33,2345.48,378,,,,,,,,0,0,0,0,0,0,0
+student,39m 5s,39m 15s,It's.,10.0,2345.48,2355.48,378,,,,,,,,0,0,0,0,0,0,0
+silence,39m 15s,39m 35s,,20.028,2355.48,2375.508,379,,,,,,,,0,0,0,0,0,0,0
+student,39m 35s,39m 49s,[Untranscribed],13.989,2375.508,2389.497,380,,,,,,,,0,0,0,0,0,0,0
+silence,39m 49s,39m 52s,,3.004,2389.497,2392.501,381,,,,,,,,0,0,0,0,0,0,0
+group,39m 52s,39m 55s,[Untranscribed],2.499,2392.501,2395.0,382,,,,,,,,0,0,0,0,0,0,0
+student,39m 55s,39m 56s,[Untranscribed],1.804,2395.0,2396.804,383,,,,,,,,0,0,0,0,0,0,0
+silence,39m 56s,40m 3s,,7.189,2396.804,2403.993,384,,,,,,,,0,0,0,0,0,0,0
+student,40m 3s,40m 10s,[Untranscribed],6.649,2403.993,2410.642,385,,,,,,,,0,0,0,0,0,0,0
+silence,40m 10s,40m 12s,,1.856,2410.642,2412.498,386,,,,,,,,0,0,0,0,0,0,0
+student,40m 12s,40m 13s,[Untranscribed],1.029,2412.498,2413.527,387,,,,,,,,0,0,0,0,0,0,0
+silence,40m 13s,40m 17s,,3.983,2413.527,2417.51,388,,,,,,,,0,0,0,0,0,0,0
+student,40m 17s,40m 35s,[Untranscribed],17.685,2417.51,2435.195,389,,,,,,,,0,0,0,0,0,0,0
+silence,40m 35s,40m 39s,,4.725,2435.195,2439.92,390,,,,,,,,0,0,0,0,0,0,0
+student,40m 39s,41m 2s,[Untranscribed],22.207,2439.92,2462.127,391,,,,,,,,0,0,0,0,0,0,0
+silence,41m 2s,41m 5s,,3.375,2462.127,2465.502,392,,,,,,,,0,0,0,0,0,0,0
+student,41m 5s,41m 10s,[Untranscribed],5.058,2465.502,2470.56,393,,,,,,,,0,0,0,0,0,0,0
+teacher,41m 10s,41m 12s,Did you guys all turn in the packet yesterday too?,2.24,2470.56,2472.8,394,,,,,,,,0,0,0,0,0,0,0
+teacher,41m 12s,41m 13s,,0.89,2472.8,2473.69,394,,,,,,,,0,0,0,0,0,0,0
+teacher,41m 13s,41m 14s,Holdable on my.,0.88,2473.69,2474.57,394,,,,,,,,0,0,0,0,0,0,0
+teacher,41m 14s,41m 15s,We're all good.,0.64,2474.57,2475.21,394,,,,,1.0,,,0,0,0,0,21,0,0
+teacher,41m 15s,41m 16s,"All right, sweet.",0.96,2475.21,2476.17,394,,,,,1.0,,,0,0,0,0,21,0,0
+group,41m 16s,41m 19s,[Untranscribed],3.49,2476.17,2479.66,395,,,,,,,,0,0,0,0,0,0,0
+silence,41m 19s,41m 22s,,2.835,2479.66,2482.495,396,,,,,,,,0,0,0,0,0,0,0
+group,41m 22s,41m 25s,[Untranscribed],2.505,2482.495,2485.0,397,,,,,,,,0,0,0,0,0,0,0
+student,41m 25s,41m 29s,[Untranscribed],4.043,2485.0,2489.043,398,,,,,,,,0,0,0,0,0,0,0
+silence,41m 29s,41m 32s,,3.274,2489.043,2492.317,399,,,,,,,,0,0,0,0,0,0,0
+student,41m 32s,41m 39s,[Untranscribed],7.459,2492.317,2499.775,400,,,,,,,,0,0,0,0,0,0,0
+silence,41m 39s,41m 50s,,10.327,2499.775,2510.103,401,,,,,,,,0,0,0,0,0,0,0
+teacher,41m 50s,41m 52s,[Untranscribed],1.997,2510.103,2512.1,402,,,,,,,,0,0,0,0,0,0,0
+student,41m 52s,41m 54s,[Untranscribed],2.407,2512.1,2514.507,403,,,,,,,,0,0,0,0,0,0,0
+silence,41m 54s,41m 58s,,3.999,2514.507,2518.507,404,,,,,,,,0,0,0,0,0,0,0
+student,41m 58s,42m 2s,[Untranscribed],3.999,2518.507,2522.506,405,,,,,,,,0,0,0,0,0,0,0
+silence,42m 2s,42m 6s,,3.999,2522.506,2526.505,406,,,,,,,,0,0,0,0,0,0,0
+student,42m 6s,42m 8s,[Untranscribed],1.552,2526.505,2528.058,407,,,,,,,,0,0,0,0,0,0,0
+silence,42m 8s,42m 9s,,1.772,2528.058,2529.83,408,,,,,,,,0,0,0,0,0,0,0
+student,42m 9s,42m 12s,[Untranscribed],2.666,2529.83,2532.496,409,,,,,,,,0,0,0,0,0,0,0
+silence,42m 12s,42m 18s,,5.872,2532.496,2538.368,410,,,,,,,,0,0,0,0,0,0,0
+student,42m 18s,42m 24s,[Untranscribed],6.48,2538.368,2544.848,411,,,,,,,,0,0,0,0,0,0,0
+silence,42m 24s,42m 29s,,4.523,2544.848,2549.371,412,,,,,,,,0,0,0,0,0,0,0
+student,42m 29s,42m 30s,[Untranscribed],1.282,2549.371,2550.653,413,,,,,,,,0,0,0,0,0,0,0
+silence,42m 30s,42m 32s,,1.856,2550.653,2552.51,414,,,,,,,,0,0,0,0,0,0,0
+student,42m 32s,42m 40s,[Untranscribed],8.016,2552.51,2560.525,415,,,,,,,,0,0,0,0,0,0,0
+silence,42m 40s,42m 48s,,8.269,2560.525,2568.794,416,,,,,,,,0,0,0,0,0,0,0
+student,42m 48s,42m 52s,[Untranscribed],3.578,2568.794,2572.372,417,,,,,,,,0,0,0,0,0,0,0
+silence,42m 52s,42m 55s,,3.139,2572.372,2575.51,418,,,,,,,,0,0,0,0,0,0,0
+student,42m 55s,42m 59s,[Untranscribed],4.236,2575.51,2579.746,419,,,,,,,,0,0,0,0,0,0,0
+silence,42m 59s,43m 7s,,7.762,2579.746,2587.508,420,,,,,,,,0,0,0,0,0,0,0
+student,43m 7s,43m 15s,[Untranscribed],7.999,2587.508,2595.507,421,,,,,,,,0,0,0,0,0,0,0
+group,43m 15s,43m 45s,[Untranscribed],29.493,2595.507,2625.0,422,,,,,,,,0,0,0,0,0,0,0
+student,43m 45s,44m 15s,[Untranscribed],30.397,2625.0,2655.397,423,,,,,,,,0,0,0,0,0,0,0
+silence,44m 15s,44m 23s,,8.1,2655.397,2663.497,424,,,,,,,,0,0,0,0,0,0,0
+student,44m 23s,44m 24s,[Untranscribed],1.012,2663.497,2664.509,425,,,,,,,,0,0,0,0,0,0,0
+silence,44m 24s,44m 26s,,1.991,2664.509,2666.5,426,,,,,,,,0,0,0,0,0,0,0
+student,44m 26s,44m 29s,[Untranscribed],3.105,2666.5,2669.605,427,,,,,,,,0,0,0,0,0,0,0
+silence,44m 29s,44m 34s,,5.164,2669.605,2674.769,428,,,,,,,,0,0,0,0,0,0,0
+student,44m 34s,44m 54s,[Untranscribed],20.031,2674.769,2694.8,429,,,,,,,,0,0,0,0,0,0,0
+silence,44m 54s,44m 57s,,2.531,2694.8,2697.331,430,,,,,,,,0,0,0,0,0,0,0
+student,44m 57s,45m 0s,[Untranscribed],2.839,2697.331,2700.17,431,,,,,,,,0,0,0,0,0,0,0

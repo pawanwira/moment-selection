@@ -1,0 +1,1256 @@
+STUDENT: [student talk for 1.5 seconds] No. [student talk for 1.4 seconds]
+TEACHER: Maddie L. [teacher talk for 1.0 seconds] Yes.
+STUDENT: [student talk for 1.6 seconds]
+TEACHER: Anna L. [teacher talk for 1.1 seconds] Greek today.
+STUDENT: [student talk for 1.9 seconds]
+TEACHER: Kennelly. [teacher talk for 0.6 seconds] Greek today.
+STUDENT: [student talk for 1.8 seconds] Brandon. [student talk for 2.6 seconds]
+TEACHER: Sophia.
+STUDENT: [student talk for 1.0 seconds]
+TEACHER: Greek today.
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: Peyton Creek. Today.
+STUDENT: [student talk for 2.5 seconds]
+TEACHER: Alessia Taylor. [teacher talk for 0.9 seconds] Great. Today.
+  - INSTANCE #1 [PRAISE]: "Great. Today."
+STUDENT: [student talk for 1.8 seconds]
+TEACHER: Friendly.
+STUDENT: [student talk for 1.5 seconds] Nice. [student talk for 1.3 seconds]
+TEACHER: Is that from anybody you know? [teacher talk for 0.2 seconds]
+  - INSTANCE #1 [OTR]: "Is that from anybody you know?"
+GROUP: [group talk for 2.4 seconds]
+STUDENT: Mackenzie? [student talk for 0.9 seconds] Yeah.
+GROUP: [group talk for 7.2 seconds]
+STUDENT: Jacob. [student talk for 0.7 seconds]
+TEACHER: Kylie. W.
+GROUP: [group talk for 15.7 seconds]
+STUDENT: [student talk for 2.3 seconds]
+TEACHER: Max. [teacher talk for 0.6 seconds]
+  - INSTANCE #2 [OTR]: "Max."
+STUDENT: What's one thing you did yesterday? [student talk for 2.4 seconds]
+TEACHER: Soccer practice. [teacher talk for 0.6 seconds] What position do you play again? [teacher talk for 0.2 seconds]
+  - INSTANCE #3 [OTR]: "What position do you play again?"
+STUDENT: Striker. Striker. [student talk for 0.2 seconds]
+TEACHER: You score in practice? [teacher talk for 0.6 seconds]
+  - INSTANCE #4 [OTR]: "You score in practice?"
+STUDENT: Sure. [student talk for 2.0 seconds]
+TEACHER: Lexi, what's one thing you did yesterday?
+  - INSTANCE #5 [OTR, OEQ]: "Lexi, what's one thing you did yesterday?"
+STUDENT: [student talk for 1.7 seconds] I went to Starbucks. [student talk for 0.3 seconds]
+TEACHER: What'd you get?
+  - INSTANCE #6 [OTR, OEQ]: "What'd you get?"
+STUDENT: I got, like, that new fall drink. Like the Pecan Crunch? One pecan. [student talk for 1.6 seconds] Was it good? [student talk for 2.2 seconds]
+TEACHER: It was good.
+STUDENT: [student talk for 1.1 seconds] Oh, yeah, it was. [student talk for 1.1 seconds]
+TEACHER: Anna L. What's one thing you did?
+  - INSTANCE #7 [OTR, OEQ]: "Anna L. What's one thing you did?"
+STUDENT: [student talk for 4.5 seconds] Nothing. [student talk for 0.1 seconds]
+TEACHER: What do you like to do when you're just killing time and heart?
+  - INSTANCE #8 [OTR, OEQ]: "What do you like to do when you're just killing time and heart?"
+STUDENT: [student talk for 1.9 seconds]
+GROUP: [group talk for 5.0 seconds]
+STUDENT: [student talk for 2.9 seconds]
+TEACHER: Anybody else have anything this year from the day yesterday?
+  - INSTANCE #9 [OTR, OEQ]: "Anybody else have anything this year from the day yesterday?"
+STUDENT: [student talk for 1.7 seconds]
+TEACHER: Anybody who was here yesterday have questions over what we did?
+  - INSTANCE #10 [OTR, OEQ, WAIT TIME]: "Anybody who was here yesterday have questions over what we did?"
+SILENCE: [silence for 4.1 seconds]
+TEACHER: All right. [teacher talk for 0.5 seconds] Well, today is what we've been talking about. [teacher talk for 0.3 seconds] Why have we been talking about trigonometry in this class? [teacher talk for 0.1 seconds]
+  - INSTANCE #11 [OTR, OEQ, WAIT TIME]: "Why have we been talking about trigonometry in this class?"
+SILENCE: [silence for 2.6 seconds]
+TEACHER: What do we talk about? [teacher talk for 0.2 seconds] Why. Why have we been studying trigonometry? [teacher talk for 0.6 seconds] Applied to what we're doing now in circles. [teacher talk for 0.6 seconds] Applied to what we're doing now in circles. [teacher talk for 0.3 seconds] What's the goal of pretty much all of our algebra and pre calculus class?
+  - INSTANCE #12 [OTR, OEQ, WAIT TIME]: "What's the goal of pretty much all of our algebra and pre calculus class?"
+STUDENT: [student talk for 2.9 seconds]
+SILENCE: [silence for 7.8 seconds]
+STUDENT: [student talk for 0.1 seconds] This is an exciting day. [student talk for 0.8 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: Have you all heard? [teacher talk for 0.9 seconds] Have we ever talked about functions? [teacher talk for 0.2 seconds]
+  - INSTANCE #13 [OTR]: "Have we ever talked about functions?"
+SILENCE: [silence for 2.1 seconds]
+STUDENT: [student talk for 0.0 seconds] No. [student talk for 0.2 seconds] No functions. [student talk for 0.3 seconds]
+TEACHER: Remember our goal? [teacher talk for 0.2 seconds] We talked first day we got data in the real world, right? [teacher talk for 1.0 seconds] And as mathematicians, we want to find those cause and effect relationships. [teacher talk for 0.7 seconds] And so we look at the data and what shape it has, and different functions have different shapes. [teacher talk for 0.6 seconds] This is everything you've done from algebra 1 until now. We started with linear functions, then quadratic functions, exponential functions. [teacher talk for 0.5 seconds] And then earlier in this semester, we talked about polynomial functions in general, which includes linear and quadratic and we said we've been working now on developing a new function that we're not familiar with, the trigonometric functions, right? [teacher talk for 0.5 seconds] And in order to be able to work with, just like with quadratics, you have to be good at factoring. In order to work with trigonometric functions, we have to be good at trigonometry, right?
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: And so we talked about, with the right triangles in the trigonometric functions, that you only got zero to 90 degrees, but when we put it in a circle, we can go all the way. 360 degrees. [teacher talk for 0.6 seconds] And we can have coterminal angles so that we can have an unlimited amount of degrees or radians, so that we can now have a function that has a domain from negative infinity all the way to
+STUDENT: infinity. [student talk for 0.9 seconds]
+TEACHER: Make sense?
+  - INSTANCE #14 [OTR]: "Make sense?"
+STUDENT: [student talk for 1.7 seconds] All right. [student talk for 0.8 seconds] That's not this far. [student talk for 1.2 seconds]
+TEACHER: So what we're going to do on your paper plates is we are going to make a unit circle. [teacher talk for 0.5 seconds] You will have to. There is a lot of information in the unit circle and you will need to have this information memorized by Thursday. [teacher talk for 1.7 seconds] A memorization quiz. [teacher talk for 0.5 seconds] You can.
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: We're going to develop this information so you don't have it memorized now. And you're going to figure it out. [teacher talk for 0.2 seconds] We're going to figure it out together. [teacher talk for 0.6 seconds] But on your quiz you may not have. You will have a time limit on your quiz. [teacher talk for 0.5 seconds] So depending on developing it will be difficult. [teacher talk for 0.9 seconds]
+SILENCE: [silence for 2.6 seconds]
+TEACHER: So the first thing you're going to do is you're going to find a relative center of the plate and you're going to make a coordinate plane. [teacher talk for 0.6 seconds] You have a ruler, but you also have a protractor. [teacher talk for 0.1 seconds] So with a protractor, when you're making your coordinate plane, make sure this is going to be. We're going to put a lot on here and you to be accurate.
+STUDENT: So make sure that you are [student talk for 2.8 seconds]
+TEACHER: creating a 90 degree angle where the plane's going to set. [teacher talk for 0.1 seconds] So once you make one straight line and you get to make the straight other straight line, just make sure that it's going through the 90 and through the.
+STUDENT: [student talk for 1.2 seconds]
+SILENCE: [silence for 14.0 seconds]
+STUDENT: [student talk for 2.4 seconds]
+SILENCE: [silence for 8.6 seconds]
+TEACHER: I chose the growth tractors I gave you because I think they are the easiest to use them to read. But I do not have enough for everybody.
+STUDENT: [student talk for 1.4 seconds] But as you. [student talk for 3.4 seconds]
+SILENCE: [silence for 2.2 seconds]
+TEACHER: I also gave you a ruler you can use for straight edge [teacher talk for 1.0 seconds]
+STUDENT: [student talk for 4.4 seconds]
+SILENCE: [silence for 3.0 seconds]
+STUDENT: [student talk for 2.0 seconds]
+SILENCE: [silence for 4.8 seconds]
+STUDENT: [student talk for 2.9 seconds] included. [student talk for 0.5 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 1.0 seconds]
+TEACHER: I do have some other protractors that. [teacher talk for 0.4 seconds] What I like about this protractor is the.
+STUDENT: [student talk for 2.5 seconds]
+TEACHER: This protractor, the line doesn't line up with zero. [teacher talk for 0.2 seconds] So the protractor that you have is cut out so that it will line up with zero, which is nice.
+  - INSTANCE #2 [PRAISE]: "So the protractor that you have is cut out so that it will line up with zero, which is nice."
+GROUP: [group talk for 2.3 seconds]
+TEACHER: Oh, thank you.
+STUDENT: [student talk for 2.3 seconds]
+TEACHER: Appreciate it. [teacher talk for 0.1 seconds] Yeah.
+STUDENT: [student talk for 1.4 seconds] Is that good? [student talk for 0.2 seconds] Is it good enough or no? [student talk for 0.2 seconds]
+TEACHER: Is it 90 degrees?
+  - INSTANCE #15 [OTR]: "Is it 90 degrees?"
+STUDENT: [student talk for 1.0 seconds] I think so. [student talk for 0.3 seconds] You think so? [student talk for 0.2 seconds]
+TEACHER: That's what the protractors are for. Did you use the protractor or did you use some other method to be sure it's 90 degrees or are you just eyeballing it, [teacher talk for 0.4 seconds]
+  - INSTANCE #16 [OTR, OEQ, PRESS, WAIT TIME]: "Did you use the protractor or did you use some other method to be sure it's 90 degrees or are you just eyeballing it,"
+STUDENT: [student talk for 4.8 seconds]
+GROUP: [group talk for 5.3 seconds] brother? [group talk for 5.0 seconds]
+STUDENT: [student talk for 14.9 seconds]
+SILENCE: [silence for 6.1 seconds]
+TEACHER: Use the outside. [teacher talk for 0.4 seconds] I'm not. We're not using compasses, so use the outside of your protractor to create a circle. [teacher talk for 0.7 seconds] It's pretty as far.
+STUDENT: [student talk for 5.2 seconds]
+TEACHER: I think it'll be nice to have it drawn in so you can. As long as you can draw it in, I think it'll be easier to draw.
+STUDENT: [student talk for 2.6 seconds]
+SILENCE: [silence for 1.8 seconds]
+STUDENT: [student talk for 3.4 seconds]
+SILENCE: [silence for 5.0 seconds]
+STUDENT: [student talk for 2.0 seconds]
+SILENCE: [silence for 4.0 seconds]
+STUDENT: [student talk for 3.5 seconds]
+TEACHER: This is called a unit circle. It's a unit circle because it goes to one that would be very small. [teacher talk for 0.2 seconds] So we're blowing up this unit circle to take up the size of the. [teacher talk for 0.3 seconds] Because we're going to put a lot on this Unit circle. You see how small this is? [teacher talk for 0.4 seconds] I basically zoomed in. So this is our unit circle, but still that x value is 1, that x value is negative 1. [teacher talk for 0.6 seconds] That y value is 1. [teacher talk for 0.5 seconds]
+STUDENT: And that y value is negative 1. [student talk for 3.7 seconds]
+SILENCE: [silence for 3.8 seconds]
+TEACHER: It, [teacher talk for 2.0 seconds]
+SILENCE: [silence for 21.8 seconds]
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: it's
+SILENCE: [silence for 5.7 seconds]
+STUDENT: [student talk for 2.3 seconds]
+SILENCE: [silence for 4.2 seconds]
+STUDENT: [student talk for 5.8 seconds]
+TEACHER: [teacher talk for 2.7 seconds]
+STUDENT: [student talk for 2.8 seconds]
+SILENCE: [silence for 2.2 seconds]
+STUDENT: [student talk for 11.5 seconds]
+GROUP: [group talk for 10.0 seconds]
+STUDENT: [student talk for 7.5 seconds]
+SILENCE: [silence for 3.0 seconds]
+STUDENT: [student talk for 9.6 seconds] all right.
+TEACHER: Our special right triangles. [teacher talk for 0.1 seconds] Well, actually I'm jumping the gun a little bit. Let's go ahead and write these coordinates here. What's the coordinates for this point here? [teacher talk for 0.6 seconds]
+  - INSTANCE #17 [OTR]: "What's the coordinates for this point here?"
+STUDENT: [student talk for 1.9 seconds]
+TEACHER: So there's an X and a Y coordinate. What's the coordinate pair for this point here?
+  - INSTANCE #18 [OTR]: "So there's an X and a Y coordinate. What's the coordinate pair for this point here?"
+STUDENT: [student talk for 3.2 seconds]
+TEACHER: Okay, so this is. [teacher talk for 0.3 seconds] If I had a whole piece of graph paper, this is what it would look like. I've blown it up. [teacher talk for 0.4 seconds] So what is this coordinate here? [teacher talk for 1.4 seconds]
+  - INSTANCE #19 [OTR]: "So what is this coordinate here?"
+STUDENT: [student talk for 0.9 seconds] 1, 0. [student talk for 0.0 seconds]
+SILENCE: [silence for 2.8 seconds]
+TEACHER: And this coordinate here?
+  - INSTANCE #20 [OTR, WAIT TIME]: "And this coordinate here?"
+SILENCE: [silence for 2.9 seconds]
+STUDENT: [student talk for 3.9 seconds]
+SILENCE: [silence for 4.1 seconds]
+STUDENT: [student talk for 4.7 seconds]
+SILENCE: [silence for 1.8 seconds]
+STUDENT: [student talk for 1.2 seconds]
+SILENCE: [silence for 3.0 seconds]
+TEACHER: [teacher talk for 1.4 seconds] Everybody with us? Anybody lost on how we got those coordinate pairs?
+  - INSTANCE #21 [OTR, WAIT TIME]: "Everybody with us? Anybody lost on how we got those coordinate pairs?"
+SILENCE: [silence for 6.2 seconds]
+TEACHER: Alright, yesterday we talked about angles on the coordinate plane. [teacher talk for 0.4 seconds] So what is this angle here in degrees?
+  - INSTANCE #22 [OTR]: "So what is this angle here in degrees?"
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: If we had this as our initial side and this is our terminal side. [teacher talk for 1.6 seconds]
+STUDENT: [student talk for 0.1 seconds] 0 [student talk for 3.0 seconds]
+TEACHER: or 3. I heard someone say also 360. So we'll put both 0 and 360. [teacher talk for 0.8 seconds] What about in Radians? [teacher talk for 0.1 seconds]
+  - INSTANCE #23 [OTR, WAIT TIME]: "What about in Radians?"
+SILENCE: [silence for 10.0 seconds]
+TEACHER: And yes, 0 [teacher talk for 0.2 seconds] Radians would work as well. [teacher talk for 0.8 seconds] All right, how about up here? What's this in degrees?
+  - INSTANCE #24 [OTR]: "What's this in degrees?"
+STUDENT: [student talk for 4.8 seconds]
+TEACHER: All right, for right now I like that. But right now we're going to say with just the positives.
+  - INSTANCE #3 [PRAISE]: "All right, for right now I like that."
+SILENCE: [silence for 3.0 seconds]
+TEACHER: So in radians, what would this be? [teacher talk for 0.0 seconds]
+  - INSTANCE #25 [OTR, WAIT TIME]: "So in radians, what would this be?"
+SILENCE: [silence for 2.8 seconds]
+TEACHER: All right, which we're going to say PI over two.
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: When we were doing functions, I always wanted you to put the fraction first and then the variable. [teacher talk for 0.2 seconds] Remember, PI is not a variable, it's a number. So going to go ahead and write it as a part of the fraction. [teacher talk for 1.6 seconds] All right, over here, what is this in degrees and what is it in radians? [teacher talk for 0.1 seconds]
+  - INSTANCE #26 [OTR, WAIT TIME]: "All right, over here, what is this in degrees and what is it in radians?"
+SILENCE: [silence for 2.8 seconds]
+TEACHER: In this last one [teacher talk for 0.0 seconds]
+SILENCE: [silence for 3.9 seconds]
+STUDENT: [student talk for 2.3 seconds]
+TEACHER: and in radians [teacher talk for 0.0 seconds]
+SILENCE: [silence for 11.8 seconds]
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: we got four over three. We got two PI over three. [teacher talk for 0.1 seconds] How are you coming up with these numbers? [teacher talk for 0.1 seconds]
+  - INSTANCE #27 [OTR, OEQ, PRESS, WAIT TIME]: "How are you coming up with these numbers?"
+SILENCE: [silence for 6.7 seconds]
+TEACHER: How'd you come up with that number? [teacher talk for 0.1 seconds]
+  - INSTANCE #28 [OTR, OEQ, PRESS, WAIT TIME]: "How'd you come up with that number?"
+SILENCE: [silence for 6.2 seconds]
+STUDENT: [student talk for 2.3 seconds]
+TEACHER: So one way is like as a mixed fraction. If this is one PI and this is two PI, then this is one and a half PI, which is three halves PI. [teacher talk for 0.1 seconds] What's another way we can use to convert from degrees to radians? [teacher talk for 0.0 seconds]
+  - INSTANCE #29 [OTR, OEQ, WAIT TIME]: "What's another way we can use to convert from degrees to radians?"
+SILENCE: [silence for 3.3 seconds]
+STUDENT: What's that? [student talk for 0.6 seconds]
+TEACHER: We can multiply times PI over 180. [teacher talk for 0.2 seconds] So if we multiply 270 times PI over 180, we'll get 270 over 180 [teacher talk for 0.1 seconds] PI. [teacher talk for 0.1 seconds] 270 [teacher talk for 0.1 seconds] PI over 180. Sorry. And that will reduce to 3 [teacher talk for 0.1 seconds] PI over 2. [teacher talk for 1.6 seconds] Questions over how we did that?
+  - INSTANCE #30 [OTR]: "Questions over how we did that?"
+SILENCE: [silence for 1.8 seconds]
+TEACHER: You did some of that when you checked your understanding yesterday. [teacher talk for 0.1 seconds]
+SILENCE: [silence for 1.8 seconds]
+TEACHER: So make sure that you are understanding what you're doing when you're checking your understanding why we do it. [teacher talk for 0.2 seconds]
+STUDENT: Appreciate it. [student talk for 1.2 seconds]
+SILENCE: [silence for 1.8 seconds]
+TEACHER: Everybody feel like they have perfect mastery of what we've done so far. [teacher talk for 0.0 seconds]
+SILENCE: [silence for 2.1 seconds]
+TEACHER: Anybody have a question? [teacher talk for 0.6 seconds] One thing that you don't quite get yet because it's going to get more complicated here in a minute.
+  - INSTANCE #31 [OTR, OEQ, WAIT TIME]: "Anybody have a question? One thing that you don't quite get yet because it's going to get more complicated here in a minute."
+SILENCE: [silence for 3.9 seconds]
+TEACHER: What angle do you think other than these that we already have? What's another angle that you think might be of interest to us based on what we've learned in this class so far? [teacher talk for 0.6 seconds]
+  - INSTANCE #32 [OTR, OEQ, WAIT TIME]: "What's another angle that you think might be of interest to us based on what we've learned in this class so far?"
+STUDENT: [student talk for 2.3 seconds] 45 degrees. [student talk for 0.3 seconds]
+TEACHER: 45, what else? [teacher talk for 0.5 seconds]
+  - INSTANCE #33 [OTR, OEQ, WAIT TIME]: "45, what else?"
+STUDENT: [student talk for 2.2 seconds]
+SILENCE: [silence for 1.8 seconds]
+STUDENT: [student talk for 2.0 seconds]
+SILENCE: [silence for 3.2 seconds]
+TEACHER: What else?
+  - INSTANCE #34 [OTR]: "What else?"
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: 30, 60 and 45. Yes. [teacher talk for 0.8 seconds] So let's start with 30. [teacher talk for 1.4 seconds] We're going to take your compass and make a 30 degree angle starting here. [teacher talk for 0.0 seconds]
+SILENCE: [silence for 2.4 seconds]
+TEACHER: Make sure that your lines are lined up on all three sides. [teacher talk for 0.7 seconds] And then you mark where 30 is.
+STUDENT: [student talk for 1.4 seconds]
+SILENCE: [silence for 9.8 seconds]
+STUDENT: [student talk for 2.4 seconds]
+TEACHER: And when we draw this angle, I want you to draw it through the origin. [teacher talk for 0.7 seconds] So it's going to be a line going all the way across here.
+SILENCE: [silence for 2.1 seconds]
+STUDENT: [student talk for 6.2 seconds]
+SILENCE: [silence for 3.8 seconds]
+STUDENT: [student talk for 5.0 seconds]
+SILENCE: [silence for 3.3 seconds]
+STUDENT: [student talk for 2.8 seconds]
+SILENCE: [silence for 2.9 seconds]
+STUDENT: [student talk for 12.0 seconds]
+SILENCE: [silence for 10.2 seconds]
+TEACHER: All right? With your group, I want you to determine three things.
+STUDENT: [student talk for 2.7 seconds]
+TEACHER: The coordinates of that point and the angle. [teacher talk for 0.1 seconds] We already know. This is 30 degrees. [teacher talk for 0.6 seconds] I also want you to figure out what that is in radiance.
+SILENCE: [silence for 8.0 seconds]
+STUDENT: [student talk for 4.9 seconds]
+SILENCE: [silence for 2.1 seconds]
+STUDENT: [student talk for 2.5 seconds]
+GROUP: [group talk for 5.0 seconds]
+STUDENT: [student talk for 5.5 seconds]
+SILENCE: [silence for 4.3 seconds]
+STUDENT: [student talk for 3.7 seconds]
+SILENCE: [silence for 3.0 seconds]
+STUDENT: [student talk for 1.0 seconds]
+SILENCE: [silence for 10.0 seconds]
+STUDENT: [student talk for 2.5 seconds]
+GROUP: [group talk for 10.0 seconds]
+STUDENT: [student talk for 4.9 seconds]
+SILENCE: [silence for 4.6 seconds]
+STUDENT: [student talk for 5.5 seconds]
+GROUP: [group talk for 10.3 seconds]
+SILENCE: [silence for 2.4 seconds]
+STUDENT: [student talk for 15.2 seconds] Good start. [student talk for 1.6 seconds]
+GROUP: [group talk for 6.2 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 2.1 seconds]
+TEACHER: Do you know the radio?
+GROUP: [group talk for 4.6 seconds]
+TEACHER: Do you remember the conversion? [teacher talk for 2.0 seconds]
+  - INSTANCE #35 [OTR]: "Do you remember the conversion?"
+GROUP: [group talk for 4.7 seconds]
+TEACHER: [teacher talk for 2.9 seconds] Okay, so if you have 30 degrees right and PI over 180, which one's a degree?
+  - INSTANCE #36 [OTR]: "Okay, so if you have 30 degrees right and PI over 180, which one's a degree?"
+GROUP: [group talk for 3.4 seconds]
+TEACHER: So take 30 divided by 180 and then you times it by PI [teacher talk for 0.6 seconds]
+GROUP: [group talk for 6.5 seconds]
+TEACHER: negative fraction, put 31 over 180 and reduce it.
+STUDENT: What do you get? [student talk for 1.1 seconds]
+TEACHER: Someone can do that in their head. I'm sure
+GROUP: [group talk for 13.1 seconds]
+TEACHER: that makes sense, girl. Do you understand?
+  - INSTANCE #37 [OTR]: "Do you understand?"
+GROUP: [group talk for 3.9 seconds]
+STUDENT: So what did you do? [student talk for 0.2 seconds]
+TEACHER: Repeat back to me what you just did.
+  - INSTANCE #38 [OTR, OEQ, PRESS]: "Repeat back to me what you just did."
+GROUP: [group talk for 8.9 seconds]
+TEACHER: So if I have degrees, I have to divide by degrees to get the radian and then times divide PI, right? [teacher talk for 0.4 seconds] So if I had radians, what would I. How would I get the degrees?
+  - INSTANCE #39 [OTR, PRESS]: "So if I had radians, what would I. How would I get the degrees?"
+STUDENT: What's the opposite of that?
+GROUP: [group talk for 2.0 seconds]
+TEACHER: [teacher talk for 1.0 seconds]
+GROUP: [group talk for 3.6 seconds]
+TEACHER: That's a good guess. [teacher talk for 0.7 seconds] What action did we do first? [teacher talk for 1.9 seconds] We took the degrees and we did what by the other degrees, Right? [teacher talk for 0.6 seconds] So if I start with radians,
+  - INSTANCE #4 [PRAISE]: "That's a good guess."
+  - INSTANCE #40 [OTR]: "What action did we do first?"
+  - INSTANCE #41 [OTR]: "We took the degrees and we did what by the other degrees, Right?"
+GROUP: [group talk for 5.4 seconds]
+TEACHER: can you help?
+STUDENT: You listening? [student talk for 1.2 seconds]
+TEACHER: So if I go from degrees to radians. All right,
+GROUP: [group talk for 4.7 seconds]
+TEACHER: so you have 30 degrees, right? [teacher talk for 1.1 seconds] And you said PI over one. [teacher talk for 1.0 seconds] That's the conversion. [teacher talk for 0.6 seconds] So I made you do it like this
+  - INSTANCE #42 [OTR]: "so you have 30 degrees, right?"
+GROUP: [group talk for 2.5 seconds]
+TEACHER: [teacher talk for 3.1 seconds] because I just switched this to the denominator. I can do that, right? Yes. [teacher talk for 0.1 seconds] Makes sense this. We just reduced.003 over 1816 times PI. [teacher talk for 1.0 seconds] We can simplify to PI over 6. [teacher talk for 0.6 seconds] Okay, so you always have this conversion.
+  - INSTANCE #43 [OTR]: "I can do that, right?"
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: So everyone's paying attention to me. [teacher talk for 0.7 seconds] Sorry.
+STUDENT: [student talk for 1.8 seconds]
+TEACHER: So if I start with radians, let's Say if I have two PI.
+STUDENT: [student talk for 1.4 seconds] Flip that now. [student talk for 0.7 seconds]
+TEACHER: So what do I times?
+  - INSTANCE #44 [OTR]: "So what do I times?"
+STUDENT: [student talk for 3.7 seconds]
+TEACHER: Go ahead, jump in. [teacher talk for 1.6 seconds] Sorry, Mr. Hartnett. [teacher talk for 0.7 seconds]
+  - INSTANCE #45 [OTR]: "Go ahead, jump in. Sorry, Mr. Hartnett."
+STUDENT: [student talk for 2.7 seconds]
+TEACHER: Converting the angle. [teacher talk for 0.1 seconds] So if I want to go from 2 PI. So this is from degrees to radians, right? I did PI over 180. So if I want to go the other way. [teacher talk for 0.4 seconds] Take a guess.
+  - INSTANCE #46 [OTR]: "So if I want to go the other way. Take a guess."
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: Anyone can say it because I see all of you are looking at me over here.
+  - INSTANCE #47 [OTR]: "Anyone can say it because I see all of you are looking at me over here."
+  - INSTANCE #5 [PRAISE, BEHAVIOR PRAISE]: "Anyone can say it because I see all of you are looking at me over here."
+STUDENT: 180 over PI. [student talk for 0.2 seconds]
+TEACHER: There we go. Does that make sense? [teacher talk for 0.0 seconds]
+  - INSTANCE #48 [OTR, WAIT TIME]: "Does that make sense?"
+SILENCE: [silence for 3.6 seconds]
+STUDENT: [student talk for 0.0 seconds] Right? [student talk for 1.1 seconds]
+TEACHER: So I can rewrite it, right? I can move this over mathematically. [teacher talk for 0.6 seconds] If you can read my sloppy handwriting.
+SILENCE: [silence for 3.0 seconds]
+TEACHER: So what happens with my Pisces? [teacher talk for 0.6 seconds]
+  - INSTANCE #49 [OTR]: "So what happens with my Pisces?"
+STUDENT: What do I get? [student talk for 1.4 seconds]
+TEACHER: All right, I'll leave that up. You can use that the rest of class. There you go. [teacher talk for 0.2 seconds] Sorry. Continue.
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: I'm getting a lot of questions about those coordinates.
+STUDENT: [student talk for 2.5 seconds]
+TEACHER: How do we decide where this point is that we're looking for coordinates for?
+  - INSTANCE #50 [OTR, OEQ, PRESS]: "How do we decide where this point is that we're looking for coordinates for?"
+GROUP: [group talk for 4.0 seconds]
+TEACHER: How did we decide where this point. [teacher talk for 0.6 seconds] Why did I ask for coordinates of this point instead of some other point?
+  - INSTANCE #51 [OTR, OEQ, PRESS]: "Why did I ask for coordinates of this point instead of some other point?"
+STUDENT: [student talk for 1.9 seconds]
+TEACHER: What's unique about that point? [teacher talk for 0.6 seconds]
+  - INSTANCE #52 [OTR, OEQ]: "What's unique about that point?"
+STUDENT: [student talk for 1.2 seconds] It is. [student talk for 1.3 seconds]
+TEACHER: Okay, so how is it unique from other points? That would also be on the circumference. [teacher talk for 0.9 seconds]
+  - INSTANCE #53 [OTR, OEQ, PRESS]: "Okay, so how is it unique from other points? That would also be on the circumference."
+STUDENT: What's that? [student talk for 0.7 seconds]
+TEACHER: Why do we choose 30 degrees?
+  - INSTANCE #54 [OTR, OEQ, PRESS]: "Why do we choose 30 degrees?"
+STUDENT: [student talk for 2.6 seconds]
+TEACHER: Because of the special right triangle. [teacher talk for 0.7 seconds] So if that's the reason we chose 30 degrees, then use what you know about that special right triangle to see if you can come up with these coordinates. [teacher talk for 0.4 seconds]
+STUDENT: [student talk for 1.1 seconds]
+GROUP: [group talk for 6.8 seconds] It [group talk for 29.7 seconds]
+TEACHER: [teacher talk for 7.7 seconds]
+GROUP: [group talk for 4.1 seconds]
+TEACHER: vertical line down there's my right angle. [teacher talk for 0.7 seconds] This is my 30 degree angle. [teacher talk for 0.2 seconds] Here's my 60 degree angle. [teacher talk for 0.3 seconds] Do I know any of the sides of that triangle?
+  - INSTANCE #55 [OTR]: "Do I know any of the sides of that triangle?"
+SILENCE: [silence for 2.0 seconds]
+TEACHER: What is the hypotenuse?
+  - INSTANCE #56 [OTR]: "What is the hypotenuse?"
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: The hypotenuse is one.
+STUDENT: [student talk for 4.1 seconds]
+TEACHER: Because this is a unit circle. We put this at 1 0. [teacher talk for 0.2 seconds] Since it's a circle, it's going to be one all the way around. [teacher talk for 0.7 seconds] That's why that's a key reason we made it a unit circle. [teacher talk for 0.2 seconds] Now, what's the Hypotenuse of this?
+  - INSTANCE #57 [OTR]: "Now, what's the Hypotenuse of this?"
+STUDENT: 1, 2. [student talk for 1.5 seconds]
+TEACHER: So is there a relationship between this triangle and this triangle? [teacher talk for 0.0 seconds]
+  - INSTANCE #58 [OTR, OEQ]: "So is there a relationship between this triangle and this triangle?"
+SILENCE: [silence for 2.3 seconds]
+TEACHER: How would you describe that relationship? [teacher talk for 1.4 seconds]
+  - INSTANCE #59 [OTR, OEQ]: "How would you describe that relationship?"
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: The side is 1/2 the hypotenuse. [teacher talk for 1.0 seconds] The short side is 1/2 the Hypotenuse. Right. [teacher talk for 0.4 seconds] So what is this side here going to be?
+  - INSTANCE #60 [OTR]: "So what is this side here going to be?"
+STUDENT: [student talk for 1.8 seconds]
+TEACHER: Let's use fractions.
+STUDENT: [student talk for 3.0 seconds]
+TEACHER: Can we use that same reason to figure out what this side of the right triangle is going to be? [teacher talk for 1.6 seconds]
+  - INSTANCE #61 [OTR]: "Can we use that same reason to figure out what this side of the right triangle is going to be?"
+STUDENT: [student talk for 3.1 seconds]
+SILENCE: [silence for 3.2 seconds]
+STUDENT: [student talk for 6.5 seconds]
+TEACHER: Well, let's figure out the third side. Let's figure out what we do know before we figure out what we don't know. [teacher talk for 0.1 seconds] How do I know this is one? [teacher talk for 0.8 seconds] Because we made it one. [teacher talk for 0.2 seconds] When I said put this at 10 and then draw a circle, what's the radius of this circle. [teacher talk for 0.5 seconds]
+  - INSTANCE #62 [OTR]: "When I said put this at 10 and then draw a circle, what's the radius of this circle."
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: So it's going to be one all the way. Every radius will be one.
+SILENCE: [silence for 5.4 seconds]
+TEACHER: So what I'm asking you now, before we move back to the coordinates, is to determine using the same logic that you used to get one half here, when this is one, what will this side of the triangle be? [teacher talk for 1.2 seconds]
+  - INSTANCE #63 [OTR, PRESS, WAIT TIME]: "So what I'm asking you now, before we move back to the coordinates, is to determine using the same logic that you used to get one half here, when this is one, what will this side of the triangle be?"
+STUDENT: [student talk for 5.9 seconds]
+TEACHER: Square root of three over two. [teacher talk for 0.0 seconds]
+SILENCE: [silence for 2.9 seconds]
+TEACHER: So it's the same relationship as this triangle, but everything's been divided in half because the hypotenuse was half of this. [teacher talk for 0.6 seconds] Does that make sense?
+  - INSTANCE #64 [OTR]: "Does that make sense?"
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: Now the question is, how does that help us get the coordinates? [teacher talk for 0.9 seconds] This X value corresponds with this X value, right? [teacher talk for 0.0 seconds]
+  - INSTANCE #65 [OTR]: "This X value corresponds with this X value, right?"
+SILENCE: [silence for 2.5 seconds]
+TEACHER: And X is the distance from the origin to the value. [teacher talk for 0.5 seconds] So what's this distance here?
+  - INSTANCE #66 [OTR, WAIT TIME]: "So what's this distance here?"
+SILENCE: [silence for 5.3 seconds]
+TEACHER: What about the Y value?
+  - INSTANCE #67 [OTR, WAIT TIME]: "What about the Y value?"
+SILENCE: [silence for 11.1 seconds]
+TEACHER: Peyton, you have a question? [teacher talk for 0.9 seconds]
+STUDENT: No, I just uncovered in this question. [student talk for 1.1 seconds]
+SILENCE: [silence for 2.7 seconds]
+TEACHER: Anybody have a question over that?
+  - INSTANCE #68 [OTR, OEQ, WAIT TIME]: "Anybody have a question over that?"
+SILENCE: [silence for 2.2 seconds]
+STUDENT: [student talk for 4.2 seconds]
+SILENCE: [silence for 2.8 seconds]
+STUDENT: [student talk for 5.1 seconds] Why is it.
+TEACHER: Why is the 1/2 of the Y this distance here
+  - INSTANCE #69 [OTR, PRESS]: "Why is the 1/2 of the Y this distance here"
+GROUP: [group talk for 20.3 seconds] in like. [group talk for 3.8 seconds]
+STUDENT: [student talk for 5.0 seconds]
+TEACHER: So the normal 30, 60 triangle was finding a pattern, and we were using whole numbers in this pattern. Remember, we did this from an equilateral triangle. [teacher talk for 0.8 seconds] And so since this is going to be one half of this, we put two here and put one here.
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: But every 30, 60, 90 triangle has the same relationship. [teacher talk for 0.8 seconds] So the short side is half the length of the hypotenuse, and the longer side is going to be square root of three times the short side is one way of looking at it. [teacher talk for 1.3 seconds]
+STUDENT: [student talk for 2.9 seconds]
+TEACHER: Take a picture of this.
+STUDENT: [student talk for 2.6 seconds]
+TEACHER: Not right now.
+STUDENT: [student talk for 2.1 seconds] What do you want?
+TEACHER: What would you want to see in your picture?
+  - INSTANCE #70 [OTR, OEQ]: "What would you want to see in your picture?"
+STUDENT: [student talk for 3.1 seconds]
+TEACHER: All right, what I want you to do next is remember what is the sine of 30 degrees
+STUDENT: [student talk for 5.2 seconds]
+TEACHER: and the [teacher talk for 3.4 seconds]
+STUDENT: cosine of 30 degrees. [student talk for 0.7 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 2.1 seconds]
+TEACHER: Do that on scratch paper if you want.
+STUDENT: [student talk for 2.6 seconds]
+TEACHER: But I do want an exact answer.
+STUDENT: [student talk for 3.8 seconds]
+GROUP: [group talk for 14.3 seconds]
+SILENCE: [silence for 2.2 seconds]
+GROUP: [group talk for 8.3 seconds]
+TEACHER: Will it be different?
+  - INSTANCE #71 [OTR]: "Will it be different?"
+GROUP: [group talk for 2.8 seconds]
+TEACHER: Is a sign of 30. [teacher talk for 0.3 seconds] Can you possibly get different answers?
+  - INSTANCE #72 [OTR]: "Can you possibly get different answers?"
+GROUP: [group talk for 10.1 seconds]
+SILENCE: [silence for 2.4 seconds]
+GROUP: [group talk for 22.9 seconds] You can't memorize it.
+TEACHER: But we don't have enough to memorize yet. [teacher talk for 0.6 seconds]
+STUDENT: Sign is. [student talk for 0.7 seconds]
+TEACHER: So, Max, what do you get for sign of 30? [teacher talk for 1.0 seconds]
+  - INSTANCE #73 [OTR]: "So, Max, what do you get for sign of 30?"
+STUDENT: I don't know. [student talk for 1.2 seconds]
+TEACHER: Did you use so COA?
+  - INSTANCE #74 [OTR]: "Did you use so COA?"
+GROUP: [group talk for 7.4 seconds]
+TEACHER: What did you get for S30? [teacher talk for 0.6 seconds]
+  - INSTANCE #75 [OTR]: "What did you get for S30?"
+STUDENT: Oh, I didn't. Oh, I got 5. [student talk for 0.6 seconds]
+TEACHER: Can you give me that as a fraction? [teacher talk for 0.2 seconds]
+  - INSTANCE #76 [OTR]: "Can you give me that as a fraction?"
+STUDENT: 1, 2, and.
+TEACHER: How'd you do that? [teacher talk for 0.6 seconds]
+  - INSTANCE #77 [OTR, OEQ, PRESS]: "How'd you do that?"
+STUDENT: Put it into the calculator. [student talk for 6.7 seconds]
+TEACHER: Maddie, can you tell me how we would get that without a calculator? [teacher talk for 0.8 seconds] Everything you need to know for getting that is on this post
+  - INSTANCE #78 [OTR, OEQ, PRESS]: "Maddie, can you tell me how we would get that without a calculator? Everything you need to know for getting that is on this post"
+STUDENT: [student talk for 11.4 seconds] or adjacent override. [student talk for 1.2 seconds]
+TEACHER: Adjacent over hypotenuse. [teacher talk for 1.6 seconds]
+STUDENT: Opposite over hypotenuse. [student talk for 0.2 seconds]
+TEACHER: Opposite over hypotenuse. Sine is opposite over hypotenuse. [teacher talk for 0.6 seconds] Sine is opposite over hypotenuse. [teacher talk for 0.3 seconds] So the opposite of 30 is 1 and the hypotenuse is 2. [teacher talk for 1.0 seconds] Right? [teacher talk for 0.5 seconds]
+  - INSTANCE #79 [OTR]: "So the opposite of 30 is 1 and the hypotenuse is 2. Right?"
+SILENCE: [silence for 4.0 seconds]
+TEACHER: Soh Cah toa. [teacher talk for 1.4 seconds] Sine is opposite over hypotenuse. [teacher talk for 0.9 seconds] If I ask for the sine of this angle, you're going to look at the opposite leg and put it over the hypotenuse, right?
+  - INSTANCE #80 [OTR]: "If I ask for the sine of this angle, you're going to look at the opposite leg and put it over the hypotenuse, right?"
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: This is our first day on trigonometry. [teacher talk for 0.6 seconds]
+STUDENT: No. [student talk for 1.0 seconds]
+TEACHER: As you can attest by the toaster. [teacher talk for 0.4 seconds] What if I did it over here?
+  - INSTANCE #81 [OTR]: "What if I did it over here?"
+STUDENT: What's the sine of 30 over here?
+SILENCE: [silence for 3.1 seconds]
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: One half over one, which simplifies to.
+  - INSTANCE #82 [OTR]: "One half over one, which simplifies to."
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: Now, somebody said, is it going to be. [teacher talk for 0.4 seconds] Somebody said that they thought it might be different over here than it is over there. [teacher talk for 0.2 seconds] The foundation of all trigonometry. The only reason we use trigonometry is because of the similarity of right triangles. [teacher talk for 0.2 seconds] So the sine of 30 will always be the same. [teacher talk for 0.2 seconds] The sine of 49.763 will always be the same, because any triangle that has an angle of 49.673, whether it's a big triangle or a tiny triangle, the ratio of the sides will be the same.
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: And this comes from geometry, when you study similar triangles. [teacher talk for 0.6 seconds] Remember, congruent triangles have same length sides, same angles. [teacher talk for 0.4 seconds] Similar triangles have the same angles, but they have different lengths. They can have different length sides, but those sides are always proportional.
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: And so sine of 30 degrees is a constant number. [teacher talk for 0.7 seconds] It's always going to be one half, no matter how big the triangle sides are. [teacher talk for 0.5 seconds] It has a 30 degree angle. If it's a right triangle, [teacher talk for 2.7 seconds]
+STUDENT: does that make sense? [student talk for 0.6 seconds]
+TEACHER: The sine of 30 is always 1/2. [teacher talk for 0.2 seconds] What is cosine of 30 always going to be?
+  - INSTANCE #83 [OTR, WAIT TIME]: "What is cosine of 30 always going to be?"
+SILENCE: [silence for 5.2 seconds]
+STUDENT: [student talk for 2.5 seconds]
+SILENCE: [silence for 3.5 seconds]
+STUDENT: [student talk for 1.5 seconds] Square root of 3 over 2. [student talk for 0.2 seconds]
+TEACHER: Cosine is adjacent over hypotenuse. Square root of 3 over 2. [teacher talk for 0.1 seconds]
+SILENCE: [silence for 3.0 seconds]
+TEACHER: We have the different length sides here.
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: Adjacent square root of 3 over 2 over the hypotenuse. One square root of 3 over 2. Still, can anybody come up with this is a little side project, come up with another 30, 60, 90 triangle that does not have these sides or that side? [teacher talk for 0.2 seconds] Those sides.
+  - INSTANCE #84 [OTR, OEQ, WAIT TIME]: "Still, can anybody come up with this is a little side project, come up with another 30, 60, 90 triangle that does not have these sides or that side? Those sides."
+SILENCE: [silence for 3.2 seconds]
+TEACHER: So a 30, 60, 90 triangle that doesn't have one for a hypotenuse or two for a hypotenuse. [teacher talk for 1.4 seconds]
+STUDENT: [student talk for 1.1 seconds]
+SILENCE: [silence for 2.6 seconds]
+TEACHER: Everybody got one. [teacher talk for 0.2 seconds]
+STUDENT: [student talk for 1.4 seconds]
+SILENCE: [silence for 2.4 seconds]
+STUDENT: [student talk for 4.7 seconds]
+SILENCE: [silence for 1.8 seconds]
+TEACHER: Y' all remember how we first came up with the sides for a 30, 60, 90 triangle way back a week or two ago? [teacher talk for 1.6 seconds]
+SILENCE: [silence for 4.6 seconds]
+STUDENT: [student talk for 0.4 seconds] Today's not even Monday. [student talk for 1.0 seconds]
+TEACHER: Now, remember, we made an equilateral triangle that had all this would be 60, 60, 60. [teacher talk for 0.2 seconds]
+SILENCE: [silence for 2.1 seconds]
+TEACHER: So can anybody come up with make up a length max, make up a number 10. [teacher talk for 0.1 seconds]
+  - INSTANCE #85 [OTR, WAIT TIME]: "So can anybody come up with make up a length max, make up a number 10."
+SILENCE: [silence for 2.8 seconds]
+TEACHER: All right, so if the Sides of this equilateral triangle are 10. [teacher talk for 0.9 seconds] What is the side of this half of the equilateral triangle? [teacher talk for 1.3 seconds] How can I figure out this long side?
+  - INSTANCE #86 [OTR, PRESS, WAIT TIME]: "How can I figure out this long side?"
+STUDENT: [student talk for 9.7 seconds]
+TEACHER: Okay, 10 squared minus 5 squared. So the Pythagorean theorem, 5 squared plus X squared equals 10 squared. [teacher talk for 0.2 seconds] So we subtract 5 squared. [teacher talk for 0.1 seconds] I get X squared equals 10 squared minus 5 squared.
+STUDENT: [student talk for 2.1 seconds]
+TEACHER: So 100 minus 25. [teacher talk for 0.6 seconds]
+SILENCE: [silence for 3.4 seconds]
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: Can I simplify this? Square root of 75, what does it simplify to
+  - INSTANCE #87 [OTR, WAIT TIME]: "Can I simplify this? Square root of 75, what does it simplify to"
+SILENCE: [silence for 4.0 seconds]
+STUDENT: [student talk for 4.9 seconds]
+TEACHER: 5 square root 3? [teacher talk for 0.2 seconds] Because square root of 75 has a perfect square of 25 in it and the square root of 25 is 5. But square root of 3, we can't simplify. [teacher talk for 0.1 seconds]
+SILENCE: [silence for 3.3 seconds]
+TEACHER: Now, in this triangle, what is the sine of 30? [teacher talk for 0.2 seconds]
+  - INSTANCE #88 [OTR, WAIT TIME]: "Now, in this triangle, what is the sine of 30?"
+SILENCE: [silence for 3.6 seconds]
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: How'd you get that? [teacher talk for 1.3 seconds]
+  - INSTANCE #89 [OTR, OEQ, PRESS, WAIT TIME]: "How'd you get that?"
+STUDENT: [student talk for 1.6 seconds]
+SILENCE: [silence for 1.8 seconds]
+TEACHER: Does that make sense? We can make up any numbers we want for this triangle, but as long as we use math to determine the other sides, the proportion is going to come out to the same. [teacher talk for 1.0 seconds] Sine of 30 will always be 1/2.
+  - INSTANCE #90 [OTR]: "Does that make sense?"
+SILENCE: [silence for 2.0 seconds]
+TEACHER: Alright, now that we've identified sine and cosine of this, do you notice any similarities between the coordinates and the sine and cosine of these angles?
+  - INSTANCE #91 [OTR, OEQ]: "Alright, now that we've identified sine and cosine of this, do you notice any similarities between the coordinates and the sine and cosine of these angles?"
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: They're the same. [teacher talk for 0.9 seconds] So the coordinates around this unit circle, that's why we made a unit circle. So the hypotenuse would always be one. [teacher talk for 0.5 seconds] So that the opposite side was always going to be our X coordinate and our adjacent side our Y coordinate. [teacher talk for 0.6 seconds] So X will always be sine. [teacher talk for 0.8 seconds] Sorry, I'm doing that wrong.
+STUDENT: Did you all catch that? [student talk for 0.9 seconds]
+TEACHER: The opposite side is not an X, it's a Y length. Right. [teacher talk for 0.5 seconds] The adjacent side is the X length. [teacher talk for 0.6 seconds]
+STUDENT: Cosine theta. [student talk for 1.4 seconds]
+TEACHER: Sine theta. [teacher talk for 1.2 seconds]
+STUDENT: [student talk for 1.7 seconds]
+TEACHER: How am I going to figure out tangent of this 30 degree angle?
+  - INSTANCE #92 [OTR, WAIT TIME]: "How am I going to figure out tangent of this 30 degree angle?"
+SILENCE: [silence for 3.5 seconds]
+STUDENT: [student talk for 2.0 seconds]
+SILENCE: [silence for 3.2 seconds]
+TEACHER: And the opposite is Y.
+STUDENT: Right. [student talk for 0.6 seconds]
+TEACHER: And the adjacent is X. [teacher talk for 0.7 seconds] So tangent of theta, Y over x.
+STUDENT: [student talk for 1.6 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 3.0 seconds]
+TEACHER: You can write that in the corner, kind of like I have. [teacher talk for 1.0 seconds] I don't want it to mess up your actual unit circle because we've got a lot more to put on the unit circle.
+SILENCE: [silence for 4.8 seconds]
+TEACHER: What about secant of theta? How would I find that?
+  - INSTANCE #93 [OTR, PRESS, WAIT TIME]: "How would I find that?"
+SILENCE: [silence for 5.9 seconds]
+TEACHER: Just the inverse of which 1 secant is the inverse of the cosine. [teacher talk for 0.3 seconds] So if I take the X and I do the inverse of that, what would I get?
+  - INSTANCE #94 [OTR]: "So if I take the X and I do the inverse of that, what would I get?"
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: And what do I need to do when I get two over square root of three?
+  - INSTANCE #95 [OTR, WAIT TIME]: "And what do I need to do when I get two over square root of three?"
+SILENCE: [silence for 4.1 seconds]
+STUDENT: Put the square root on top. [student talk for 0.2 seconds] So two square root three over three. [student talk for 0.2 seconds]
+TEACHER: Yes. Rationalize that denominator. [teacher talk for 0.5 seconds] So with these three pieces of information, we can find all of the trig ratios for these angles that we're putting on here.
+  - INSTANCE #96 [OTR]: "Rationalize that denominator."
+STUDENT: [student talk for 2.4 seconds]
+TEACHER: Make sense? [teacher talk for 1.3 seconds] All right. [teacher talk for 0.3 seconds] Now, any Questions before we move on.
+  - INSTANCE #97 [OTR]: "Make sense?"
+  - INSTANCE #98 [OTR]: "Now, any Questions before we move on."
+STUDENT: [student talk for 2.6 seconds]
+TEACHER: Yes, certainly.
+SILENCE: [silence for 2.8 seconds]
+TEACHER: This angle here is what? [teacher talk for 1.0 seconds] 30. [teacher talk for 0.1 seconds] 30. [teacher talk for 0.2 seconds] How did y' all know that?
+  - INSTANCE #99 [OTR]: "This angle here is what?"
+  - INSTANCE #100 [OTR, OEQ, PRESS]: "How did y' all know that?"
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: Does anybody know the name for the theorem that says those angles are the same?
+  - INSTANCE #101 [OTR]: "Does anybody know the name for the theorem that says those angles are the same?"
+STUDENT: [student talk for 2.7 seconds]
+TEACHER: I was thinking parallel lines. These are vertical angles.
+STUDENT: [student talk for 3.3 seconds]
+TEACHER: Now this is still going to be one, right? [teacher talk for 1.6 seconds] So can you determine these coordinates?
+  - INSTANCE #102 [OTR, WAIT TIME]: "So can you determine these coordinates?"
+SILENCE: [silence for 6.2 seconds]
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: [teacher talk for 2.3 seconds]
+STUDENT: [student talk for 1.6 seconds]
+SILENCE: [silence for 2.5 seconds]
+STUDENT: [student talk for 2.1 seconds]
+SILENCE: [silence for 5.3 seconds]
+STUDENT: [student talk for 13.5 seconds]
+GROUP: [group talk for 7.0 seconds] 15. [group talk for 2.8 seconds]
+STUDENT: [student talk for 4.9 seconds]
+TEACHER: All right. So, Taylor, explain clearly that it's. It's just a coordinate plane. So this is the same X coordinate but with an opposite sign because it's to the left of the origin and it's the same. [teacher talk for 1.9 seconds]
+  - INSTANCE #103 [OTR]: "So, Taylor, explain clearly that it's."
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: I think she told me this and I didn't write it. It's the same Y coordinate but with an opposite sign because it's the. [teacher talk for 0.1 seconds] Below the origin. [teacher talk for 0.6 seconds] Right.
+STUDENT: [student talk for 1.7 seconds]
+TEACHER: So what this tells us is this reference angle. [teacher talk for 0.7 seconds] And that's what this is called, the angle from the line to the axis. [teacher talk for 0.2 seconds] The X axis is the reference angle is how we determine these coordinates and the sine and cosine. [teacher talk for 1.2 seconds] But this isn't the only angle for this point. [teacher talk for 0.1 seconds]
+SILENCE: [silence for 2.2 seconds]
+TEACHER: What if I start at my initial side? [teacher talk for 0.5 seconds] What angle is this representing?
+  - INSTANCE #104 [OTR, WAIT TIME]: "What angle is this representing?"
+SILENCE: [silence for 6.5 seconds]
+STUDENT: [student talk for 4.8 seconds]
+TEACHER: Two hundred and ten. How'd you get that? [teacher talk for 0.3 seconds]
+  - INSTANCE #105 [OTR, OEQ, PRESS]: "How'd you get that?"
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: 180 plus 30 is 210 degrees. [teacher talk for 0.1 seconds] What about in radians?
+  - INSTANCE #106 [OTR, WAIT TIME]: "What about in radians?"
+STUDENT: [student talk for 2.8 seconds]
+SILENCE: [silence for 3.0 seconds]
+STUDENT: [student talk for 1.0 seconds]
+SILENCE: [silence for 8.7 seconds]
+STUDENT: [student talk for 1.3 seconds]
+SILENCE: [silence for 9.9 seconds]
+TEACHER: So we're going to multiply by PI over 180. So because we want PI to end up in our answer for radians, so we're going to have 210 over 180, which simplifies to 21 over 18. Can that be simplified anymore?
+  - INSTANCE #107 [OTR]: "Can that be simplified anymore?"
+STUDENT: [student talk for 2.8 seconds]
+TEACHER: 7 over 6. So it's 7 [teacher talk for 0.1 seconds] PI over 6, which we could pretty much do without a calculator. [teacher talk for 1.5 seconds] The hardest part without a calculator was reducing 21 over 18.
+STUDENT: [student talk for 1.6 seconds]
+SILENCE: [silence for 4.0 seconds]
+STUDENT: [student talk for 3.5 seconds]
+SILENCE: [silence for 2.5 seconds]
+TEACHER: So what is the significant
+  - INSTANCE #108 [OTR]: "So what is the significant"
+STUDENT: [student talk for 4.1 seconds]
+SILENCE: [silence for 9.3 seconds]
+STUDENT: [student talk for 3.7 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 7.9 seconds]
+TEACHER: close.
+STUDENT: [student talk for 2.9 seconds]
+SILENCE: [silence for 2.0 seconds]
+TEACHER: [teacher talk for 2.6 seconds] What is the sine of the angle with that 7 [teacher talk for 0.0 seconds] PI over 6 radians? [teacher talk for 0.1 seconds] Sine of 7 [teacher talk for 0.0 seconds] PI over 6.
+  - INSTANCE #109 [OTR]: "What is the sine of the angle with that 7 PI over 6 radians? Sine of 7 PI over 6."
+STUDENT: [student talk for 9.5 seconds]
+TEACHER: Negative 1/2. Can you tell me how you got that?
+  - INSTANCE #110 [OTR, OEQ, PRESS]: "Can you tell me how you got that?"
+STUDENT: [student talk for 6.4 seconds]
+TEACHER: Y is sine of theta. [teacher talk for 0.2 seconds] The Y here is negative one half. [teacher talk for 0.7 seconds] That's the usefulness of this unit circle. [teacher talk for 0.1 seconds] When it's completely filled out, it will have all of our sines and cosines for a lot of major angles on there.
+SILENCE: [silence for 3.8 seconds]
+STUDENT: [student talk for 1.5 seconds] All right.
+TEACHER: What's the cosine of 7 [teacher talk for 0.0 seconds] PI over 6? [teacher talk for 1.0 seconds]
+  - INSTANCE #111 [OTR]: "What's the cosine of 7 PI over 6?"
+STUDENT: Negative 2. [student talk for 1.0 seconds] Yes. [student talk for 0.2 seconds]
+TEACHER: What's the tangent of 7 [teacher talk for 0.1 seconds] PI over 6? [teacher talk for 0.1 seconds]
+  - INSTANCE #112 [OTR, WAIT TIME]: "What's the tangent of 7 PI over 6?"
+SILENCE: [silence for 9.6 seconds]
+STUDENT: [student talk for 7.0 seconds]
+SILENCE: [silence for 3.9 seconds]
+STUDENT: You don't know how. [student talk for 0.6 seconds] What.
+TEACHER: The first step would be in simplifying that the fractions have the same denominator. [teacher talk for 0.2 seconds] So I can cancel those.
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: Negative one over negative. Square root of three.
+STUDENT: What's a negative over a negative. [student talk for 3.2 seconds]
+TEACHER: Now what do I need to do to simplify that?
+  - INSTANCE #113 [OTR]: "Now what do I need to do to simplify that?"
+STUDENT: [student talk for 1.6 seconds]
+SILENCE: [silence for 2.7 seconds]
+TEACHER: And what do I get that is the tangent of 7 [teacher talk for 0.0 seconds] PI over 6.
+  - INSTANCE #114 [OTR]: "And what do I get that is the tangent of 7 PI over 6."
+STUDENT: [student talk for 1.5 seconds] Simplify. [student talk for 1.1 seconds]
+SILENCE: [silence for 1.9 seconds]
+TEACHER: What is the tangent of 30 degrees?
+  - INSTANCE #115 [OTR, WAIT TIME]: "What is the tangent of 30 degrees?"
+STUDENT: [student talk for 4.3 seconds]
+SILENCE: [silence for 13.3 seconds]
+STUDENT: [student talk for 2.4 seconds]
+TEACHER: Same thing. [teacher talk for 0.8 seconds] Isn't that safe sign?
+  - INSTANCE #116 [OTR]: "Isn't that safe sign?"
+STUDENT: [student talk for 3.2 seconds]
+TEACHER: Was it positive over there?
+  - INSTANCE #117 [OTR]: "Was it positive over there?"
+SILENCE: [silence for 2.3 seconds]
+STUDENT: [student talk for 6.1 seconds]
+TEACHER: So here a negative over a negative was a positive.
+STUDENT: [student talk for 1.7 seconds]
+TEACHER: What are we going to have? What signs are we going to have over here? [teacher talk for 0.7 seconds] Positive over positive. So still positive. [teacher talk for 0.3 seconds]
+  - INSTANCE #118 [OTR]: "What signs are we going to have over here?"
+SILENCE: [silence for 3.8 seconds]
+TEACHER: Let's see. [teacher talk for 0.5 seconds] What do we want to do next?
+  - INSTANCE #119 [OTR]: "What do we want to do next?"
+STUDENT: [student talk for 2.6 seconds] Yes. [student talk for 3.7 seconds]
+TEACHER: All right, next we're going to make a 30 degree angle on this side
+SILENCE: [silence for 14.0 seconds]
+TEACHER: in the second quadrant.
+SILENCE: [silence for 2.2 seconds]
+TEACHER: A 30 degree angle with the x axis in the second quadrant.
+SILENCE: [silence for 4.1 seconds]
+STUDENT: [student talk for 2.8 seconds]
+SILENCE: [silence for 23.9 seconds]
+STUDENT: [student talk for 5.1 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 1.3 seconds]
+SILENCE: [silence for 2.1 seconds]
+STUDENT: [student talk for 6.9 seconds]
+SILENCE: [silence for 15.8 seconds]
+STUDENT: [student talk for 4.0 seconds]
+SILENCE: [silence for 13.0 seconds]
+STUDENT: [student talk for 5.6 seconds]
+SILENCE: [silence for 2.2 seconds]
+TEACHER: You know all these coordinates? [teacher talk for 0.1 seconds]
+STUDENT: No, absolutely not. [student talk for 8.3 seconds]
+TEACHER: Once you've got this line written, determine what the coordinates are of the ends of this diameter.
+SILENCE: [silence for 3.8 seconds]
+TEACHER: Also determine what those angles are, meaning the angle from the initial side, this angle all the way to here and this angle all the way to here.
+STUDENT: [student talk for 4.1 seconds]
+TEACHER: It
+SILENCE: [silence for 2.3 seconds]
+STUDENT: [student talk for 4.5 seconds]
+GROUP: [group talk for 5.5 seconds]
+SILENCE: [silence for 2.0 seconds]
+GROUP: [group talk for 11.5 seconds] and the. [group talk for 5.7 seconds]
+STUDENT: [student talk for 7.5 seconds]
+TEACHER: [teacher talk for 2.9 seconds] Is it going to be the same thing or negative X? [teacher talk for 0.1 seconds] So think about it. Depends on where the. In this quadrant what are your. [teacher talk for 1.1 seconds]
+  - INSTANCE #120 [OTR]: "Is it going to be the same thing or negative X?"
+STUDENT: So it'd be negative X.
+GROUP: [group talk for 5.5 seconds]
+STUDENT: Because if we're looking at it, it's like a coordinate plane. X goes negative. [student talk for 1.6 seconds] So what quadrant is this quadrant? [student talk for 0.4 seconds] This one? [student talk for 0.5 seconds] Two.
+GROUP: [group talk for 3.6 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 12.0 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 7.3 seconds]
+STUDENT: Wouldn't it be the same? [student talk for 0.4 seconds]
+TEACHER: So right, so if you know this is 180 and you know this is what, zero or. [teacher talk for 1.0 seconds] Okay, so how far is it from here to here?
+  - INSTANCE #121 [OTR]: "So right, so if you know this is 180 and you know this is what, zero or."
+  - INSTANCE #122 [OTR]: "Okay, so how far is it from here to here?"
+GROUP: [group talk for 4.0 seconds]
+TEACHER: [teacher talk for 6.0 seconds]
+GROUP: [group talk for 4.3 seconds]
+STUDENT: This one's 32. [student talk for 1.0 seconds] Or is that. [student talk for 0.4 seconds]
+TEACHER: Let's take a look. [teacher talk for 1.5 seconds] So if this is 30, that one was 30. [teacher talk for 0.9 seconds] So this one's 31.
+GROUP: [group talk for 6.2 seconds]
+TEACHER: Okay, so now that you know all those are 30, so we can figure out the degree.
+STUDENT: [student talk for 3.4 seconds]
+GROUP: [group talk for 8.1 seconds]
+TEACHER: Start with this one. [teacher talk for 0.6 seconds] This is 180 and I go this direction.
+GROUP: [group talk for 3.0 seconds]
+TEACHER: [teacher talk for 4.0 seconds]
+GROUP: [group talk for 9.5 seconds]
+TEACHER: So if I go from here, that's 30. [teacher talk for 3.0 seconds]
+GROUP: [group talk for 4.1 seconds]
+STUDENT: Yeah, cuz the whole thing's 1 80. [student talk for 1.1 seconds]
+TEACHER: Okay, so then what's that angle there? [teacher talk for 1.0 seconds] Use that same thing [teacher talk for 2.3 seconds]
+  - INSTANCE #123 [OTR]: "Okay, so then what's that angle there? Use that same thing"
+STUDENT: starting like all the way that way. [student talk for 0.3 seconds]
+TEACHER: So start at 180. [teacher talk for 0.9 seconds] What's that going to be? [teacher talk for 0.2 seconds]
+  - INSTANCE #124 [OTR]: "What's that going to be?"
+STUDENT: Rad. [student talk for 1.6 seconds] Okay. [student talk for 2.2 seconds] Or wait, two. [student talk for 1.9 seconds]
+TEACHER: [teacher talk for 2.5 seconds] You get on two, seven out of that and then you minus the 60, which this one is, right? Oh, you look for 270 minus 60. Did you think about it a different way? [teacher talk for 0.6 seconds]
+  - INSTANCE #125 [OTR, OEQ, PRESS]: "Did you think about it a different way?"
+STUDENT: Yeah, I just added 270. [student talk for 1.8 seconds]
+TEACHER: Both are correct. So she probably did a little harder.
+STUDENT: That's maybe a little easier, right? [student talk for 0.1 seconds] Yeah.
+TEACHER: All right, so do we have all of them? We got 210.
+  - INSTANCE #126 [OTR]: "All right, so do we have all of them?"
+GROUP: [group talk for 8.0 seconds]
+TEACHER: Oh yeah, definitely, Definitely. All right, see if you can figure it out.
+GROUP: [group talk for 7.0 seconds]
+STUDENT: I'm getting there. [student talk for 0.7 seconds] Oh, I have to multiply. [student talk for 0.4 seconds] I have to multiply.
+GROUP: [group talk for 2.8 seconds]
+TEACHER: Okay, so the easiest way to do is to buy. [teacher talk for 1.0 seconds] Right? So let's, let's do 150. [teacher talk for 0.6 seconds] Put it over 180.
+STUDENT: [student talk for 2.6 seconds]
+TEACHER: Reduce that fraction. [teacher talk for 1.4 seconds] Yeah, right. So we divide by 10 and I get 15 over 18. [teacher talk for 0.9 seconds] Reduce it again.
+  - INSTANCE #127 [OTR]: "Reduce that fraction."
+  - INSTANCE #128 [OTR]: "Reduce it again."
+GROUP: [group talk for 8.1 seconds]
+TEACHER: Okay. [teacher talk for 1.2 seconds] And last step.
+  - INSTANCE #129 [OTR]: "And last step."
+GROUP: [group talk for 4.7 seconds]
+TEACHER: You actually.
+GROUP: [group talk for 5.0 seconds]
+TEACHER: So if you do that, like. So if you always take the degrees and you put it over 180 and reduce. [teacher talk for 0.3 seconds] Because you're going to want fractions. So if you divide, you're going to get decimals. [teacher talk for 3.0 seconds]
+GROUP: [group talk for 15.2 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 3.0 seconds]
+TEACHER: 330 over 180. [teacher talk for 0.2 seconds] So you said this is 33 over 18. So what's common? Well, what do we divide this one by? [teacher talk for 1.3 seconds] We reduce it by. [teacher talk for 0.8 seconds] Okay, try it divided by three. [teacher talk for 0.4 seconds] Yeah, top is 33. [teacher talk for 0.2 seconds] Three.
+  - INSTANCE #130 [OTR]: "Well, what do we divide this one by? We reduce it by."
+  - INSTANCE #131 [OTR]: "Okay, try it divided by three."
+GROUP: [group talk for 6.9 seconds]
+STUDENT: There you go. [student talk for 0.4 seconds] All right, 18. [student talk for 0.2 seconds]
+TEACHER: 18 divided by three.
+GROUP: [group talk for 2.5 seconds]
+STUDENT: There you go. [student talk for 0.2 seconds] I know. [student talk for 0.2 seconds] Yeah. [student talk for 1.5 seconds]
+TEACHER: Cool.
+GROUP: [group talk for 16.6 seconds]
+TEACHER: [teacher talk for 6.0 seconds]
+GROUP: [group talk for 7.1 seconds]
+TEACHER: All right, what do we get?
+  - INSTANCE #132 [OTR]: "All right, what do we get?"
+GROUP: [group talk for 4.2 seconds]
+TEACHER: All right, let's get radiance. [teacher talk for 0.9 seconds]
+GROUP: [group talk for 3.4 seconds]
+TEACHER: All right. [teacher talk for 0.6 seconds] Can you figure out the radiance?
+  - INSTANCE #133 [OTR]: "Can you figure out the radiance?"
+GROUP: [group talk for 2.8 seconds]
+TEACHER: Kind of gave you a hint just like this. [teacher talk for 0.8 seconds]
+SILENCE: [silence for 2.0 seconds]
+GROUP: [group talk for 4.8 seconds]
+STUDENT: All right, so hopefully. [student talk for 1.0 seconds]
+TEACHER: Come on. You can. All right, let's do it. Let's do it on the board. I'll do it on the board. You tell me what. [teacher talk for 0.4 seconds]
+  - INSTANCE #134 [OTR]: "You tell me what."
+STUDENT: 330 over 180. [student talk for 0.2 seconds] Okay, that's all I got. [student talk for 0.8 seconds] 33 over 18. [student talk for 0.4 seconds]
+TEACHER: Okay, wait, I can divide both by 10. [teacher talk for 0.6 seconds] So I get 33 over 18. [teacher talk for 1.0 seconds] Is there another factor that goes into both of those? Three. [teacher talk for 0.2 seconds] So 11 over. [teacher talk for 1.5 seconds] I'm like.
+  - INSTANCE #135 [OTR]: "Is there another factor that goes into both of those?"
+GROUP: [group talk for 5.4 seconds]
+TEACHER: And last step, we gotta [teacher talk for 0.0 seconds]
+GROUP: [group talk for 6.1 seconds]
+TEACHER: figure out the others.
+GROUP: [group talk for 12.8 seconds]
+TEACHER: Tell me how you got that.
+  - INSTANCE #136 [OTR, OEQ, PRESS]: "Tell me how you got that."
+GROUP: [group talk for 9.1 seconds]
+STUDENT: Interesting. [student talk for 0.7 seconds]
+TEACHER: Do you have the same or different?
+  - INSTANCE #137 [OTR]: "Do you have the same or different?"
+GROUP: [group talk for 2.4 seconds]
+TEACHER: [teacher talk for 4.0 seconds]
+STUDENT: How far is this? [student talk for 1.0 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 2.8 seconds]
+TEACHER: Okay, so your radius is correct.
+GROUP: [group talk for 14.0 seconds]
+TEACHER: [teacher talk for 3.8 seconds] What you have is. Right?
+GROUP: [group talk for 3.0 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 3.0 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 4.3 seconds]
+TEACHER: Yeah. So use your projector.
+GROUP: [group talk for 2.2 seconds] All right.
+TEACHER: I want to consolidate this a little bit.
+GROUP: [group talk for 2.6 seconds]
+TEACHER: We did a lot of work for this triangle right here. [teacher talk for 0.8 seconds] It's the same work for every one of these triangles, and some of you have told me that. [teacher talk for 0.7 seconds] So our coordinates, which represent our sines and our cosines are going to be the same for all of these because they all have this reference angle. And I'm going to use. That is one of our terms. Reference angle is the angle to the x axis of 90 degrees. [teacher talk for 0.9 seconds] If they all have the same reference angle, they're all going to have the same sine and cosine. [teacher talk for 0.8 seconds] If they all have the same sine and cosine, they also have the same X and Y coordinates. [teacher talk for 0.4 seconds] So we're going to have root three over two, one half. [teacher talk for 0.6 seconds] Root three over two, one half. [teacher talk for 0.5 seconds] Root 3 over 2, 1/2. [teacher talk for 0.3 seconds] The only thing that's going to be different is the sine.
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: When we were doing right triangles, we didn't have to worry about a sine. But now that we've got it all the Way around the axis, we do have different signs and the sine is going to be based on the quadrant. Right. [teacher talk for 0.4 seconds] In quadrant one, what is true of your X and Y values? [teacher talk for 0.2 seconds] Sines.
+  - INSTANCE #138 [OTR, WAIT TIME]: "In quadrant one, what is true of your X and Y values? Sines."
+STUDENT: [student talk for 3.4 seconds] What's that? [student talk for 0.6 seconds]
+TEACHER: Both positive. So sine and cosine are both positive. [teacher talk for 0.6 seconds] One, all positive.
+SILENCE: [silence for 2.3 seconds]
+STUDENT: What about in two?
+TEACHER: What's true of your X and Y coordinates? [teacher talk for 1.3 seconds]
+  - INSTANCE #139 [OTR, WAIT TIME]: "What's true of your X and Y coordinates?"
+STUDENT: [student talk for 3.7 seconds]
+TEACHER: The sines of the X and Y coordinates in quadrant 2. [teacher talk for 0.5 seconds]
+  - INSTANCE #140 [OTR]: "The sines of the X and Y coordinates in quadrant 2."
+STUDENT: [student talk for 0.5 seconds] Negative. Positive. [student talk for 0.2 seconds]
+TEACHER: X is negative, Y is positive. [teacher talk for 0.3 seconds] So sine negative and.
+STUDENT: Oh, do that again. [student talk for 0.1 seconds]
+TEACHER: Sine positive.
+STUDENT: [student talk for 2.1 seconds]
+TEACHER: Cosine negative.
+STUDENT: [student talk for 4.0 seconds]
+TEACHER: Quadrant 3, what's true of the signs on X and Y?
+  - INSTANCE #141 [OTR]: "Quadrant 3, what's true of the signs on X and Y?"
+STUDENT: [student talk for 1.3 seconds] All negative. [student talk for 0.6 seconds]
+TEACHER: Because this should be bigger. [teacher talk for 0.8 seconds] And quadrant four, what's true here? Use mine.
+  - INSTANCE #142 [OTR]: "And quadrant four, what's true here? Use mine."
+STUDENT: Positive. Negative. [student talk for 1.7 seconds]
+TEACHER: So the sine which is your Y is going to be negative and your cosine is going to be positive.
+SILENCE: [silence for 2.6 seconds]
+TEACHER: And if you forget these, you just look and see what quadrant it's in. [teacher talk for 0.7 seconds] Y's below the axis are of negative values. [teacher talk for 0.7 seconds] X's to the right have positive values. [teacher talk for 0.6 seconds] What about our tangent? [teacher talk for 0.2 seconds] All positive. All positive. [teacher talk for 0.2 seconds] I mean, all negative. What about our tangents here? [teacher talk for 0.1 seconds]
+  - INSTANCE #143 [OTR, WAIT TIME]: "What about our tangents here?"
+SILENCE: [silence for 6.4 seconds]
+STUDENT: [student talk for 1.4 seconds]
+SILENCE: [silence for 3.5 seconds]
+TEACHER: Our tangent is Y over X and these have different signs. Then our tangent's going to be negative here as well. [teacher talk for 1.4 seconds]
+STUDENT: [student talk for 1.2 seconds]
+SILENCE: [silence for 5.9 seconds]
+TEACHER: Do we need to do that for secant and cosecant? Are their signs going to be any different than their inverses?
+  - INSTANCE #144 [OTR]: "Do we need to do that for secant and cosecant? Are their signs going to be any different than their inverses?"
+STUDENT: [student talk for 1.8 seconds]
+TEACHER: If a sine is negative, will the cosecant also be negative? [teacher talk for 1.4 seconds] Yes.
+  - INSTANCE #145 [OTR]: "If a sine is negative, will the cosecant also be negative?"
+SILENCE: [silence for 2.0 seconds]
+TEACHER: So now the key is just to try another reference angle. [teacher talk for 1.7 seconds] And since we've already started with a 30, 60, 90 triangle, let's do 60 next.
+SILENCE: [silence for 4.8 seconds]
+STUDENT: [student talk for 1.6 seconds]
+SILENCE: [silence for 2.5 seconds]
+STUDENT: Follow one. Sorry, I did. I forgot that. [student talk for 0.3 seconds]
+TEACHER: And that was something that was giving me trouble. [teacher talk for 0.2 seconds] So when I go from here all the way to here, how many degrees have I gone over?
+  - INSTANCE #146 [OTR]: "So when I go from here all the way to here, how many degrees have I gone over?"
+STUDENT: [student talk for 2.6 seconds] 100. [student talk for 0.3 seconds]
+TEACHER: What?
+  - INSTANCE #147 [OTR]: "What?"
+STUDENT: [student talk for 2.0 seconds]
+TEACHER: I think it's 150. We've got 90 to here and then 60 to here. [teacher talk for 0.1 seconds] 90 plus 60 is 150.
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: Or if you went 180 and subtracted your reference angle, what's 180 minus 30?
+  - INSTANCE #148 [OTR]: "Or if you went 180 and subtracted your reference angle, what's 180 minus 30?"
+STUDENT: [student talk for 2.4 seconds] One hundred and fifty. [student talk for 1.4 seconds]
+TEACHER: And I saw a lot of people converting. [teacher talk for 1.0 seconds] So one hundred and fifty times I put the PI on top. If I'm changing to gradients over 180 gives me 150 over 180, the zeros cancel and 15 over 18 reduces to what we got. 5 [teacher talk for 0.1 seconds] PI over 6 radians [teacher talk for 1.4 seconds]
+  - INSTANCE #6 [PRAISE, ACADEMIC PRAISE]: "And I saw a lot of people converting."
+STUDENT: [student talk for 4.5 seconds] over here. [student talk for 0.0 seconds]
+SILENCE: [silence for 6.1 seconds]
+TEACHER: 330.
+STUDENT: [student talk for 1.7 seconds]
+TEACHER: What's the easiest way to figure out that that was 330? [teacher talk for 0.3 seconds] 360 minus 30. [teacher talk for 0.2 seconds]
+  - INSTANCE #149 [OTR]: "What's the easiest way to figure out that that was 330?"
+STUDENT: Because we know this is 30.
+TEACHER: You could have counted all the way around here. [teacher talk for 0.4 seconds] That's probably easier to just do 360 minus 30. [teacher talk for 0.2 seconds] And what's that in radians [teacher talk for 0.0 seconds]
+  - INSTANCE #150 [OTR, WAIT TIME]: "And what's that in radians"
+SILENCE: [silence for 8.9 seconds]
+TEACHER: written on the board back there with the work zone.
+STUDENT: [student talk for 7.2 seconds]
+TEACHER: All right, next angle 60. [teacher talk for 0.4 seconds]
+SILENCE: [silence for 8.1 seconds]
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: And while I'm here, I'm going to do 60 on both sides. [teacher talk for 0.5 seconds] Speed this up a little bit.
+STUDENT: [student talk for 9.3 seconds]
+SILENCE: [silence for 3.4 seconds]
+TEACHER: Okay.
+STUDENT: [student talk for 16.3 seconds]
+TEACHER: Same thing's gonna happen like this. [teacher talk for 0.2 seconds] So then think about it.
+STUDENT: [student talk for 8.0 seconds]
+TEACHER: So there's patterns. Once you know the pattern, once you know this car.
+STUDENT: [student talk for 1.3 seconds] Yeah.
+TEACHER: You can just.
+STUDENT: [student talk for 14.5 seconds]
+SILENCE: [silence for 2.5 seconds]
+GROUP: [group talk for 5.0 seconds]
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: I want you to take your 60 and figure out you can convert it to radians. [teacher talk for 0.2 seconds] And I want you to figure out the X and Y coordinates. [teacher talk for 2.0 seconds]
+STUDENT: [student talk for 10.0 seconds] What? Okay. [student talk for 7.2 seconds] And this is 90. And this is 60. [student talk for 2.9 seconds]
+TEACHER: All I did draw, actually.
+STUDENT: Let me draw. [student talk for 2.8 seconds]
+TEACHER: So your original triangle is this, right? [teacher talk for 0.2 seconds]
+STUDENT: Yeah. [student talk for 0.8 seconds]
+TEACHER: Okay, so you knew that this was one on one.
+STUDENT: [student talk for 13.7 seconds]
+TEACHER: [teacher talk for 1.9 seconds] 60 degree angle here.
+STUDENT: [student talk for 2.1 seconds]
+TEACHER: Now that's the same or different triangles?
+  - INSTANCE #151 [OTR]: "Now that's the same or different triangles?"
+STUDENT: [student talk for 4.7 seconds]
+TEACHER: Same.
+STUDENT: [student talk for 2.6 seconds]
+TEACHER: So what are these two sides?
+  - INSTANCE #152 [OTR]: "So what are these two sides?"
+STUDENT: Wait, why would it be more. [student talk for 1.9 seconds] Oh, do they flip like so many? Like this? Well, look.
+TEACHER: Look at how long is it from this to here to here, from the 90 to the 60.
+GROUP: [group talk for 2.2 seconds]
+TEACHER: So which one? Which, where do I put the one at?
+  - INSTANCE #153 [OTR]: "Which, where do I put the one at?"
+GROUP: [group talk for 6.6 seconds]
+STUDENT: I'm going to be looking at this later. [student talk for 0.1 seconds] Explain. What? Explain? [student talk for 0.2 seconds]
+TEACHER: Explain. [teacher talk for 0.1 seconds] Explain your thinking to your friends here. Okay,
+  - INSTANCE #154 [OTR, OEQ, PRESS]: "Explain your thinking to your friends here."
+STUDENT: [student talk for 5.8 seconds]
+GROUP: [group talk for 2.8 seconds]
+TEACHER: so we're just. We're just changing the way you're looking at it.
+GROUP: [group talk for 3.8 seconds]
+TEACHER: You making sense of that? [teacher talk for 2.0 seconds]
+  - INSTANCE #155 [OTR]: "You making sense of that?"
+GROUP: [group talk for 4.5 seconds]
+TEACHER: This is our original, right? [teacher talk for 0.7 seconds]
+STUDENT: I don't know what it's called. [student talk for 0.2 seconds]
+TEACHER: Is this triangle the same or different?
+  - INSTANCE #156 [OTR]: "Is this triangle the same or different?"
+GROUP: [group talk for 3.7 seconds]
+TEACHER: All we did was we just took it and turned it up. [teacher talk for 0.6 seconds]
+STUDENT: Right. [student talk for 0.9 seconds]
+TEACHER: So now here's your 60 degree to 90 degree side. [teacher talk for 0.3 seconds] How long is that side?
+  - INSTANCE #157 [OTR]: "How long is that side?"
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: So now it's here. [teacher talk for 1.5 seconds] So what does that do with your coordinates?
+  - INSTANCE #158 [OTR]: "So what does that do with your coordinates?"
+GROUP: [group talk for 31.8 seconds]
+STUDENT: So there's a pattern, right? [student talk for 0.1 seconds] Yeah. [student talk for 0.1 seconds] So. [student talk for 1.4 seconds]
+TEACHER: So these four, right. [teacher talk for 0.1 seconds] All have the same. [teacher talk for 0.2 seconds] Yeah, these four all have the same. [teacher talk for 0.2 seconds] And these four all the same. [teacher talk for 1.8 seconds] As long as you know the signs of the quadrants. Once you get this, if I know the size of the quadrants.
+STUDENT: Boom. [student talk for 0.7 seconds]
+TEACHER: Very easy to do.
+GROUP: [group talk for 2.4 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 3.6 seconds]
+STUDENT: 60 over 180, right? [student talk for 0.9 seconds] Yeah.
+GROUP: [group talk for 4.4 seconds]
+STUDENT: Or like PI over two.
+GROUP: [group talk for 3.8 seconds]
+STUDENT: Oh, wait, yeah, sorry. Three. [student talk for 1.8 seconds] So PI over third. [student talk for 1.5 seconds] Yeah. [student talk for 0.3 seconds] Yeah or no.
+TEACHER: Yes. [teacher talk for 0.1 seconds]
+STUDENT: [student talk for 1.5 seconds] Good. You're good. [student talk for 0.8 seconds]
+TEACHER: Don't doubt yourself. [teacher talk for 0.7 seconds] All right, See if you can figure out all the rest of the 63 games.
+STUDENT: [student talk for 1.0 seconds]
+TEACHER: [teacher talk for 3.7 seconds] You know, I mean, go ahead, keep going.
+STUDENT: You guys got it. [student talk for 0.8 seconds]
+TEACHER: Your collective brain power. [teacher talk for 2.9 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 4.5 seconds]
+GROUP: [group talk for 4.6 seconds]
+TEACHER: If I'm in quadrant four, tell me about my Y values.
+  - INSTANCE #159 [OTR, OEQ]: "If I'm in quadrant four, tell me about my Y values."
+GROUP: [group talk for 3.4 seconds]
+STUDENT: It'll be negative or no pos.
+TEACHER: Yeah, so all my Y values below this line have to be what? [teacher talk for 1.3 seconds] So what does that tell you about that coordinate? [teacher talk for 1.9 seconds]
+  - INSTANCE #160 [OTR]: "Yeah, so all my Y values below this line have to be what?"
+  - INSTANCE #161 [OTR]: "So what does that tell you about that coordinate?"
+STUDENT: Oh, it should be negative.
+GROUP: [group talk for 2.9 seconds]
+STUDENT: It's the Same coordinate. [student talk for 1.0 seconds]
+TEACHER: [teacher talk for 2.1 seconds] So typically we write,
+GROUP: [group talk for 6.0 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 5.0 seconds]
+TEACHER: you're mostly going to see it as root two over two. [teacher talk for 1.9 seconds]
+STUDENT: You did it, right? [student talk for 0.7 seconds]
+TEACHER: He's probably going to have you rationalize.
+GROUP: [group talk for 12.3 seconds]
+TEACHER: Great, great question.
+  - INSTANCE #7 [PRAISE, ACADEMIC PRAISE]: "Great, great question."
+GROUP: [group talk for 3.0 seconds]
+TEACHER: [teacher talk for 3.2 seconds] So this is 30.
+GROUP: [group talk for 4.5 seconds]
+TEACHER: All right, tell me what you know about S. [teacher talk for 2.3 seconds] Sine is the relationship of one to one.
+  - INSTANCE #162 [OTR]: "All right, tell me what you know about S."
+GROUP: [group talk for 2.6 seconds]
+TEACHER: So sine is always this relationship. [teacher talk for 0.2 seconds] So if I look at this triangle and I know my side lengths. [teacher talk for 0.2 seconds] So this is one, right? [teacher talk for 0.2 seconds] This is one half, and this is root three over two. [teacher talk for 0.8 seconds] So if I ask you a very specific question of the sine of.
+GROUP: [group talk for 2.2 seconds]
+TEACHER: Let me finish with her, and then I got you next. [teacher talk for 0.5 seconds] So if I have this. Well, what's my opposite side? So this is my reference angle. What's my opposite side? [teacher talk for 1.0 seconds] Good. One half, right? [teacher talk for 1.2 seconds] What's my hypotenuse? [teacher talk for 1.9 seconds] So what's one half over one?
+  - INSTANCE #163 [OTR]: "What's my opposite side?"
+  - INSTANCE #8 [PRAISE, ACADEMIC PRAISE]: "Good. One half, right?"
+  - INSTANCE #164 [OTR]: "What's my hypotenuse?"
+  - INSTANCE #165 [OTR]: "So what's one half over one?"
+GROUP: [group talk for 2.0 seconds]
+TEACHER: So when I look at my unit circle, right? This is a specific coordinate that represents this distance and this distance. [teacher talk for 1.1 seconds] So if I have my coordinate right, I can write my coordinate. This is my X value, right? Because this is my X distance, this is my Y distance. [teacher talk for 1.3 seconds] So, sine, which one of these values is it?
+  - INSTANCE #166 [OTR]: "So, sine, which one of these values is it?"
+GROUP: [group talk for 2.8 seconds]
+STUDENT: Which is the Y. [student talk for 0.3 seconds]
+TEACHER: So that's why in the unit circle, the sine is always your Y value. [teacher talk for 1.4 seconds] Does that make sense? So this is using that relationship. [teacher talk for 0.4 seconds] Okay, [teacher talk for 3.8 seconds]
+  - INSTANCE #167 [OTR]: "Does that make sense?"
+STUDENT: so this is like my first time
+TEACHER: [teacher talk for 0.1 seconds] seeing this. This is the first time.
+GROUP: [group talk for 4.6 seconds]
+STUDENT: So I don't get it. [student talk for 0.6 seconds] I don't get how to find on the side. I kind of.
+TEACHER: I don't actually like the triangles.
+STUDENT: I don't know. I don't know what he's saying. He goes too fast, and then I can't, like, write everything down.
+GROUP: [group talk for 6.6 seconds]
+STUDENT: Okay, ready for that first half you go. Add 30, add 15. [student talk for 0.1 seconds] Add 15, add 30.
+GROUP: [group talk for 6.0 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 2.2 seconds]
+STUDENT: Okay, why is that? [student talk for 1.0 seconds] How do you get that? [student talk for 0.1 seconds]
+TEACHER: Okay, so he showed you earlier, what's the abilities for right triangles?
+  - INSTANCE #168 [OTR]: "Okay, so he showed you earlier, what's the abilities for right triangles?"
+STUDENT: Wait, no, you're so. Right
+GROUP: [group talk for 5.0 seconds]
+STUDENT: there. [student talk for 1.8 seconds]
+TEACHER: So this is C.
+GROUP: [group talk for 14.6 seconds]
+TEACHER: So what happened? This is half the size. [teacher talk for 1.6 seconds] So this is a half. [teacher talk for 1.9 seconds] So this is two divided by two. [teacher talk for 1.3 seconds] I cut this in half. [teacher talk for 0.1 seconds] One divided by two or three divided by two.
+  - INSTANCE #169 [OTR]: "So what happened?"
+GROUP: [group talk for 2.2 seconds]
+STUDENT: Cool. [student talk for 0.9 seconds]
+TEACHER: See that? [teacher talk for 0.7 seconds] Okay, so now all we did was we took the unit circle, overlay that. [teacher talk for 1.8 seconds] So if you think about a coordinate plane, right. [teacher talk for 0.1 seconds] If I plot a point. [teacher talk for 1.3 seconds] Well, let's do a little thing here. [teacher talk for 0.1 seconds] What point is this? [teacher talk for 0.5 seconds] This point right here.
+  - INSTANCE #170 [OTR]: "What point is this? This point right here."
+GROUP: [group talk for 3.3 seconds]
+TEACHER: How'd you do that? You went over and then up over the idea of this. [teacher talk for 0.6 seconds] That's all. I'll go on a little bit of a tangent. [teacher talk for 0.4 seconds] One thing that aggravates me as a math student and as a math Teacher is when it seems like information is just random.
+  - INSTANCE #171 [OTR, OEQ, PRESS]: "How'd you do that?"
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: That's why. [teacher talk for 0.1 seconds] That's why I started this class, and I started a lot of our classes talking about what we're doing is working towards functions, and we're working towards the new functions. And when we're developing this skill for that function, sometimes, like we talked about with rate of change, you can learn slope for a linear function, but you just don't have the math skills to learn it for a nonlinear function until you get to calculus. [teacher talk for 0.1 seconds] And so you learn part of it, and then you just put it off. [teacher talk for 0.1 seconds] Well, in geometry, you should have learned that the sine of an angle is the same as the cosine of its complement. [teacher talk for 0.7 seconds] But in geometry, that seems like a little bit of random information. [teacher talk for 0.3 seconds] Maybe a neat little thing to see. [teacher talk for 0.5 seconds] But it comes in handy now that we're doing this unit circle in preparation for our trig functions, is that the sine of 30, the hypotenuse isn't changing. [teacher talk for 0.6 seconds] Sine was opposite over this hypotenuse when I change to the 60. [teacher talk for 0.8 seconds] Now, the cosine is this adjacent, which was the opposite for the sine, which, without getting too confusing with too many words, just means that the sine of 30 is the cosine of 60, and the cosine of 30 was the sine of 60. [teacher talk for 0.2 seconds] And that's something that a lot of y' all saw and pointed out already. [teacher talk for 0.5 seconds] And so the idea when I went to this 60, some of you are doing 45. So the reason I skipped the 45 is because I want you to see how similar these are and how quick it can be, because you're going to have to be very familiar with this. [teacher talk for 0.3 seconds] This is root three over two, and this is one half. [teacher talk for 0.5 seconds] This is just reversed.
+STUDENT: [student talk for 2.1 seconds]
+TEACHER: So in terms of memorization, you've only got two numbers you have to memorize so far for the coordinates 1/2 and root 3 over 2. Remember, those coordinates are sine and cosine as well. [teacher talk for 0.5 seconds] So not a whole lot of numbers to memorize. [teacher talk for 0.4 seconds] So then the key becomes making sure I get the signs right and making sure that I'm putting the right one first in the right place. [teacher talk for 0.6 seconds] And that's understanding how the coordinate plane works is one method for doing that up here. [teacher talk for 1.0 seconds] What is bigger Y or x?
+  - INSTANCE #172 [OTR, WAIT TIME]: "What is bigger Y or x?"
+STUDENT: [student talk for 3.2 seconds] Y? [student talk for 0.2 seconds]
+TEACHER: Y is bigger up here because it's higher than it is Y. [teacher talk for 0.3 seconds] Does that make sense? [teacher talk for 0.3 seconds] So the bigger number goes first. [teacher talk for 0.2 seconds] I mean, sorry, the bigger number goes with the Y. [teacher talk for 0.4 seconds] And root three is bigger than one. [teacher talk for 0.4 seconds] So root three over two is bigger than one over two. [teacher talk for 0.7 seconds]
+  - INSTANCE #173 [OTR]: "Does that make sense?"
+STUDENT: [student talk for 1.9 seconds]
+TEACHER: So if you remember these two numbers but you forget the order, look and see which one should be this one. Should the Y be bigger or should the X be bigger? In this case, the Y should be bigger. [teacher talk for 0.1 seconds] In this case it's kind of lower to the axis. The X should be bigger because it's further away from the origin to the right than it is up high.
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: All right, so let's fill all these in real quick. [teacher talk for 0.4 seconds]
+SILENCE: [silence for 2.3 seconds]
+STUDENT: [student talk for 5.9 seconds]
+TEACHER: Does that make sense how this becomes.
+  - INSTANCE #174 [OTR]: "Does that make sense how this becomes."
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: You don't have to. You don't have to be stopping and doing, solving triangles every time you fill out one of these points. There's some logic to it.
+STUDENT: Yes, baby. [student talk for 0.1 seconds] Second quadrant. [student talk for 0.2 seconds] Isn't it a negative one? [student talk for 0.4 seconds]
+TEACHER: Yes. So I haven't adjusted the sides yet. That is exactly right. [teacher talk for 0.2 seconds] So the X here is negative, but the Y is positive.
+  - INSTANCE #9 [PRAISE]: "That is exactly right."
+STUDENT: [student talk for 1.3 seconds]
+TEACHER: They're both negative here and here the X is positive and the Y is negative.
+SILENCE: [silence for 2.5 seconds]
+STUDENT: [student talk for 2.5 seconds]
+TEACHER: So you're going to have a quiz on Thursday in which you're supposed to have this memorized.
+STUDENT: [student talk for 2.1 seconds]
+TEACHER: You write in those points and you make your sign adjustments. [teacher talk for 0.1 seconds] Check to make sure that you've got the order right and you're good on this. [teacher talk for 0.5 seconds]
+STUDENT: [student talk for 3.0 seconds]
+TEACHER: [teacher talk for 2.3 seconds] You may convert 60 degrees to radians.
+STUDENT: [student talk for 5.4 seconds]
+TEACHER: PI over six. [teacher talk for 0.3 seconds] Isn't that what we had over here? [teacher talk for 2.1 seconds] So this is PI over 6.
+STUDENT: [student talk for 2.2 seconds]
+TEACHER: Now think in terms. [teacher talk for 0.2 seconds] Think fractionally. [teacher talk for 0.5 seconds] That's one third of PI. [teacher talk for 0.5 seconds] Half the circle is PI. [teacher talk for 0.5 seconds] 60 is 1/3 of that half circle. [teacher talk for 0.4 seconds] Right.
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: How many thirds of that half circle is this? [teacher talk for 0.1 seconds]
+  - INSTANCE #175 [OTR, WAIT TIME]: "How many thirds of that half circle is this?"
+SILENCE: [silence for 5.3 seconds]
+TEACHER: Anyone? [teacher talk for 1.4 seconds]
+  - INSTANCE #176 [OTR, WAIT TIME]: "Anyone?"
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: Here's one third. [teacher talk for 0.6 seconds] So remember when you were in elementary school and you were doing PIs? [teacher talk for 0.2 seconds] There's 1/3. [teacher talk for 0.8 seconds] How many thirds is this of the PI, which we're talking about? The PI is only half the circle.
+  - INSTANCE #177 [OTR]: "How many thirds is this of the PI, which we're talking about?"
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: 2/3 3 [teacher talk for 0.2 seconds] PI over 3. [teacher talk for 0.1 seconds]
+SILENCE: [silence for 3.8 seconds]
+TEACHER: How many is this?
+  - INSTANCE #178 [OTR, WAIT TIME]: "How many is this?"
+STUDENT: [student talk for 3.8 seconds] 4 [student talk for 0.1 seconds] PI over 3. [student talk for 1.5 seconds]
+TEACHER: How many is this? [teacher talk for 0.1 seconds]
+  - INSTANCE #179 [OTR, WAIT TIME]: "How many is this?"
+SILENCE: [silence for 6.9 seconds]
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: And then we get up to 6 [teacher talk for 0.1 seconds] PI over 3, which is just 2 [teacher talk for 0.1 seconds] PI.
+STUDENT: [student talk for 1.2 seconds]
+TEACHER: So we basically, when we're counting by 60s, we're dividing PI into thirds. [teacher talk for 0.2 seconds] So 1/3, 2/3, 3/3, 5/3, 6/3. When we were counting by 30s, we were dividing it up into 6 because 30 is a sixth of 180 [teacher talk for 0.1 seconds] PI over 6, 2 [teacher talk for 0.1 seconds] PI over 6, which is PI over 3, 3 [teacher talk for 0.1 seconds] PI over 6, which is 1/2, 4 [teacher talk for 0.1 seconds] PI over 6, which is 2/3, and then 5 [teacher talk for 0.1 seconds] PI over 6 [teacher talk for 3.3 seconds]
+STUDENT: and so on. [student talk for 0.6 seconds]
+TEACHER: The only thing that's confusing is we're using a letter PI and it's only half a circle. When we were in elementary school, we called it the entire PI of any PI, but now it's half PI.
+STUDENT: [student talk for 2.6 seconds]
+SILENCE: [silence for 2.9 seconds]
+TEACHER: All Right. How are we doing on PI questions before we move on to the next angle? I know I haven't filled this in completely, but don't want me to fill it in completely.
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: 60, 120 degrees.
+STUDENT: [student talk for 1.5 seconds]
+TEACHER: This is 180. [teacher talk for 0.1 seconds]
+STUDENT: 240 degrees. [student talk for 0.6 seconds]
+TEACHER: 240 plus [teacher talk for 3.0 seconds]
+STUDENT: 300 degrees. [student talk for 1.0 seconds]
+TEACHER: [teacher talk for 2.9 seconds]
+SILENCE: [silence for 4.4 seconds]
+TEACHER: Now, the idea of moving quickly is not to get you lost, it is for you to realize that we're not doing anything new. [teacher talk for 0.1 seconds] All the stuff we did new was from this one triangle. [teacher talk for 0.1 seconds] We're now just applying that all the way around the circle in the different angles. [teacher talk for 0.4 seconds] So it's the same thinking over and over and over again. [teacher talk for 0.6 seconds] And the one special right triangle we haven't used yet, which there's only two, so which one have we not used yet? [teacher talk for 0.2 seconds]
+  - INSTANCE #180 [OTR]: "And the one special right triangle we haven't used yet, which there's only two, so which one have we not used yet?"
+STUDENT: [student talk for 1.1 seconds]
+TEACHER: 45.
+STUDENT: [student talk for 1.8 seconds]
+TEACHER: So that'll be our next angle.
+SILENCE: [silence for 4.0 seconds]
+TEACHER: And it's going to fall right in between the other angles I've done.
+STUDENT: [student talk for 10.5 seconds]
+SILENCE: [silence for 9.9 seconds]
+STUDENT: [student talk for 12.4 seconds]
+TEACHER: 45 is one fraction of 180. [teacher talk for 0.1 seconds]
+SILENCE: [silence for 5.2 seconds]
+STUDENT: [student talk for 0.0 seconds] It's a quarter. [student talk for 0.4 seconds]
+TEACHER: So now we're counting by quarters, by fourths. [teacher talk for 0.9 seconds] So this is PI over 4. [teacher talk for 0.2 seconds] 2 [teacher talk for 0.2 seconds] PI over 4 is half a PI. [teacher talk for 0.7 seconds] This is 3 [teacher talk for 0.0 seconds] PI over 4. [teacher talk for 0.2 seconds] 4 [teacher talk for 0.2 seconds] PI over 4 is just PI. [teacher talk for 0.4 seconds]
+STUDENT: [student talk for 1.6 seconds]
+TEACHER: How many fourths is this? [teacher talk for 0.1 seconds]
+  - INSTANCE #181 [OTR, WAIT TIME]: "How many fourths is this?"
+SILENCE: [silence for 3.0 seconds]
+STUDENT: [student talk for 1.9 seconds]
+TEACHER: 5, 5, 6. And then how many fourths is this? [teacher talk for 0.0 seconds]
+  - INSTANCE #182 [OTR, WAIT TIME]: "And then how many fourths is this?"
+SILENCE: [silence for 6.5 seconds]
+TEACHER: What number comes after?
+  - INSTANCE #183 [OTR]: "What number comes after?"
+STUDENT: [student talk for 7.1 seconds]
+SILENCE: [silence for 2.4 seconds]
+TEACHER: So we've divided PI into six. [teacher talk for 1.0 seconds] We divided it into thirds, and we divided it into fourths. We've also divided it into halves. Those are the 90s that we started with.
+SILENCE: [silence for 2.1 seconds]
+STUDENT: [student talk for 1.7 seconds]
+SILENCE: [silence for 2.4 seconds]
+TEACHER: So we don't have fifths of PI. What would a fifth of PI be?
+  - INSTANCE #184 [OTR, WAIT TIME]: "What would a fifth of PI be?"
+SILENCE: [silence for 1.8 seconds]
+STUDENT: [student talk for 8.0 seconds]
+SILENCE: [silence for 3.5 seconds]
+TEACHER: [teacher talk for 3.5 seconds]
+STUDENT: [student talk for 6.4 seconds]
+TEACHER: What's going to be true about the sine and the cosine in this rectangle? [teacher talk for 1.0 seconds] They're going to be the same. [teacher talk for 0.5 seconds] So if you figure out one when the hypotenuse is 1:1, then you'll know the other one.
+  - INSTANCE #185 [OTR]: "What's going to be true about the sine and the cosine in this rectangle?"
+SILENCE: [silence for 17.3 seconds]
+STUDENT: [student talk for 16.5 seconds] Yeah, it's just. I know what I look at. [student talk for 1.5 seconds]
+TEACHER: Okay, so look at Quadrich
+STUDENT: [student talk for 30.7 seconds]
+SILENCE: [silence for 2.0 seconds]
+STUDENT: [student talk for 16.0 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+STUDENT: [student talk for 4.6 seconds]
+SILENCE: [silence for 2.4 seconds]
+STUDENT: [student talk for 2.7 seconds]
+SILENCE: [silence for 2.3 seconds]
+STUDENT: [student talk for 3.2 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+STUDENT: [student talk for 3.8 seconds]
+SILENCE: [silence for 4.9 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 6.0 seconds]
+TEACHER: [teacher talk for 2.0 seconds] into, like, the next 60 degrees. [teacher talk for 1.5 seconds] That would be. [teacher talk for 0.1 seconds] So you did this spot in this spot. [teacher talk for 0.4 seconds] You still need those. [teacher talk for 0.3 seconds] So those are kind of like a pair or a quad. These are a quad.
+STUDENT: And then middle ones.
+GROUP: [group talk for 4.8 seconds]
+SILENCE: [silence for 2.3 seconds]
+STUDENT: [student talk for 1.1 seconds] I'm just going to. Yeah. [student talk for 0.7 seconds]
+TEACHER: Do you see the patterns yet? [teacher talk for 0.4 seconds] Yeah. [teacher talk for 0.3 seconds] All right, so, like, these are all positive triangle, this side and this. [teacher talk for 11.6 seconds]
+  - INSTANCE #186 [OTR]: "Do you see the patterns yet?"
+STUDENT: [student talk for 1.9 seconds] So I'm going to do the Thursday is Thursday def. [student talk for 0.2 seconds]
+GROUP: [group talk for 5.0 seconds]
+STUDENT: [student talk for 7.7 seconds]
+SILENCE: [silence for 1.8 seconds]
+STUDENT: [student talk for 15.1 seconds]
+SILENCE: [silence for 1.9 seconds]
+STUDENT: [student talk for 4.4 seconds]
+SILENCE: [silence for 2.8 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+STUDENT: [student talk for 6.8 seconds]
+TEACHER: How many radiants are there?
+  - INSTANCE #187 [OTR]: "How many radiants are there?"
+STUDENT: [student talk for 6.2 seconds] Oh, the only thing I don't understand, I think, is. Give me a moment. [student talk for 4.2 seconds]
+TEACHER: This unit circle is foundational to the next level of mathematics. This unit circle is as big or bigger a concept than the quadratic formula, the slope formula, and I mean, I guess in high school, those are the kind of the biggest foundational things. [teacher talk for 0.6 seconds] So that's why you need to be very, very familiar with this.
+STUDENT: [student talk for 1.4 seconds]
+TEACHER: Memorizing it. [teacher talk for 0.2 seconds] There's not as much to memorize as it looks like because so many numbers are repeating. [teacher talk for 0.7 seconds] As long as you have some understanding of how to put the right numbers in the right places, Understanding it takes longer than memorizing, which is why you've got to be very familiar with it. [teacher talk for 0.2 seconds] But even understanding it, you. [teacher talk for 0.1 seconds] You can recreate this from scratch if you understand what's on this poster, which was what you were quizzed over already.
+STUDENT: [student talk for 5.2 seconds]
+TEACHER: So I know we spent a lot of time working on this. [teacher talk for 0.2 seconds] That's because it is such a major concept for everything that comes after there is a completed one of these on canvas or there will be a separate. [teacher talk for 0.1 seconds] As I publish it, I completed one of these that you can study. [teacher talk for 0.3 seconds] There's also more blanks of these that you can print out and fill in, or you can just do a sketch on a paper and fill it in.
+STUDENT: [student talk for 2.3 seconds]
+TEACHER: And there's a little bit of notes that I put on there. I don't know that the notes are as helpful as
+STUDENT: [student talk for 5.4 seconds]
+TEACHER: what your quiz is going to look like on. This is exactly that blank piece of paper. [teacher talk for 0.1 seconds] Paper I did. [teacher talk for 0.3 seconds] I'm just going to print off another one of those and give it to you and have you fill it out. [teacher talk for 0.6 seconds]
+STUDENT: [student talk for 3.3 seconds]
+GROUP: [group talk for 3.7 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 4.0 seconds]
+TEACHER: This is quadrant one. [teacher talk for 2.0 seconds]
+GROUP: [group talk for 2.0 seconds]
+TEACHER: [teacher talk for 3.0 seconds]
+GROUP: [group talk for 7.9 seconds]
+TEACHER: [teacher talk for 2.0 seconds]
+GROUP: [group talk for 20.5 seconds]
+STUDENT: [student talk for 10.0 seconds]
+GROUP: [group talk for 20.4 seconds]

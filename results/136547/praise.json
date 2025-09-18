@@ -1,0 +1,78 @@
+{
+  "praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "During the vocabulary review for 'coincidence,' Derek shares an example sentence instead of naming the part of speech, and the class chatters briefly.",
+        "instance_id": "7",
+        "quote": "Derek, you're doing a great job, but I just want the part of speech. It's a noun. All right, Derek, great job.",
+        "following_context_summary": "Students continue writing; the teacher prompts the class to give a thumbs up and re-reads the definition to give peers time to record it.",
+        "post_quote_description": "This balances encouragement with a clear academic redirect, reinforcing effort while keeping the learning target (part of speech) in focus."
+      },
+      {
+        "preceding_context_summary": "After students offer examples of 'haphazard' from Seedfolks, Carys suggests that the entire garden started without a plan.",
+        "instance_id": "10",
+        "quote": "Alright, that is a great observation, Carys.",
+        "following_context_summary": "The teacher elaborates on Carys’s idea, explaining how the garden developed organically with varied plot sizes, then transitions to the next word.",
+        "post_quote_description": "The teacher publicly affirms a student’s insightful contribution, reinforcing rigorous participation and modeling how to elevate peer ideas."
+      },
+      {
+        "preceding_context_summary": "In the game round on 'exception,' one group defines the wrong word ('expectations') while the other addresses 'exceptions'; students debate outcomes.",
+        "instance_id": "20",
+        "quote": "You guys did great for expectations, but exceptions was the word.",
+        "following_context_summary": "The teacher quickly moves the class to identify the part of speech, keeping energy positive and momentum going.",
+        "post_quote_description": "This praise acknowledges quality thinking even when off-target, preserving motivation while clarifying the precise objective."
+      }
+    ],
+    "rationale": "These 3 Praise exemplars were chosen together because they show a range of effective approval: supportive encouragement during correction (#7), affirmation of a strong academic insight (#10), and positive reinforcement paired with precise clarification (#20). Together they highlight different contexts (definition work, conceptual discussion, and a game) and demonstrate how praise can sustain momentum, validate thinking, and keep learning targets clear."
+  },
+  "academic_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "A student asks whether they should list people who judge or those who are judged, essentially asking about the grammatical direction of the verb phrase.",
+        "instance_id": "1",
+        "quote": "Okay, so excellent point about the direction our verb is going.",
+        "following_context_summary": "The teacher explains how 'be prejudiced' functions, including 'prejudiced against,' clarifying the grammatical construction before continuing the discussion.",
+        "post_quote_description": "This recognizes a precise academic insight about verb direction, spotlighting metalinguistic awareness that sharpens content understanding."
+      },
+      {
+        "preceding_context_summary": "A student identifies two book-based examples—Amir judging the Polish woman and Anna judging Kim—as instances of prejudice.",
+        "instance_id": "2",
+        "quote": "Exactly. Those are two excellent examples of prejudice and sea books.",
+        "following_context_summary": "The teacher unpacks why each example fits the definition of prejudice, connecting student evidence to core concepts.",
+        "post_quote_description": "The teacher explicitly praises evidence-based literary analysis, reinforcing accurate application of a key concept to text examples."
+      },
+      {
+        "preceding_context_summary": "During 'influence,' a student explains that Leona took a bag of garbage to the health department to get the lot cleaned.",
+        "instance_id": "5",
+        "quote": "So she influenced the health department using a pretty cool trick.",
+        "following_context_summary": "The teacher extends the idea to how that action then influenced others to join the garden, highlighting a chain of cause and effect.",
+        "post_quote_description": "This praise highlights strategic reasoning tied to vocabulary and text, reinforcing both conceptual understanding and textual evidence use."
+      }
+    ],
+    "rationale": "These 3 Academic-Specific Praise exemplars were chosen together because they each target students’ academic moves: noticing grammatical structure (#1), citing accurate textual evidence (#2), and explaining causal reasoning in context (#5). They span language analysis, literary interpretation, and concept application, providing diverse, content-rich models of how to praise academic thinking."
+  },
+  "behavior_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "After a student shares a haphazard example, the teacher asks students to raise hands before contributing; Gracia complies promptly.",
+        "instance_id": "1",
+        "quote": "Thank you, Gracia.",
+        "following_context_summary": "Another student speaks and the teacher channels the contribution back to the whole-class idea of the garden becoming haphazard.",
+        "post_quote_description": "This brief, targeted acknowledgment reinforces following directions (hand-raising) and models attentive participation norms."
+      },
+      {
+        "preceding_context_summary": "Following the explanation of 'wilt,' the teacher asks for thumbs up to confirm students have written the definition; several students signal readiness.",
+        "instance_id": "2",
+        "quote": "Thank you, Sam. Thank you, Isabella. Thank you, Isabella. Thank you, Jonathan. Thank you.",
+        "following_context_summary": "The class shifts to a side question about hybridization, and the teacher provides a quick explanation before moving on.",
+        "post_quote_description": "By naming multiple students for meeting expectations, the teacher amplifies on-task behaviors and creates positive momentum for the group."
+      }
+    ],
+    "rationale": "These 3 Behavior-Specific Praise exemplars were chosen together because they show precise reinforcement of classroom routines—hand-raising and signaling readiness with thumbs up—applied in real time to keep the lesson moving. Note: Only two instances of behavior-specific praise were present in the transcript, and both were included to accurately reflect available evidence."
+  },
+  "prompt_used": "praise",
+  "transcript_id": "136547",
+  "processing_timestamp": "2025-09-17T17:56:29.985362",
+  "model_used": "gpt-5",
+  "transcript_length": 75013
+}

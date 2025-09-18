@@ -1,0 +1,78 @@
+{
+  "praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "A student shares about making new friends after the teacher asks if anyone has made new friends, mentioning playing with someone named Big Bird.",
+        "instance_id": "1",
+        "quote": "Yes. You guys have become really nice friends. I saw you guys playing at recess.",
+        "following_context_summary": "The teacher invites the student to play and leads a brief discussion about how inviting someone to play is a way to be a good friend; students agree and engage.",
+        "post_quote_description": "This praise validates positive peer relationships with concrete evidence, encouraging inclusive social behavior that supports a positive learning climate."
+      },
+      {
+        "preceding_context_summary": "A student asserts that the character is 'frustrated' while discussing how Bear feels during the story.",
+        "instance_id": "12",
+        "quote": "Ooh, frustrated is a good word. Which. Frustrated is like a little bit sad and a little bit mad, Right? That's a really great word for saying that.",
+        "following_context_summary": "The student echoes the term and the teacher continues the discussion, connecting the vocabulary to the student’s drawing of the character’s feelings.",
+        "post_quote_description": "This moment celebrates precise vocabulary and expands understanding, reinforcing academic language use and boosting students’ confidence to share ideas."
+      },
+      {
+        "preceding_context_summary": "After the class discusses the word 'frustrated,' a student shows a drawing representing the character’s emotions.",
+        "instance_id": "13",
+        "quote": "I like that you drew his picture a little bit different. You're showing me he's mad and frustrated.",
+        "following_context_summary": "The student continues working as the teacher prepares to help write the word 'frustrated' to match the picture.",
+        "post_quote_description": "This praise highlights the student’s representational choices, reinforcing the connection between thinking and illustrating to communicate ideas."
+      }
+    ],
+    "rationale": "These 3 praise exemplars were chosen together because they showcase a diverse range of positive acknowledgments: building classroom community with evidence (recess friendship), elevating precise language use (frustrated), and affirming strategic representation in student work (drawing emotions). Collectively, they model specific, meaningful praise that promotes engagement, belonging, and academic risk-taking."
+  },
+  "academic_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "A student labels the character’s emotion as 'frustrated' during a discussion of the story.",
+        "instance_id": "1",
+        "quote": "Ooh, frustrated is a good word. Which. Frustrated is like a little bit sad and a little bit mad, Right? That's a really great word for saying that.",
+        "following_context_summary": "The student repeats the term, and the teacher continues to connect it to the student’s work on representing feelings.",
+        "post_quote_description": "By explicitly naming and defining a precise emotion word, the teacher reinforces academic vocabulary and supports deeper comprehension."
+      },
+      {
+        "preceding_context_summary": "After acknowledging the term 'frustrated,' the student shares a drawing that differentiates how the character feels.",
+        "instance_id": "2",
+        "quote": "I like that you drew his picture a little bit different. You're showing me he's mad and frustrated.",
+        "following_context_summary": "The student remains engaged, and the teacher moves to help write the matching word to align text with the picture.",
+        "post_quote_description": "This praise targets the academic process of representing ideas through visuals, strengthening the link between evidence in illustrations and language."
+      }
+    ],
+    "rationale": "These 2 academic-specific praise exemplars were chosen together because they emphasize both precision in vocabulary and the process of representing complex emotions in student work. They model how to acknowledge thinking and strategy use, encouraging students to use accurate language and align text with visuals. (Only two academic-specific instances were available.)"
+  },
+  "behavior_specific_praise": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students are sharing reasons why Bear feels sad and grumpy; the teacher prompts for attention with 'Eyeballs here.'",
+        "instance_id": "2",
+        "quote": "Oh, Johanna is raising her hands really nicely. I really appreciate how she's sitting on her pockets. Her eyes are on the learning the whole time, and she's nice and quiet.",
+        "following_context_summary": "More students begin raising hands, and the teacher notes Solomon’s hand as well, reinforcing the norm.",
+        "post_quote_description": "This detailed narration of expected behaviors (hand-raising, posture, eyes on learning, quiet) clearly teaches and reinforces participation norms."
+      },
+      {
+        "preceding_context_summary": "The teacher redirects students to use regular pencils, write names, and begin their drawings.",
+        "instance_id": "3",
+        "quote": "Oh, I see that Gabriel is raising his hand so nicely. So I'm gonna go check out what Gabriel needs so I can tell he's getting my attention by following the directions.",
+        "following_context_summary": "The class settles as the teacher prepares to check in with Gabriel, then assists another student with a pencil.",
+        "post_quote_description": "By linking attention to following directions, the teacher positively reinforces the specific pathway to get help, promoting orderly help-seeking."
+      },
+      {
+        "preceding_context_summary": "As the teacher circulates, students write names and draw; one student is reminded to finish writing their name while Matias waits.",
+        "instance_id": "4",
+        "quote": "Matias has been waiting so patiently.",
+        "following_context_summary": "The teacher turns to Matias and advances his work with prompts about how the bear feels first and next.",
+        "post_quote_description": "This affirmation of patience reinforces self-regulation and turn-taking, encouraging students to wait appropriately for help."
+      }
+    ],
+    "rationale": "These 3 behavior-specific praise exemplars were chosen together because they capture a range of high-leverage norms: attentive participation (hand-raising with posture and eye focus), following directions to request help, and patient waiting. Each offers concrete, observable behaviors students can emulate, strengthening classroom routines and maximizing learning time."
+  },
+  "prompt_used": "praise",
+  "transcript_id": "136608",
+  "processing_timestamp": "2025-09-17T23:44:47.497482",
+  "model_used": "gpt-5",
+  "transcript_length": 26648
+}

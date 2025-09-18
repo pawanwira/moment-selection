@@ -1,0 +1,111 @@
+{
+  "otr": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students and the teacher clarified the definition of prejudice, with a student offering 'unfair judgment' and the class echoing key parts.",
+        "instance_id": "8",
+        "quote": "What are some characters or actions characters took that were prejudice?",
+        "following_context_summary": "Students ask for clarification about whether to name those who judge or those judged, and then begin offering examples from the text that the teacher builds on.",
+        "post_quote_description": "This whole-class prompt shifts from defining prejudice to applying it to Seedfolks, inviting multiple text-based examples and setting up rich discussion."
+      },
+      {
+        "preceding_context_summary": "After defining haphazard together, a student provided the definition and the teacher elaborated about lack of plan and organization.",
+        "instance_id": "53",
+        "quote": "So what is something in Seaboaks that was haphazard or looked haphazard?",
+        "following_context_summary": "A student cites pumpkin vines spilling into other plots as evidence; the teacher probes further and acknowledges examples from multiple students.",
+        "post_quote_description": "This question elicits concrete evidence from the novel to connect a vocabulary concept to plot details, promoting precise text-to-concept application."
+      },
+      {
+        "preceding_context_summary": "The class discussed how the garden was described as paradise and explored the term’s meaning and origins.",
+        "instance_id": "69",
+        "quote": "Derek, what happens?",
+        "following_context_summary": "Derek explains how people self-isolated by groups, leading the teacher to paraphrase and invite another student to add on.",
+        "post_quote_description": "By directing a student to narrate the shift from 'paradise' to 'Babel,' the teacher prompts a concise, text-grounded explanation that advances theme analysis."
+      }
+    ],
+    "rationale": "These 3 OTR exemplars were chosen together because they show the teacher inviting verbal responses that move from definition to application (#8), connect vocabulary to textual evidence (#53), and elicit concise plot/theme analysis (#69). Together they offer varied contexts (concept building, vocab-in-text, theme tracking), feature meaningful student reasoning, and strongly align to the lesson’s focus on analyzing prejudice and key concepts in Seedfolks."
+  },
+  "oeq": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Isabella restated the question and explained Anna’s thinking; the teacher affirmed and turned to another student for deeper analysis.",
+        "instance_id": "3",
+        "quote": "What was the prejudging that she was doing and how did that make her prejudiced against him?",
+        "following_context_summary": "After a brief pause, the student offers a multi-part explanation about how traumatic experiences shaped judging the outside world; the teacher adds nuance distinguishing trauma responses from prejudice.",
+        "post_quote_description": "This open-ended prompt demands students explain mechanisms of prejudging and its effects, eliciting extended reasoning and careful distinctions central to the unit goal."
+      },
+      {
+        "preceding_context_summary": "Students discussed how the garden initially seemed like paradise, and one student noted the role of collaboration and the word’s origin.",
+        "instance_id": "16",
+        "quote": "Derek, what happens?",
+        "following_context_summary": "Derek gives a detailed account of how groups self-segregated by background, prompting teacher synthesis and another student contribution.",
+        "post_quote_description": "This question requires a narrative explanation of a complex shift in perspective, pushing students to analyze evolving social dynamics in the text."
+      },
+      {
+        "preceding_context_summary": "The class identified a caterpillar, butterfly, and cocoon in an image and discussed the idea of transformation.",
+        "instance_id": "19",
+        "quote": "How does that mean, transform?",
+        "following_context_summary": "A student provides a thorough, step-by-step explanation of metamorphosis, and the teacher affirms and connects the idea back to the garden’s transformation.",
+        "post_quote_description": "By asking students to justify why the image exemplifies transformation, the teacher elicits high-cognitive-demand explanation and concept transfer to the novel."
+      }
+    ],
+    "rationale": "These 3 OEQ exemplars were chosen together because they each require multi-sentence, higher-order thinking: explaining prejudging mechanisms (#3), analyzing a thematic shift in the garden’s meaning (#16), and justifying how an image demonstrates transformation (#19). They span literary analysis, theme development, and cross-domain conceptual reasoning, offering varied, rich opportunities for students to articulate and extend their thinking."
+  },
+  "press": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "A student offered two examples of prejudice from the text (Amir and Anna), and the teacher validated the choices.",
+        "instance_id": "1",
+        "quote": "the reason that Anna used",
+        "following_context_summary": "The student explains Anna’s reasoning using concrete details (e.g., making inferences from a knife and fingerprints), and the teacher synthesizes how Anna judged Kim and the neighborhood.",
+        "post_quote_description": "This prompt presses the student to unpack Anna’s thought process, shifting from naming an example to explaining the reasoning behind the character’s judgment."
+      },
+      {
+        "preceding_context_summary": "Students identified Leona as influential in cleaning the lot; the teacher paused to allow thinking before following up.",
+        "instance_id": "3",
+        "quote": "to get it clean? How did she get the garbage removed?",
+        "following_context_summary": "A student details Leona’s tactic of taking a bag of trash to the health department, and the teacher labels it as an influence strategy.",
+        "post_quote_description": "The teacher’s follow-up pushes for procedural causality, prompting students to explain the specific actions that produced change in the text."
+      },
+      {
+        "preceding_context_summary": "The class named elements in the transformation image (caterpillar, cocoon, butterfly) but had not yet articulated why it demonstrates transformation.",
+        "instance_id": "6",
+        "quote": "How does that mean, transform?",
+        "following_context_summary": "A student provides a full explanation of metamorphosis from caterpillar to butterfly, which the teacher affirms and connects back to the novel.",
+        "post_quote_description": "This press focuses students on explaining the underlying process, elevating responses from labeling to reasoning that clarifies conceptual understanding."
+      }
+    ],
+    "rationale": "These 3 Press exemplars were chosen together because they show the teacher consistently prompting for students’ thinking processes: explaining a character’s reasoning (#1), detailing cause-and-effect actions in the plot (#3), and justifying a conceptual example (#6). Collectively, they demonstrate pressing in literary analysis and conceptual understanding, resulting in richer, more explicit student reasoning."
+  },
+  "wait_time": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Nikolai identified Leona as influential after the class defined influence.",
+        "instance_id": "1",
+        "quote": "Now that the garden was clean, what influence did Leona have to get",
+        "following_context_summary": "After the pause, a student begins answering, and the teacher follows with a focused press about how the garbage was removed, leading to a complete explanation.",
+        "post_quote_description": "The teacher’s pause gives space for students to recall and organize details before articulating how Leona leveraged influence to clean the lot."
+      },
+      {
+        "preceding_context_summary": "The class was locating evidence about Kim’s vow, with some uncertainty about where to find the exact wording.",
+        "instance_id": "3",
+        "quote": "What did she bow?",
+        "following_context_summary": "After several seconds of silence, the teacher redirects to a specific student and page, moving the class toward the textual answer.",
+        "post_quote_description": "The wait time signals that the teacher expects students to search text-based evidence independently before providing additional support."
+      },
+      {
+        "preceding_context_summary": "The teacher called on Derek to identify what Kim vowed, aiming for the exact wording from the text.",
+        "instance_id": "4",
+        "quote": "Part of speech for me Derek, what did she bow?",
+        "following_context_summary": "Derek begins to respond, consults the text, and the teacher helps finish the quotation, then checks understanding of ‘thrive.’",
+        "post_quote_description": "By pausing after calling on an individual, the teacher provides processing time that supports retrieval and text-referencing before scaffolding the precise language."
+      }
+    ],
+    "rationale": "These 3 Wait Time exemplars were chosen together because they capture purposeful pauses in whole-class and individual questioning: recalling procedural details about influence (#1), encouraging text search for exact language (#3), and allowing a student time to retrieve and verify evidence (#4). Together they illustrate how wait time supports accuracy, independence, and fuller responses."
+  },
+  "prompt_used": "otr",
+  "transcript_id": "136547",
+  "processing_timestamp": "2025-09-17T17:55:26.575228",
+  "model_used": "gpt-5",
+  "transcript_length": 80818
+}

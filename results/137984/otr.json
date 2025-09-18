@@ -1,0 +1,104 @@
+{
+  "otr": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students had just brainstormed possible hook techniques after the teacher reviewed narrative hooks; a few students offered ideas like \"question\" and \"surprising,\" and the teacher prompted the class to think quietly.",
+        "instance_id": "5",
+        "quote": "If I raise a hand, what's another one?",
+        "following_context_summary": "The class sat in silence for several seconds before a student tentatively offered an idea; after additional wait time and a hint from the teacher, another student supplied \"Action,\" moving the list forward.",
+        "post_quote_description": "This prompt efficiently invites whole-class participation and, paired with wait time, draws out additional hook techniques aligned to the lesson goal."
+      },
+      {
+        "preceding_context_summary": "After students performed a short read-aloud of the Captain America script, the teacher wrapped the scene and signaled the transition from reading to analysis.",
+        "instance_id": "16",
+        "quote": "What do we think?",
+        "following_context_summary": "A student answered \"Ominous,\" and the teacher immediately pressed for reasoning, which led to a brief exchange about how limited information creates an ominous tone.",
+        "post_quote_description": "This broad invitation opens space for multiple interpretations and leads directly into evidence-based discussion of hook techniques."
+      },
+      {
+        "preceding_context_summary": "Following a narrated summary of Knives Out’s opening, students identified several hooks (question, unusual, ominous) and debated whether action and high stakes applied.",
+        "instance_id": "21",
+        "quote": "Are the stakes gone now because he's dead?",
+        "following_context_summary": "A student argued that stakes remain because the killer could still be at large, prompting the teacher to affirm and continue consolidating the class’s list of hooks.",
+        "post_quote_description": "By posing a provocative check-for-understanding question, the teacher elicits reasoned student justification about the 'high stakes' hook."
+      }
+    ],
+    "rationale": "These three OTR moments represent a strong range of participation structures: a whole-class prompt paired with wait time to elicit more ideas (OTR #5), an open invitation to interpret a text right after reading (OTR #16), and a targeted conceptual check that spurs argumentation about ‘stakes’ (OTR #21). Together, they show the teacher eliciting responses to build a class-generated list of hook techniques while keeping students anchored in the lesson objective."
+  },
+  "oeq": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Students had just finished writing 1–2 sentence summaries of the Uncharted opening and were ready to shift from summarizing to analyzing techniques.",
+        "instance_id": "4",
+        "quote": "Now that you've written your summary, what techniques do they use?",
+        "following_context_summary": "Students proposed options like action, in medias res, and high stakes; the teacher followed up by asking how the ‘question’ hook showed up, deepening the analysis.",
+        "post_quote_description": "This open-ended prompt moves students from recall to analysis by asking them to identify and justify narrative hooks present in the clip."
+      },
+      {
+        "preceding_context_summary": "During discussion of The Incredibles intro, a student agreed that the opening leaves viewers with questions, and the teacher aimed to surface specific examples.",
+        "instance_id": "15",
+        "quote": "Okay, like what?",
+        "following_context_summary": "Students volunteered concrete questions viewers might have, and the teacher affirmed and connected them back to the ‘question’ hook.",
+        "post_quote_description": "By asking for specific examples, the teacher elicits higher-order thinking that clarifies what makes a ‘question’ hook effective."
+      },
+      {
+        "preceding_context_summary": "After the Stranger Things intro, the teacher called on Maddox to name hook techniques; he answered \"Unusual,\" prompting the teacher to seek elaboration.",
+        "instance_id": "31",
+        "quote": "Maddox, explain.",
+        "following_context_summary": "Maddox explained that it starts in a lab at night with flashing lights and someone running, and the teacher used his explanation to build toward additional techniques with the class.",
+        "post_quote_description": "This request for elaboration leads to a detailed student explanation that links concrete scene elements to the abstract idea of ‘unusual’ hooks."
+      }
+    ],
+    "rationale": "These OEQ moments require students to generate, justify, and exemplify ideas rather than recall a single correct answer. They span different texts (Uncharted, The Incredibles, Stranger Things) and progressively raise the cognitive demand: identifying techniques (OEQ #4), producing specific audience questions (OEQ #15), and articulating why details count as ‘unusual’ (OEQ #31). Together, they foreground reasoning about how narrative openings work."
+  },
+  "press": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "Right after students suggested several hooks for Uncharted, the teacher probed for how the ‘question’ hook shows up in that opening.",
+        "instance_id": "1",
+        "quote": "question. How?",
+        "following_context_summary": "A student responded about the situation, and the teacher revoiced the core question—\"How the crap did he get there?\"—to crystallize the class’s understanding.",
+        "post_quote_description": "This concise press prompts students to unpack their claim by articulating the specific question the opening raises for viewers."
+      },
+      {
+        "preceding_context_summary": "In The Incredibles discussion, a student agreed the intro leaves viewers with questions, and the teacher sought to move from general agreement to concrete reasoning.",
+        "instance_id": "7",
+        "quote": "Okay, like what?",
+        "following_context_summary": "Students provided examples of questions the scene provokes, and the teacher affirmed and connected back to the technique list.",
+        "post_quote_description": "Asking for examples presses students to make their thinking visible and grounds a general claim in specific textual evidence."
+      },
+      {
+        "preceding_context_summary": "During Maze Runner analysis, a student named ‘in medias res’ as a hook technique, and the teacher challenged the class to justify that label.",
+        "instance_id": "16",
+        "quote": "And media res. Explain",
+        "following_context_summary": "A student explained that the character wakes up in a box with no context, demonstrating understanding of the technique and its effect.",
+        "post_quote_description": "This prompt explicitly requests the student’s reasoning process, turning a named term into an explained concept applied to the text."
+      }
+    ],
+    "rationale": "Across three texts, these presses move students beyond naming to explaining: identifying the exact viewer question (PRESS #1), generating concrete examples (PRESS #7), and articulating the rationale behind labeling a scene ‘in medias res’ (PRESS #16). Together they exemplify sustained attention to students’ thinking processes and strengthen conceptual understanding of narrative hooks."
+  },
+  "wait_time": {
+    "exemplars": [
+      {
+        "preceding_context_summary": "After several students suggested hooks and brief teacher guidance, the teacher invited another contribution to the list.",
+        "instance_id": "1",
+        "quote": "If I raise a hand, what's another one?",
+        "following_context_summary": "The class sat quietly for nearly four seconds before a student ventured a response, which eventually led to identifying “Action” as a key technique.",
+        "post_quote_description": "The deliberate pause allows multiple students time to think, resulting in a substantive contribution that advanced the class list."
+      },
+      {
+        "preceding_context_summary": "Following the Incredibles segment, the teacher asked students to summarize the interview topic to focus their written summaries.",
+        "instance_id": "2",
+        "quote": "Tell me what they were talking about,",
+        "following_context_summary": "After a 2.6-second pause, the teacher provided a scaffold and rephrased the prompt by asking who was in the interview, helping students re-engage productively.",
+        "post_quote_description": "The teacher waits to give students processing time and then strategically rephrases to support access without removing the cognitive demand."
+      }
+    ],
+    "rationale": "Only two Wait Time instances were annotated in the transcript; both show purposeful pauses immediately after an opportunity to respond, with one leading to a student-generated technique (WAIT TIME #1) and the other followed by a supportive rephrase (WAIT TIME #2). Together, they illustrate intentional pacing to promote student thinking and participation."
+  },
+  "prompt_used": "otr",
+  "transcript_id": "137984",
+  "processing_timestamp": "2025-09-17T17:57:55.401478",
+  "model_used": "gpt-5",
+  "transcript_length": 62170
+}
